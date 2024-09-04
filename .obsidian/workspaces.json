@@ -1,0 +1,264 @@
+{
+  "workspaces": {
+    "Notes + Local Graph": {
+      "main": {
+        "id": "437e370064aa0681",
+        "type": "split",
+        "children": [
+          {
+            "id": "c8b5ad0a57dcdd40",
+            "type": "tabs",
+            "dimension": 61.21212121212121,
+            "children": [
+              {
+                "id": "3ae41d2ba9aafbfb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Physics/Electricity/conductivity.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "afb0bc134adafc8b"
+              }
+            ]
+          },
+          {
+            "id": "8e08f9d950224e92",
+            "type": "tabs",
+            "dimension": 38.787878787878796,
+            "children": [
+              {
+                "id": "070cfc6eb79a2634",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Physics/Electricity/conductivity.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.8957021943449871,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "afb0bc134adafc8b"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "61df105bd3cab8a1",
+        "type": "split",
+        "children": [
+          {
+            "id": "0a3e4bad790e251a",
+            "type": "tabs",
+            "dimension": 78.76857749469214,
+            "children": [
+              {
+                "id": "a86f7d630a9f5879",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e8ea79c2d5ff55cc",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "28cce0ba99231c3c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "af89547083dd7786",
+            "type": "tabs",
+            "dimension": 21.23142250530786,
+            "children": [
+              {
+                "id": "b7c9f80bb7e56a4b",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "99d65ab4e89d09dc",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d391c4e156e6620",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7f0cd1c38da22d81",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "82eb11b659c12879",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Physics/Electricity/conductivity.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "b6d7d9034f9917f0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Physics/Electricity/conductivity.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9c57fe571768118a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Physics/Electricity/conductivity.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "5ff3b68072063d2b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Physics/Electricity/conductivity.md"
+                  }
+                }
+              },
+              {
+                "id": "203a0b797ce53f3b",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "command-palette:Open command palette": true,
+          "janitor:Janitor: scan vault": true,
+          "random-note:Open random note": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "obsidian-bible-reference:Bible Verse Lookup": true,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "3ae41d2ba9aafbfb"
+    }
+  },
+  "active": "Notes + Local Graph"
+}

@@ -1,0 +1,361 @@
+{
+  "main": {
+    "id": "437e370064aa0681",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b5ad0a57dcdd40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "023f0c553a2ecfec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "77940efe20b0fe10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4337de89d65637b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c1e1c095a3527a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3800df5a08e9932e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fdd6b59a4c73412",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "83c69d4a7a47078f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "63469675a050a39e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9019de2732e06768",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0b6e003b1669340",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "863a187bd362f382",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "90fade892e522c30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "31dff19922dde93d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61df105bd3cab8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3e4bad790e251a",
+        "type": "tabs",
+        "dimension": 77.728285077951,
+        "children": [
+          {
+            "id": "a86f7d630a9f5879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8ea79c2d5ff55cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3776343f45759574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c24612663afc646b",
+        "type": "tabs",
+        "dimension": 22.271714922049,
+        "children": [
+          {
+            "id": "ed3f0d1362cda7c8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "99d65ab4e89d09dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d391c4e156e6620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0cd1c38da22d81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "82eb11b659c12879",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "b6d7d9034f9917f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c57fe571768118a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ff3b68072063d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "203a0b797ce53f3b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f55e99bedb9a33e7",
+            "type": "leaf",
+            "state": {
+              "type": "pending-notes:main",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": true,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-pending-notes:Pending Notes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3776343f45759574",
+  "lastOpenFiles": [
+    "remote",
+    "Unsorted/blog article 1.md",
+    "Unsorted/derivative.md",
+    "Unsorted/limit.md",
+    "Unsorted/continuous.md",
+    "Unsorted/power rule.md",
+    "Unsorted/Gottfried Wilhelm Leibniz.md",
+    "Unsorted/Sir Isaac Newton.md",
+    "Unsorted/Joseph-Louis Lagrange.md",
+    "Unsorted/intermediate value theorem.md",
+    "Attachments/Pasted image 20240813094944.png",
+    "Attachments/Pasted image 20240813093945.png",
+    "Attachments/Pasted image 20240813093842.png",
+    "Attachments/Pasted image 20240813093624.png",
+    "Philosophy/value.md",
+    "Math/Algebra/vector.md",
+    "Math/Analysis/square root.md",
+    "Math/Algebra/scalar.md",
+    "Math/Geometry/midline.md",
+    "Math/Algebra/period.md",
+    "Math/Mathematical Logic/inverse function.md",
+    "Math/Algebra/dot product.md",
+    "Math/Algebra/cross product.md",
+    "Math/Mathematical Logic/function.md",
+    "Math/Geometry/coordinate system.md",
+    "Math/Geometry/cotangent.md",
+    "Math/Mathematical Logic/composite function.md",
+    "Physics/amplitude.md",
+    "Math/Geometry/cofunction.md",
+    "Math/Applied Mathematics/Statistics/10% rule.md",
+    "Math/Applied Mathematics/Statistics",
+    "Math/Analysis/Calculus",
+    "Math/Foundations/Set Theory",
+    "Math/Foundations/Mathematical Logic",
+    "Math/History of Math/Set",
+    "Math/History of Math",
+    "Math/General/History of Math",
+    "Math/General",
+    "Elementary Algebra",
+    "Math/Mathematical Logic",
+    "Attachments/Pasted image 20240719190915.png",
+    "Attachments/Pasted image 20240711151025.png",
+    "Attachments/Pasted image 20240711151023.png",
+    "Attachments/Pasted image 20240709114847.png",
+    "Attachments/Pasted image 20240709114635.png",
+    "Attachments/Pasted image 20240709114214.png",
+    "Formatting_Cheatsheet.canvas",
+    "Untitled.canvas"
+  ]
+}
