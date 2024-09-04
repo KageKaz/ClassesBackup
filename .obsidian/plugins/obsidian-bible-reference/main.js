@@ -1646,9 +1646,9 @@ var require_BigInteger = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/hashing/index.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/hashing/index.js
 var require_hashing = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/hashing/index.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/hashing/index.js"(exports) {
     "use strict";
     var __importDefault = exports && exports.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
@@ -1704,9 +1704,9 @@ var require_hashing = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/constants.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/constants.js
 var require_constants = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/constants.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/constants.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.CONDITION_OPERATORS = exports.IN = exports.MODULO = exports.IS_NOT_SET = exports.IS_SET = exports.PERCENTAGE_SPLIT = exports.REGEX = exports.NOT_EQUAL = exports.NOT_CONTAINS = exports.GREATER_THAN_INCLUSIVE = exports.CONTAINS = exports.LESS_THAN_INCLUSIVE = exports.LESS_THAN = exports.GREATER_THAN = exports.EQUAL = exports.RULE_TYPES = exports.NONE_RULE = exports.ANY_RULE = exports.ALL_RULE = void 0;
@@ -1747,9 +1747,9 @@ var require_constants = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/evaluators.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/evaluators.js
 var require_evaluators = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/evaluators.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/evaluators.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.traitsMatchSegmentCondition = exports.evaluateIdentityInSegment = exports.getIdentitySegments = void 0;
@@ -1795,9 +1795,9 @@ var require_evaluators = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/errors.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/errors.js
 var require_errors = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/errors.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/errors.js"(exports) {
     "use strict";
     var __extends = exports && exports.__extends || function() {
       var extendStatics = function(d, b) {
@@ -1836,9 +1836,9 @@ var require_errors = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/models.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/models.js
 var require_models = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/models.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/models.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.EnvironmentModel = exports.EnvironmentAPIKeyModel = void 0;
@@ -1866,6 +1866,7 @@ var require_models = __commonJS({
       function() {
         function EnvironmentModel2(id, apiKey, project) {
           this.featureStates = [];
+          this.identityOverrides = [];
           this.id = id;
           this.apiKey = apiKey;
           this.project = project;
@@ -1874,26 +1875,6 @@ var require_models = __commonJS({
       }()
     );
     exports.EnvironmentModel = EnvironmentModel;
-  }
-});
-
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/integrations/models.js
-var require_models2 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/integrations/models.js"(exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    exports.IntegrationModel = void 0;
-    var IntegrationModel = (
-      /** @class */
-      function() {
-        function IntegrationModel2() {
-          this.api_key = void 0;
-          this.base_url = void 0;
-        }
-        return IntegrationModel2;
-      }()
-    );
-    exports.IntegrationModel = IntegrationModel;
   }
 });
 
@@ -2425,9 +2406,9 @@ var init_esm_browser = __esm({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/models.js
-var require_models3 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/models.js
+var require_models2 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/models.js"(exports) {
     "use strict";
     var __values = exports && exports.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -2576,9 +2557,9 @@ var require_models3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/collections.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/collections.js
 var require_collections = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/collections.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/collections.js"(exports) {
     "use strict";
     var __extends = exports && exports.__extends || function() {
       var extendStatics = function(d, b) {
@@ -2617,9 +2598,9 @@ var require_collections = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/models.js
-var require_models4 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/models.js
+var require_models3 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/models.js"(exports) {
     "use strict";
     var __read = exports && exports.__read || function(o, n) {
       var m = typeof Symbol === "function" && o[Symbol.iterator];
@@ -2757,9 +2738,9 @@ var require_models4 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/traits/models.js
-var require_models5 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/traits/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/traits/models.js
+var require_models4 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/traits/models.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.TraitModel = void 0;
@@ -2777,9 +2758,9 @@ var require_models5 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/constants.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/constants.js
 var require_constants2 = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/constants.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/constants.js"(exports, module2) {
     var SEMVER_SPEC_VERSION = "2.0.0";
     var MAX_LENGTH = 256;
     var MAX_SAFE_INTEGER = Number.MAX_SAFE_INTEGER || /* istanbul ignore next */
@@ -2808,18 +2789,18 @@ var require_constants2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/debug.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/debug.js
 var require_debug = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/debug.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/debug.js"(exports, module2) {
     var debug = typeof process === "object" && process.env && process.env.NODE_DEBUG && /\bsemver\b/i.test(process.env.NODE_DEBUG) ? (...args) => console.error("SEMVER", ...args) : () => {
     };
     module2.exports = debug;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/re.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/re.js
 var require_re = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/re.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/re.js"(exports, module2) {
     var {
       MAX_SAFE_COMPONENT_LENGTH,
       MAX_SAFE_BUILD_LENGTH,
@@ -2902,9 +2883,9 @@ var require_re = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/parse-options.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/parse-options.js
 var require_parse_options = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/parse-options.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/parse-options.js"(exports, module2) {
     var looseOption = Object.freeze({ loose: true });
     var emptyOpts = Object.freeze({});
     var parseOptions = (options) => {
@@ -2920,9 +2901,9 @@ var require_parse_options = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/identifiers.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/identifiers.js
 var require_identifiers = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/internal/identifiers.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/identifiers.js"(exports, module2) {
     var numeric = /^[0-9]+$/;
     var compareIdentifiers = (a, b) => {
       const anum = numeric.test(a);
@@ -2941,9 +2922,9 @@ var require_identifiers = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/classes/semver.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/classes/semver.js
 var require_semver = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/classes/semver.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/classes/semver.js"(exports, module2) {
     var debug = require_debug();
     var { MAX_LENGTH, MAX_SAFE_INTEGER } = require_constants2();
     var { safeRe: re, t } = require_re();
@@ -3069,7 +3050,7 @@ var require_semver = __commonJS({
         do {
           const a = this.build[i];
           const b = other.build[i];
-          debug("prerelease compare", i, a, b);
+          debug("build compare", i, a, b);
           if (a === void 0 && b === void 0) {
             return 0;
           } else if (b === void 0) {
@@ -3183,9 +3164,9 @@ var require_semver = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/parse.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/parse.js
 var require_parse = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/parse.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/parse.js"(exports, module2) {
     var SemVer = require_semver();
     var parse2 = (version2, options, throwErrors = false) => {
       if (version2 instanceof SemVer) {
@@ -3204,9 +3185,9 @@ var require_parse = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/valid.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/valid.js
 var require_valid = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/valid.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/valid.js"(exports, module2) {
     var parse2 = require_parse();
     var valid = (version2, options) => {
       const v = parse2(version2, options);
@@ -3216,9 +3197,9 @@ var require_valid = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/clean.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/clean.js
 var require_clean = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/clean.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/clean.js"(exports, module2) {
     var parse2 = require_parse();
     var clean = (version2, options) => {
       const s = parse2(version2.trim().replace(/^[=v]+/, ""), options);
@@ -3228,9 +3209,9 @@ var require_clean = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/inc.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/inc.js
 var require_inc = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/inc.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/inc.js"(exports, module2) {
     var SemVer = require_semver();
     var inc = (version2, release, options, identifier, identifierBase) => {
       if (typeof options === "string") {
@@ -3251,9 +3232,9 @@ var require_inc = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/diff.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/diff.js
 var require_diff = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/diff.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/diff.js"(exports, module2) {
     var parse2 = require_parse();
     var diff = (version1, version2) => {
       const v12 = parse2(version1, null, true);
@@ -3295,36 +3276,36 @@ var require_diff = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/major.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/major.js
 var require_major = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/major.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/major.js"(exports, module2) {
     var SemVer = require_semver();
     var major = (a, loose) => new SemVer(a, loose).major;
     module2.exports = major;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/minor.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/minor.js
 var require_minor = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/minor.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/minor.js"(exports, module2) {
     var SemVer = require_semver();
     var minor = (a, loose) => new SemVer(a, loose).minor;
     module2.exports = minor;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/patch.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/patch.js
 var require_patch = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/patch.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/patch.js"(exports, module2) {
     var SemVer = require_semver();
     var patch = (a, loose) => new SemVer(a, loose).patch;
     module2.exports = patch;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/prerelease.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/prerelease.js
 var require_prerelease = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/prerelease.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/prerelease.js"(exports, module2) {
     var parse2 = require_parse();
     var prerelease = (version2, options) => {
       const parsed = parse2(version2, options);
@@ -3334,36 +3315,36 @@ var require_prerelease = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/compare.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/compare.js
 var require_compare = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/compare.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/compare.js"(exports, module2) {
     var SemVer = require_semver();
     var compare = (a, b, loose) => new SemVer(a, loose).compare(new SemVer(b, loose));
     module2.exports = compare;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/rcompare.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/rcompare.js
 var require_rcompare = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/rcompare.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/rcompare.js"(exports, module2) {
     var compare = require_compare();
     var rcompare = (a, b, loose) => compare(b, a, loose);
     module2.exports = rcompare;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/compare-loose.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/compare-loose.js
 var require_compare_loose = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/compare-loose.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/compare-loose.js"(exports, module2) {
     var compare = require_compare();
     var compareLoose = (a, b) => compare(a, b, true);
     module2.exports = compareLoose;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/compare-build.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/compare-build.js
 var require_compare_build = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/compare-build.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/compare-build.js"(exports, module2) {
     var SemVer = require_semver();
     var compareBuild = (a, b, loose) => {
       const versionA = new SemVer(a, loose);
@@ -3374,81 +3355,81 @@ var require_compare_build = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/sort.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/sort.js
 var require_sort = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/sort.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/sort.js"(exports, module2) {
     var compareBuild = require_compare_build();
     var sort = (list, loose) => list.sort((a, b) => compareBuild(a, b, loose));
     module2.exports = sort;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/rsort.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/rsort.js
 var require_rsort = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/rsort.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/rsort.js"(exports, module2) {
     var compareBuild = require_compare_build();
     var rsort = (list, loose) => list.sort((a, b) => compareBuild(b, a, loose));
     module2.exports = rsort;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/gt.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/gt.js
 var require_gt = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/gt.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/gt.js"(exports, module2) {
     var compare = require_compare();
     var gt = (a, b, loose) => compare(a, b, loose) > 0;
     module2.exports = gt;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/lt.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/lt.js
 var require_lt = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/lt.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/lt.js"(exports, module2) {
     var compare = require_compare();
     var lt = (a, b, loose) => compare(a, b, loose) < 0;
     module2.exports = lt;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/eq.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/eq.js
 var require_eq = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/eq.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/eq.js"(exports, module2) {
     var compare = require_compare();
     var eq = (a, b, loose) => compare(a, b, loose) === 0;
     module2.exports = eq;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/neq.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/neq.js
 var require_neq = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/neq.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/neq.js"(exports, module2) {
     var compare = require_compare();
     var neq = (a, b, loose) => compare(a, b, loose) !== 0;
     module2.exports = neq;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/gte.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/gte.js
 var require_gte = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/gte.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/gte.js"(exports, module2) {
     var compare = require_compare();
     var gte = (a, b, loose) => compare(a, b, loose) >= 0;
     module2.exports = gte;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/lte.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/lte.js
 var require_lte = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/lte.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/lte.js"(exports, module2) {
     var compare = require_compare();
     var lte = (a, b, loose) => compare(a, b, loose) <= 0;
     module2.exports = lte;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/cmp.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/cmp.js
 var require_cmp = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/cmp.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/cmp.js"(exports, module2) {
     var eq = require_eq();
     var neq = require_neq();
     var gt = require_gt();
@@ -3495,9 +3476,9 @@ var require_cmp = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/coerce.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/coerce.js
 var require_coerce = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/coerce.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/coerce.js"(exports, module2) {
     var SemVer = require_semver();
     var parse2 = require_parse();
     var { safeRe: re, t } = require_re();
@@ -3540,662 +3521,47 @@ var require_coerce = __commonJS({
   }
 });
 
-// node_modules/.pnpm/yallist@4.0.0/node_modules/yallist/iterator.js
-var require_iterator = __commonJS({
-  "node_modules/.pnpm/yallist@4.0.0/node_modules/yallist/iterator.js"(exports, module2) {
-    "use strict";
-    module2.exports = function(Yallist) {
-      Yallist.prototype[Symbol.iterator] = function* () {
-        for (let walker = this.head; walker; walker = walker.next) {
-          yield walker.value;
-        }
-      };
-    };
-  }
-});
-
-// node_modules/.pnpm/yallist@4.0.0/node_modules/yallist/yallist.js
-var require_yallist = __commonJS({
-  "node_modules/.pnpm/yallist@4.0.0/node_modules/yallist/yallist.js"(exports, module2) {
-    "use strict";
-    module2.exports = Yallist;
-    Yallist.Node = Node;
-    Yallist.create = Yallist;
-    function Yallist(list) {
-      var self2 = this;
-      if (!(self2 instanceof Yallist)) {
-        self2 = new Yallist();
-      }
-      self2.tail = null;
-      self2.head = null;
-      self2.length = 0;
-      if (list && typeof list.forEach === "function") {
-        list.forEach(function(item) {
-          self2.push(item);
-        });
-      } else if (arguments.length > 0) {
-        for (var i = 0, l = arguments.length; i < l; i++) {
-          self2.push(arguments[i]);
-        }
-      }
-      return self2;
-    }
-    Yallist.prototype.removeNode = function(node) {
-      if (node.list !== this) {
-        throw new Error("removing node which does not belong to this list");
-      }
-      var next = node.next;
-      var prev = node.prev;
-      if (next) {
-        next.prev = prev;
-      }
-      if (prev) {
-        prev.next = next;
-      }
-      if (node === this.head) {
-        this.head = next;
-      }
-      if (node === this.tail) {
-        this.tail = prev;
-      }
-      node.list.length--;
-      node.next = null;
-      node.prev = null;
-      node.list = null;
-      return next;
-    };
-    Yallist.prototype.unshiftNode = function(node) {
-      if (node === this.head) {
-        return;
-      }
-      if (node.list) {
-        node.list.removeNode(node);
-      }
-      var head = this.head;
-      node.list = this;
-      node.next = head;
-      if (head) {
-        head.prev = node;
-      }
-      this.head = node;
-      if (!this.tail) {
-        this.tail = node;
-      }
-      this.length++;
-    };
-    Yallist.prototype.pushNode = function(node) {
-      if (node === this.tail) {
-        return;
-      }
-      if (node.list) {
-        node.list.removeNode(node);
-      }
-      var tail = this.tail;
-      node.list = this;
-      node.prev = tail;
-      if (tail) {
-        tail.next = node;
-      }
-      this.tail = node;
-      if (!this.head) {
-        this.head = node;
-      }
-      this.length++;
-    };
-    Yallist.prototype.push = function() {
-      for (var i = 0, l = arguments.length; i < l; i++) {
-        push(this, arguments[i]);
-      }
-      return this.length;
-    };
-    Yallist.prototype.unshift = function() {
-      for (var i = 0, l = arguments.length; i < l; i++) {
-        unshift(this, arguments[i]);
-      }
-      return this.length;
-    };
-    Yallist.prototype.pop = function() {
-      if (!this.tail) {
-        return void 0;
-      }
-      var res = this.tail.value;
-      this.tail = this.tail.prev;
-      if (this.tail) {
-        this.tail.next = null;
-      } else {
-        this.head = null;
-      }
-      this.length--;
-      return res;
-    };
-    Yallist.prototype.shift = function() {
-      if (!this.head) {
-        return void 0;
-      }
-      var res = this.head.value;
-      this.head = this.head.next;
-      if (this.head) {
-        this.head.prev = null;
-      } else {
-        this.tail = null;
-      }
-      this.length--;
-      return res;
-    };
-    Yallist.prototype.forEach = function(fn, thisp) {
-      thisp = thisp || this;
-      for (var walker = this.head, i = 0; walker !== null; i++) {
-        fn.call(thisp, walker.value, i, this);
-        walker = walker.next;
-      }
-    };
-    Yallist.prototype.forEachReverse = function(fn, thisp) {
-      thisp = thisp || this;
-      for (var walker = this.tail, i = this.length - 1; walker !== null; i--) {
-        fn.call(thisp, walker.value, i, this);
-        walker = walker.prev;
-      }
-    };
-    Yallist.prototype.get = function(n) {
-      for (var i = 0, walker = this.head; walker !== null && i < n; i++) {
-        walker = walker.next;
-      }
-      if (i === n && walker !== null) {
-        return walker.value;
-      }
-    };
-    Yallist.prototype.getReverse = function(n) {
-      for (var i = 0, walker = this.tail; walker !== null && i < n; i++) {
-        walker = walker.prev;
-      }
-      if (i === n && walker !== null) {
-        return walker.value;
-      }
-    };
-    Yallist.prototype.map = function(fn, thisp) {
-      thisp = thisp || this;
-      var res = new Yallist();
-      for (var walker = this.head; walker !== null; ) {
-        res.push(fn.call(thisp, walker.value, this));
-        walker = walker.next;
-      }
-      return res;
-    };
-    Yallist.prototype.mapReverse = function(fn, thisp) {
-      thisp = thisp || this;
-      var res = new Yallist();
-      for (var walker = this.tail; walker !== null; ) {
-        res.push(fn.call(thisp, walker.value, this));
-        walker = walker.prev;
-      }
-      return res;
-    };
-    Yallist.prototype.reduce = function(fn, initial) {
-      var acc;
-      var walker = this.head;
-      if (arguments.length > 1) {
-        acc = initial;
-      } else if (this.head) {
-        walker = this.head.next;
-        acc = this.head.value;
-      } else {
-        throw new TypeError("Reduce of empty list with no initial value");
-      }
-      for (var i = 0; walker !== null; i++) {
-        acc = fn(acc, walker.value, i);
-        walker = walker.next;
-      }
-      return acc;
-    };
-    Yallist.prototype.reduceReverse = function(fn, initial) {
-      var acc;
-      var walker = this.tail;
-      if (arguments.length > 1) {
-        acc = initial;
-      } else if (this.tail) {
-        walker = this.tail.prev;
-        acc = this.tail.value;
-      } else {
-        throw new TypeError("Reduce of empty list with no initial value");
-      }
-      for (var i = this.length - 1; walker !== null; i--) {
-        acc = fn(acc, walker.value, i);
-        walker = walker.prev;
-      }
-      return acc;
-    };
-    Yallist.prototype.toArray = function() {
-      var arr = new Array(this.length);
-      for (var i = 0, walker = this.head; walker !== null; i++) {
-        arr[i] = walker.value;
-        walker = walker.next;
-      }
-      return arr;
-    };
-    Yallist.prototype.toArrayReverse = function() {
-      var arr = new Array(this.length);
-      for (var i = 0, walker = this.tail; walker !== null; i++) {
-        arr[i] = walker.value;
-        walker = walker.prev;
-      }
-      return arr;
-    };
-    Yallist.prototype.slice = function(from, to) {
-      to = to || this.length;
-      if (to < 0) {
-        to += this.length;
-      }
-      from = from || 0;
-      if (from < 0) {
-        from += this.length;
-      }
-      var ret = new Yallist();
-      if (to < from || to < 0) {
-        return ret;
-      }
-      if (from < 0) {
-        from = 0;
-      }
-      if (to > this.length) {
-        to = this.length;
-      }
-      for (var i = 0, walker = this.head; walker !== null && i < from; i++) {
-        walker = walker.next;
-      }
-      for (; walker !== null && i < to; i++, walker = walker.next) {
-        ret.push(walker.value);
-      }
-      return ret;
-    };
-    Yallist.prototype.sliceReverse = function(from, to) {
-      to = to || this.length;
-      if (to < 0) {
-        to += this.length;
-      }
-      from = from || 0;
-      if (from < 0) {
-        from += this.length;
-      }
-      var ret = new Yallist();
-      if (to < from || to < 0) {
-        return ret;
-      }
-      if (from < 0) {
-        from = 0;
-      }
-      if (to > this.length) {
-        to = this.length;
-      }
-      for (var i = this.length, walker = this.tail; walker !== null && i > to; i--) {
-        walker = walker.prev;
-      }
-      for (; walker !== null && i > from; i--, walker = walker.prev) {
-        ret.push(walker.value);
-      }
-      return ret;
-    };
-    Yallist.prototype.splice = function(start, deleteCount, ...nodes) {
-      if (start > this.length) {
-        start = this.length - 1;
-      }
-      if (start < 0) {
-        start = this.length + start;
-      }
-      for (var i = 0, walker = this.head; walker !== null && i < start; i++) {
-        walker = walker.next;
-      }
-      var ret = [];
-      for (var i = 0; walker && i < deleteCount; i++) {
-        ret.push(walker.value);
-        walker = this.removeNode(walker);
-      }
-      if (walker === null) {
-        walker = this.tail;
-      }
-      if (walker !== this.head && walker !== this.tail) {
-        walker = walker.prev;
-      }
-      for (var i = 0; i < nodes.length; i++) {
-        walker = insert(this, walker, nodes[i]);
-      }
-      return ret;
-    };
-    Yallist.prototype.reverse = function() {
-      var head = this.head;
-      var tail = this.tail;
-      for (var walker = head; walker !== null; walker = walker.prev) {
-        var p = walker.prev;
-        walker.prev = walker.next;
-        walker.next = p;
-      }
-      this.head = tail;
-      this.tail = head;
-      return this;
-    };
-    function insert(self2, node, value) {
-      var inserted = node === self2.head ? new Node(value, null, node, self2) : new Node(value, node, node.next, self2);
-      if (inserted.next === null) {
-        self2.tail = inserted;
-      }
-      if (inserted.prev === null) {
-        self2.head = inserted;
-      }
-      self2.length++;
-      return inserted;
-    }
-    function push(self2, item) {
-      self2.tail = new Node(item, self2.tail, null, self2);
-      if (!self2.head) {
-        self2.head = self2.tail;
-      }
-      self2.length++;
-    }
-    function unshift(self2, item) {
-      self2.head = new Node(item, null, self2.head, self2);
-      if (!self2.tail) {
-        self2.tail = self2.head;
-      }
-      self2.length++;
-    }
-    function Node(value, prev, next, list) {
-      if (!(this instanceof Node)) {
-        return new Node(value, prev, next, list);
-      }
-      this.list = list;
-      this.value = value;
-      if (prev) {
-        prev.next = this;
-        this.prev = prev;
-      } else {
-        this.prev = null;
-      }
-      if (next) {
-        next.prev = this;
-        this.next = next;
-      } else {
-        this.next = null;
-      }
-    }
-    try {
-      require_iterator()(Yallist);
-    } catch (er) {
-    }
-  }
-});
-
-// node_modules/.pnpm/lru-cache@6.0.0/node_modules/lru-cache/index.js
-var require_lru_cache = __commonJS({
-  "node_modules/.pnpm/lru-cache@6.0.0/node_modules/lru-cache/index.js"(exports, module2) {
-    "use strict";
-    var Yallist = require_yallist();
-    var MAX = Symbol("max");
-    var LENGTH = Symbol("length");
-    var LENGTH_CALCULATOR = Symbol("lengthCalculator");
-    var ALLOW_STALE = Symbol("allowStale");
-    var MAX_AGE = Symbol("maxAge");
-    var DISPOSE = Symbol("dispose");
-    var NO_DISPOSE_ON_SET = Symbol("noDisposeOnSet");
-    var LRU_LIST = Symbol("lruList");
-    var CACHE = Symbol("cache");
-    var UPDATE_AGE_ON_GET = Symbol("updateAgeOnGet");
-    var naiveLength = () => 1;
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/lrucache.js
+var require_lrucache = __commonJS({
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/internal/lrucache.js"(exports, module2) {
     var LRUCache = class {
-      constructor(options) {
-        if (typeof options === "number")
-          options = { max: options };
-        if (!options)
-          options = {};
-        if (options.max && (typeof options.max !== "number" || options.max < 0))
-          throw new TypeError("max must be a non-negative number");
-        const max = this[MAX] = options.max || Infinity;
-        const lc = options.length || naiveLength;
-        this[LENGTH_CALCULATOR] = typeof lc !== "function" ? naiveLength : lc;
-        this[ALLOW_STALE] = options.stale || false;
-        if (options.maxAge && typeof options.maxAge !== "number")
-          throw new TypeError("maxAge must be a number");
-        this[MAX_AGE] = options.maxAge || 0;
-        this[DISPOSE] = options.dispose;
-        this[NO_DISPOSE_ON_SET] = options.noDisposeOnSet || false;
-        this[UPDATE_AGE_ON_GET] = options.updateAgeOnGet || false;
-        this.reset();
-      }
-      // resize the cache when the max changes.
-      set max(mL) {
-        if (typeof mL !== "number" || mL < 0)
-          throw new TypeError("max must be a non-negative number");
-        this[MAX] = mL || Infinity;
-        trim(this);
-      }
-      get max() {
-        return this[MAX];
-      }
-      set allowStale(allowStale) {
-        this[ALLOW_STALE] = !!allowStale;
-      }
-      get allowStale() {
-        return this[ALLOW_STALE];
-      }
-      set maxAge(mA) {
-        if (typeof mA !== "number")
-          throw new TypeError("maxAge must be a non-negative number");
-        this[MAX_AGE] = mA;
-        trim(this);
-      }
-      get maxAge() {
-        return this[MAX_AGE];
-      }
-      // resize the cache when the lengthCalculator changes.
-      set lengthCalculator(lC) {
-        if (typeof lC !== "function")
-          lC = naiveLength;
-        if (lC !== this[LENGTH_CALCULATOR]) {
-          this[LENGTH_CALCULATOR] = lC;
-          this[LENGTH] = 0;
-          this[LRU_LIST].forEach((hit) => {
-            hit.length = this[LENGTH_CALCULATOR](hit.value, hit.key);
-            this[LENGTH] += hit.length;
-          });
-        }
-        trim(this);
-      }
-      get lengthCalculator() {
-        return this[LENGTH_CALCULATOR];
-      }
-      get length() {
-        return this[LENGTH];
-      }
-      get itemCount() {
-        return this[LRU_LIST].length;
-      }
-      rforEach(fn, thisp) {
-        thisp = thisp || this;
-        for (let walker = this[LRU_LIST].tail; walker !== null; ) {
-          const prev = walker.prev;
-          forEachStep(this, fn, walker, thisp);
-          walker = prev;
-        }
-      }
-      forEach(fn, thisp) {
-        thisp = thisp || this;
-        for (let walker = this[LRU_LIST].head; walker !== null; ) {
-          const next = walker.next;
-          forEachStep(this, fn, walker, thisp);
-          walker = next;
-        }
-      }
-      keys() {
-        return this[LRU_LIST].toArray().map((k) => k.key);
-      }
-      values() {
-        return this[LRU_LIST].toArray().map((k) => k.value);
-      }
-      reset() {
-        if (this[DISPOSE] && this[LRU_LIST] && this[LRU_LIST].length) {
-          this[LRU_LIST].forEach((hit) => this[DISPOSE](hit.key, hit.value));
-        }
-        this[CACHE] = /* @__PURE__ */ new Map();
-        this[LRU_LIST] = new Yallist();
-        this[LENGTH] = 0;
-      }
-      dump() {
-        return this[LRU_LIST].map((hit) => isStale(this, hit) ? false : {
-          k: hit.key,
-          v: hit.value,
-          e: hit.now + (hit.maxAge || 0)
-        }).toArray().filter((h) => h);
-      }
-      dumpLru() {
-        return this[LRU_LIST];
-      }
-      set(key, value, maxAge) {
-        maxAge = maxAge || this[MAX_AGE];
-        if (maxAge && typeof maxAge !== "number")
-          throw new TypeError("maxAge must be a number");
-        const now = maxAge ? Date.now() : 0;
-        const len = this[LENGTH_CALCULATOR](value, key);
-        if (this[CACHE].has(key)) {
-          if (len > this[MAX]) {
-            del(this, this[CACHE].get(key));
-            return false;
-          }
-          const node = this[CACHE].get(key);
-          const item = node.value;
-          if (this[DISPOSE]) {
-            if (!this[NO_DISPOSE_ON_SET])
-              this[DISPOSE](key, item.value);
-          }
-          item.now = now;
-          item.maxAge = maxAge;
-          item.value = value;
-          this[LENGTH] += len - item.length;
-          item.length = len;
-          this.get(key);
-          trim(this);
-          return true;
-        }
-        const hit = new Entry(key, value, len, now, maxAge);
-        if (hit.length > this[MAX]) {
-          if (this[DISPOSE])
-            this[DISPOSE](key, value);
-          return false;
-        }
-        this[LENGTH] += hit.length;
-        this[LRU_LIST].unshift(hit);
-        this[CACHE].set(key, this[LRU_LIST].head);
-        trim(this);
-        return true;
-      }
-      has(key) {
-        if (!this[CACHE].has(key))
-          return false;
-        const hit = this[CACHE].get(key).value;
-        return !isStale(this, hit);
+      constructor() {
+        this.max = 1e3;
+        this.map = /* @__PURE__ */ new Map();
       }
       get(key) {
-        return get(this, key, true);
-      }
-      peek(key) {
-        return get(this, key, false);
-      }
-      pop() {
-        const node = this[LRU_LIST].tail;
-        if (!node)
-          return null;
-        del(this, node);
-        return node.value;
-      }
-      del(key) {
-        del(this, this[CACHE].get(key));
-      }
-      load(arr) {
-        this.reset();
-        const now = Date.now();
-        for (let l = arr.length - 1; l >= 0; l--) {
-          const hit = arr[l];
-          const expiresAt = hit.e || 0;
-          if (expiresAt === 0)
-            this.set(hit.k, hit.v);
-          else {
-            const maxAge = expiresAt - now;
-            if (maxAge > 0) {
-              this.set(hit.k, hit.v, maxAge);
-            }
-          }
-        }
-      }
-      prune() {
-        this[CACHE].forEach((value, key) => get(this, key, false));
-      }
-    };
-    var get = (self2, key, doUse) => {
-      const node = self2[CACHE].get(key);
-      if (node) {
-        const hit = node.value;
-        if (isStale(self2, hit)) {
-          del(self2, node);
-          if (!self2[ALLOW_STALE])
-            return void 0;
+        const value = this.map.get(key);
+        if (value === void 0) {
+          return void 0;
         } else {
-          if (doUse) {
-            if (self2[UPDATE_AGE_ON_GET])
-              node.value.now = Date.now();
-            self2[LRU_LIST].unshiftNode(node);
+          this.map.delete(key);
+          this.map.set(key, value);
+          return value;
+        }
+      }
+      delete(key) {
+        return this.map.delete(key);
+      }
+      set(key, value) {
+        const deleted = this.delete(key);
+        if (!deleted && value !== void 0) {
+          if (this.map.size >= this.max) {
+            const firstKey = this.map.keys().next().value;
+            this.delete(firstKey);
           }
+          this.map.set(key, value);
         }
-        return hit.value;
+        return this;
       }
-    };
-    var isStale = (self2, hit) => {
-      if (!hit || !hit.maxAge && !self2[MAX_AGE])
-        return false;
-      const diff = Date.now() - hit.now;
-      return hit.maxAge ? diff > hit.maxAge : self2[MAX_AGE] && diff > self2[MAX_AGE];
-    };
-    var trim = (self2) => {
-      if (self2[LENGTH] > self2[MAX]) {
-        for (let walker = self2[LRU_LIST].tail; self2[LENGTH] > self2[MAX] && walker !== null; ) {
-          const prev = walker.prev;
-          del(self2, walker);
-          walker = prev;
-        }
-      }
-    };
-    var del = (self2, node) => {
-      if (node) {
-        const hit = node.value;
-        if (self2[DISPOSE])
-          self2[DISPOSE](hit.key, hit.value);
-        self2[LENGTH] -= hit.length;
-        self2[CACHE].delete(hit.key);
-        self2[LRU_LIST].removeNode(node);
-      }
-    };
-    var Entry = class {
-      constructor(key, value, length, now, maxAge) {
-        this.key = key;
-        this.value = value;
-        this.length = length;
-        this.now = now;
-        this.maxAge = maxAge || 0;
-      }
-    };
-    var forEachStep = (self2, fn, node, thisp) => {
-      let hit = node.value;
-      if (isStale(self2, hit)) {
-        del(self2, node);
-        if (!self2[ALLOW_STALE])
-          hit = void 0;
-      }
-      if (hit)
-        fn.call(thisp, hit.value, hit.key, self2);
     };
     module2.exports = LRUCache;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/classes/range.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/classes/range.js
 var require_range = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/classes/range.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/classes/range.js"(exports, module2) {
+    var SPACE_CHARACTERS = /\s+/g;
     var Range = class {
       constructor(range, options) {
         options = parseOptions(options);
@@ -4209,13 +3575,13 @@ var require_range = __commonJS({
         if (range instanceof Comparator) {
           this.raw = range.value;
           this.set = [[range]];
-          this.format();
+          this.formatted = void 0;
           return this;
         }
         this.options = options;
         this.loose = !!options.loose;
         this.includePrerelease = !!options.includePrerelease;
-        this.raw = range.trim().split(/\s+/).join(" ");
+        this.raw = range.trim().replace(SPACE_CHARACTERS, " ");
         this.set = this.raw.split("||").map((r) => this.parseRange(r.trim())).filter((c) => c.length);
         if (!this.set.length) {
           throw new TypeError(`Invalid SemVer Range: ${this.raw}`);
@@ -4234,10 +3600,27 @@ var require_range = __commonJS({
             }
           }
         }
-        this.format();
+        this.formatted = void 0;
+      }
+      get range() {
+        if (this.formatted === void 0) {
+          this.formatted = "";
+          for (let i = 0; i < this.set.length; i++) {
+            if (i > 0) {
+              this.formatted += "||";
+            }
+            const comps = this.set[i];
+            for (let k = 0; k < comps.length; k++) {
+              if (k > 0) {
+                this.formatted += " ";
+              }
+              this.formatted += comps[k].toString().trim();
+            }
+          }
+        }
+        return this.formatted;
       }
       format() {
-        this.range = this.set.map((comps) => comps.join(" ").trim()).join("||").trim();
         return this.range;
       }
       toString() {
@@ -4318,8 +3701,8 @@ var require_range = __commonJS({
       }
     };
     module2.exports = Range;
-    var LRU = require_lru_cache();
-    var cache = new LRU({ max: 1e3 });
+    var LRU = require_lrucache();
+    var cache = new LRU();
     var parseOptions = require_parse_options();
     var Comparator = require_comparator();
     var debug = require_debug();
@@ -4497,7 +3880,7 @@ var require_range = __commonJS({
       debug("replaceGTE0", comp, options);
       return comp.trim().replace(re[options.includePrerelease ? t.GTE0PRE : t.GTE0], "");
     };
-    var hyphenReplace = (incPr) => ($0, from, fM, fm, fp, fpr, fb, to, tM, tm, tp, tpr, tb) => {
+    var hyphenReplace = (incPr) => ($0, from, fM, fm, fp, fpr, fb, to, tM, tm, tp, tpr) => {
       if (isX(fM)) {
         from = "";
       } else if (isX(fm)) {
@@ -4550,9 +3933,9 @@ var require_range = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/classes/comparator.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/classes/comparator.js
 var require_comparator = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/classes/comparator.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/classes/comparator.js"(exports, module2) {
     var ANY = Symbol("SemVer ANY");
     var Comparator = class {
       static get ANY() {
@@ -4662,9 +4045,9 @@ var require_comparator = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/satisfies.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/satisfies.js
 var require_satisfies = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/functions/satisfies.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/functions/satisfies.js"(exports, module2) {
     var Range = require_range();
     var satisfies = (version2, range, options) => {
       try {
@@ -4678,18 +4061,18 @@ var require_satisfies = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/to-comparators.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/to-comparators.js
 var require_to_comparators = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/to-comparators.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/to-comparators.js"(exports, module2) {
     var Range = require_range();
     var toComparators = (range, options) => new Range(range, options).set.map((comp) => comp.map((c) => c.value).join(" ").trim().split(" "));
     module2.exports = toComparators;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/max-satisfying.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/max-satisfying.js
 var require_max_satisfying = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/max-satisfying.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/max-satisfying.js"(exports, module2) {
     var SemVer = require_semver();
     var Range = require_range();
     var maxSatisfying = (versions, range, options) => {
@@ -4715,9 +4098,9 @@ var require_max_satisfying = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/min-satisfying.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/min-satisfying.js
 var require_min_satisfying = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/min-satisfying.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/min-satisfying.js"(exports, module2) {
     var SemVer = require_semver();
     var Range = require_range();
     var minSatisfying = (versions, range, options) => {
@@ -4743,9 +4126,9 @@ var require_min_satisfying = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/min-version.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/min-version.js
 var require_min_version = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/min-version.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/min-version.js"(exports, module2) {
     var SemVer = require_semver();
     var Range = require_range();
     var gt = require_gt();
@@ -4799,9 +4182,9 @@ var require_min_version = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/valid.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/valid.js
 var require_valid2 = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/valid.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/valid.js"(exports, module2) {
     var Range = require_range();
     var validRange = (range, options) => {
       try {
@@ -4814,9 +4197,9 @@ var require_valid2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/outside.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/outside.js
 var require_outside = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/outside.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/outside.js"(exports, module2) {
     var SemVer = require_semver();
     var Comparator = require_comparator();
     var { ANY } = Comparator;
@@ -4882,27 +4265,27 @@ var require_outside = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/gtr.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/gtr.js
 var require_gtr = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/gtr.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/gtr.js"(exports, module2) {
     var outside = require_outside();
     var gtr = (version2, range, options) => outside(version2, range, ">", options);
     module2.exports = gtr;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/ltr.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/ltr.js
 var require_ltr = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/ltr.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/ltr.js"(exports, module2) {
     var outside = require_outside();
     var ltr = (version2, range, options) => outside(version2, range, "<", options);
     module2.exports = ltr;
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/intersects.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/intersects.js
 var require_intersects = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/intersects.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/intersects.js"(exports, module2) {
     var Range = require_range();
     var intersects = (r1, r2, options) => {
       r1 = new Range(r1, options);
@@ -4913,9 +4296,9 @@ var require_intersects = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/simplify.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/simplify.js
 var require_simplify = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/simplify.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/simplify.js"(exports, module2) {
     var satisfies = require_satisfies();
     var compare = require_compare();
     module2.exports = (versions, range, options) => {
@@ -4962,9 +4345,9 @@ var require_simplify = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/subset.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/subset.js
 var require_subset = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/ranges/subset.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/ranges/subset.js"(exports, module2) {
     var Range = require_range();
     var Comparator = require_comparator();
     var { ANY } = Comparator;
@@ -5124,9 +4507,9 @@ var require_subset = __commonJS({
   }
 });
 
-// node_modules/.pnpm/semver@7.6.0/node_modules/semver/index.js
+// node_modules/.pnpm/semver@7.6.3/node_modules/semver/index.js
 var require_semver2 = __commonJS({
-  "node_modules/.pnpm/semver@7.6.0/node_modules/semver/index.js"(exports, module2) {
+  "node_modules/.pnpm/semver@7.6.3/node_modules/semver/index.js"(exports, module2) {
     var internalRe = require_re();
     var constants = require_constants2();
     var SemVer = require_semver();
@@ -5218,23 +4601,23 @@ var require_semver2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/util.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/util.js
 var require_util = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/util.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/features/util.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.buildFeatureSegment = exports.buildFeatureStateModel = exports.buildFeatureModel = void 0;
-    var models_1 = require_models3();
+    var models_1 = require_models2();
     function buildFeatureModel(featuresModelJSON) {
       return new models_1.FeatureModel(featuresModelJSON.id, featuresModelJSON.name, featuresModelJSON.type);
     }
     exports.buildFeatureModel = buildFeatureModel;
     function buildFeatureStateModel(featuresStateModelJSON) {
-      var featureStateModel = new models_1.FeatureStateModel(buildFeatureModel(featuresStateModelJSON.feature), featuresStateModelJSON.enabled, featuresStateModelJSON.django_id, featuresStateModelJSON.feature_state_value, featuresStateModelJSON.uuid);
+      var featureStateModel = new models_1.FeatureStateModel(buildFeatureModel(featuresStateModelJSON.feature), featuresStateModelJSON.enabled, featuresStateModelJSON.django_id, featuresStateModelJSON.feature_state_value, featuresStateModelJSON.featurestate_uuid);
       featureStateModel.featureSegment = featuresStateModelJSON.feature_segment ? buildFeatureSegment(featuresStateModelJSON.feature_segment) : void 0;
       var multivariateFeatureStateValues = featuresStateModelJSON.multivariate_feature_state_values ? featuresStateModelJSON.multivariate_feature_state_values.map(function(fsv) {
         var featureOption = new models_1.MultivariateFeatureOptionModel(fsv.multivariate_feature_option.value, fsv.multivariate_feature_option.id);
-        return new models_1.MultivariateFeatureStateValueModel(featureOption, fsv.percentage_allocation, fsv.id);
+        return new models_1.MultivariateFeatureStateValueModel(featureOption, fsv.percentage_allocation, fsv.id, fsv.mv_fs_value_uuid);
       }) : [];
       featureStateModel.multivariateFeatureStateValues = multivariateFeatureStateValues;
       return featureStateModel;
@@ -5247,14 +4630,14 @@ var require_util = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/util.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/util.js
 var require_util2 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/util.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/util.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.removeSemverSuffix = exports.isSemver = exports.buildSegmentModel = exports.buildSegmentRuleModel = exports.buildSegmentConditionModel = void 0;
     var util_1 = require_util();
-    var models_1 = require_models6();
+    var models_1 = require_models5();
     function buildSegmentConditionModel(segmentConditionJSON) {
       return new models_1.SegmentConditionModel(segmentConditionJSON.operator, segmentConditionJSON.value, segmentConditionJSON.property_);
     }
@@ -5292,9 +4675,9 @@ var require_util2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/index.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/index.js
 var require_utils = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/index.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/utils/index.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.getCastingFunction = void 0;
@@ -5323,9 +4706,9 @@ var require_utils = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/models.js
-var require_models6 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/models.js
+var require_models5 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/segments/models.js"(exports) {
     "use strict";
     var __assign = exports && exports.__assign || function() {
       __assign = Object.assign || function(t) {
@@ -5396,7 +4779,7 @@ var require_models6 = __commonJS({
     }, _a[constants_1.CONDITION_OPERATORS.NOT_EQUAL] = function(thisValue, otherValue) {
       return thisValue != otherValue;
     }, _a[constants_1.CONDITION_OPERATORS.CONTAINS] = function(thisValue, otherValue) {
-      return otherValue.includes(thisValue);
+      return !!otherValue && otherValue.includes(thisValue);
     }, _a);
     exports.semverMatchingFunction = __assign(__assign({}, exports.matchingFunctions), (_b = {}, _b[constants_1.CONDITION_OPERATORS.EQUAL] = function(thisValue, otherValue) {
       return semver_1.default.eq(thisValue, otherValue);
@@ -5427,7 +4810,8 @@ var require_models6 = __commonJS({
           var _this = this;
           var evaluators = {
             evaluateNotContains: function(traitValue2) {
-              return !traitValue2.includes(_this.value);
+              var _a2;
+              return typeof traitValue2 == "string" && !!_this.value && !traitValue2.includes((_a2 = _this.value) === null || _a2 === void 0 ? void 0 : _a2.toString());
             },
             evaluateRegex: function(traitValue2) {
               return !!_this.value && !!traitValue2.match(new RegExp(_this.value));
@@ -5499,9 +4883,9 @@ var require_models6 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/models.js
-var require_models7 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/models.js
+var require_models6 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/models.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.OrganisationModel = void 0;
@@ -5529,9 +4913,9 @@ var require_models7 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/index.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/index.js
 var require_flagsmith_engine = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/index.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/index.js"(exports) {
     "use strict";
     var __values = exports && exports.__values || function(o) {
       var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
@@ -5548,7 +4932,7 @@ var require_flagsmith_engine = __commonJS({
       throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
     };
     Object.defineProperty(exports, "__esModule", { value: true });
-    exports.getEnvironmentFeatureStates = exports.getEnvironmentFeatureState = exports.getIdentityFeatureStates = exports.getIdentityFeatureState = exports.OrganisationModel = exports.SegmentModel = exports.TraitModel = exports.IdentityModel = exports.FeatureStateModel = exports.IntegrationModel = exports.EnvironmentModel = void 0;
+    exports.getEnvironmentFeatureStates = exports.getEnvironmentFeatureState = exports.getIdentityFeatureStates = exports.getIdentityFeatureState = exports.OrganisationModel = exports.SegmentModel = exports.TraitModel = exports.IdentityModel = exports.FeatureStateModel = exports.EnvironmentModel = void 0;
     var evaluators_1 = require_evaluators();
     var errors_1 = require_errors();
     var models_1 = require_models();
@@ -5556,28 +4940,24 @@ var require_flagsmith_engine = __commonJS({
       return models_1.EnvironmentModel;
     } });
     var models_2 = require_models2();
-    Object.defineProperty(exports, "IntegrationModel", { enumerable: true, get: function() {
-      return models_2.IntegrationModel;
+    Object.defineProperty(exports, "FeatureStateModel", { enumerable: true, get: function() {
+      return models_2.FeatureStateModel;
     } });
     var models_3 = require_models3();
-    Object.defineProperty(exports, "FeatureStateModel", { enumerable: true, get: function() {
-      return models_3.FeatureStateModel;
+    Object.defineProperty(exports, "IdentityModel", { enumerable: true, get: function() {
+      return models_3.IdentityModel;
     } });
     var models_4 = require_models4();
-    Object.defineProperty(exports, "IdentityModel", { enumerable: true, get: function() {
-      return models_4.IdentityModel;
+    Object.defineProperty(exports, "TraitModel", { enumerable: true, get: function() {
+      return models_4.TraitModel;
     } });
     var models_5 = require_models5();
-    Object.defineProperty(exports, "TraitModel", { enumerable: true, get: function() {
-      return models_5.TraitModel;
+    Object.defineProperty(exports, "SegmentModel", { enumerable: true, get: function() {
+      return models_5.SegmentModel;
     } });
     var models_6 = require_models6();
-    Object.defineProperty(exports, "SegmentModel", { enumerable: true, get: function() {
-      return models_6.SegmentModel;
-    } });
-    var models_7 = require_models7();
     Object.defineProperty(exports, "OrganisationModel", { enumerable: true, get: function() {
-      return models_7.OrganisationModel;
+      return models_6.OrganisationModel;
     } });
     function getIdentityFeatureStatesDict(environment, identity, overrideTraits) {
       var e_1, _a, e_2, _b, e_3, _c, e_4, _d;
@@ -5698,13 +5078,73 @@ var require_flagsmith_engine = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/util.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/util.js
 var require_util3 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/util.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/identities/util.js"(exports) {
+    "use strict";
+    var __read = exports && exports.__read || function(o, n) {
+      var m = typeof Symbol === "function" && o[Symbol.iterator];
+      if (!m)
+        return o;
+      var i = m.call(o), r, ar = [], e;
+      try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done)
+          ar.push(r.value);
+      } catch (error) {
+        e = { error };
+      } finally {
+        try {
+          if (r && !r.done && (m = i["return"]))
+            m.call(i);
+        } finally {
+          if (e)
+            throw e.error;
+        }
+      }
+      return ar;
+    };
+    var __spreadArray = exports && exports.__spreadArray || function(to, from, pack) {
+      if (pack || arguments.length === 2)
+        for (var i = 0, l = from.length, ar; i < l; i++) {
+          if (ar || !(i in from)) {
+            if (!ar)
+              ar = Array.prototype.slice.call(from, 0, i);
+            ar[i] = from[i];
+          }
+        }
+      return to.concat(ar || Array.prototype.slice.call(from));
+    };
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.buildIdentityModel = exports.buildTraitModel = void 0;
+    var util_1 = require_util();
+    var collections_1 = require_collections();
+    var models_1 = require_models3();
+    var models_2 = require_models4();
+    function buildTraitModel(traitJSON) {
+      return new models_2.TraitModel(traitJSON.trait_key, traitJSON.trait_value);
+    }
+    exports.buildTraitModel = buildTraitModel;
+    function buildIdentityModel(identityJSON) {
+      var featureList = identityJSON.identity_features ? new (collections_1.IdentityFeaturesList.bind.apply(collections_1.IdentityFeaturesList, __spreadArray([void 0], __read(identityJSON.identity_features.map(function(f2) {
+        return (0, util_1.buildFeatureStateModel)(f2);
+      })), false)))() : [];
+      var model = new models_1.IdentityModel(identityJSON.created_date, identityJSON.identity_traits ? identityJSON.identity_traits.map(function(trait) {
+        return buildTraitModel(trait);
+      }) : [], featureList, identityJSON.environment_api_key, identityJSON.identifier, identityJSON.identity_uuid);
+      model.djangoID = identityJSON.django_id;
+      return model;
+    }
+    exports.buildIdentityModel = buildIdentityModel;
+  }
+});
+
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/util.js
+var require_util4 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/organisations/util.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.buildOrganizationModel = void 0;
-    var models_1 = require_models7();
+    var models_1 = require_models6();
     function buildOrganizationModel(organizationJSON) {
       return new models_1.OrganisationModel(organizationJSON.id, organizationJSON.name, organizationJSON.feature_analytics, organizationJSON.stop_serving_flags, organizationJSON.persist_trait_data);
     }
@@ -5712,9 +5152,9 @@ var require_util3 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/models.js
-var require_models8 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/models.js
+var require_models7 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/models.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.ProjectModel = void 0;
@@ -5735,15 +5175,15 @@ var require_models8 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/util.js
-var require_util4 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/util.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/util.js
+var require_util5 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/projects/util.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.buildProjectModel = void 0;
-    var util_1 = require_util3();
+    var util_1 = require_util4();
     var util_2 = require_util2();
-    var models_1 = require_models8();
+    var models_1 = require_models7();
     function buildProjectModel(projectJSON) {
       var segments = projectJSON["segments"] ? projectJSON["segments"].map(function(s) {
         return (0, util_2.buildSegmentModel)(s);
@@ -5756,22 +5196,28 @@ var require_util4 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/util.js
-var require_util5 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/util.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/util.js
+var require_util6 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/flagsmith-engine/environments/util.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.buildEnvironmentAPIKeyModel = exports.buildEnvironmentModel = void 0;
     var util_1 = require_util();
-    var util_2 = require_util4();
+    var util_2 = require_util3();
+    var util_3 = require_util5();
     var models_1 = require_models();
     function buildEnvironmentModel(environmentJSON) {
-      var project = (0, util_2.buildProjectModel)(environmentJSON.project);
+      var project = (0, util_3.buildProjectModel)(environmentJSON.project);
       var featureStates = environmentJSON.feature_states.map(function(fs) {
         return (0, util_1.buildFeatureStateModel)(fs);
       });
       var environmentModel = new models_1.EnvironmentModel(environmentJSON.id, environmentJSON.api_key, project);
       environmentModel.featureStates = featureStates;
+      if (!!environmentJSON.identity_overrides) {
+        environmentModel.identityOverrides = environmentJSON.identity_overrides.map(function(identityData) {
+          return (0, util_2.buildIdentityModel)(identityData);
+        });
+      }
       return environmentModel;
     }
     exports.buildEnvironmentModel = buildEnvironmentModel;
@@ -5931,9 +5377,9 @@ var require_quick_format_unescaped = __commonJS({
   }
 });
 
-// node_modules/.pnpm/pino@8.19.0/node_modules/pino/browser.js
+// node_modules/.pnpm/pino@8.21.0/node_modules/pino/browser.js
 var require_browser2 = __commonJS({
-  "node_modules/.pnpm/pino@8.19.0/node_modules/pino/browser.js"(exports, module2) {
+  "node_modules/.pnpm/pino@8.21.0/node_modules/pino/browser.js"(exports, module2) {
     "use strict";
     var format = require_quick_format_unescaped();
     module2.exports = pino;
@@ -6149,7 +5595,12 @@ var require_browser2 = __commonJS({
       return bindings.reverse();
     }
     function set(self2, opts, rootLogger, level) {
-      self2[level] = levelToValue(self2.level, rootLogger) > levelToValue(level, rootLogger) ? noop : rootLogger[baseLogFunctionSymbol][level];
+      Object.defineProperty(self2, level, {
+        value: levelToValue(self2.level, rootLogger) > levelToValue(level, rootLogger) ? noop : rootLogger[baseLogFunctionSymbol][level],
+        writable: true,
+        enumerable: true,
+        configurable: true
+      });
       if (!opts.transmit && self2[level] === noop) {
         return;
       }
@@ -6337,9 +5788,9 @@ var require_browser2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/analytics.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/analytics.js
 var require_analytics = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/analytics.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/analytics.js"(exports) {
     "use strict";
     var __awaiter = exports && exports.__awaiter || function(thisArg, _arguments, P, generator) {
       function adopt(value) {
@@ -6471,7 +5922,7 @@ var require_analytics = __commonJS({
             return __generator(this, function(_a) {
               switch (_a.label) {
                 case 0:
-                  if (!Object.keys(this.analyticsData).length) {
+                  if (this.currentFlush || !Object.keys(this.analyticsData).length) {
                     return [
                       2
                       /*return*/
@@ -6479,8 +5930,8 @@ var require_analytics = __commonJS({
                   }
                   _a.label = 1;
                 case 1:
-                  _a.trys.push([1, 3, , 4]);
-                  return [4, (0, node_fetch_1.default)(this.analyticsEndpoint, {
+                  _a.trys.push([1, 3, 4, 5]);
+                  this.currentFlush = (0, node_fetch_1.default)(this.analyticsEndpoint, {
                     method: "POST",
                     body: JSON.stringify(this.analyticsData),
                     timeout: this.requestTimeoutMs,
@@ -6488,10 +5939,11 @@ var require_analytics = __commonJS({
                       "Content-Type": "application/json",
                       "X-Environment-Key": this.environmentKey
                     }
-                  })];
+                  });
+                  return [4, this.currentFlush];
                 case 2:
                   _a.sent();
-                  return [3, 4];
+                  return [3, 5];
                 case 3:
                   error_1 = _a.sent();
                   this.logger.warn("Failed to post analytics to Flagsmith API. Not clearing data, will retry.");
@@ -6500,6 +5952,12 @@ var require_analytics = __commonJS({
                     /*return*/
                   ];
                 case 4:
+                  this.currentFlush = void 0;
+                  return [
+                    7
+                    /*endfinally*/
+                  ];
+                case 5:
                   this.analyticsData = {};
                   this.lastFlushed = Date.now();
                   return [
@@ -6523,9 +5981,9 @@ var require_analytics = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/errors.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/errors.js
 var require_errors2 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/errors.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/errors.js"(exports) {
     "use strict";
     var __extends = exports && exports.__extends || function() {
       var extendStatics = function(d, b) {
@@ -6575,9 +6033,9 @@ var require_errors2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/models.js
-var require_models9 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/models.js"(exports) {
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/models.js
+var require_models8 = __commonJS({
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/models.js"(exports) {
     "use strict";
     var __extends = exports && exports.__extends || function() {
       var extendStatics = function(d, b) {
@@ -6757,9 +6215,9 @@ var require_models9 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/polling_manager.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/polling_manager.js
 var require_polling_manager = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/polling_manager.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/polling_manager.js"(exports) {
     "use strict";
     var __awaiter = exports && exports.__awaiter || function(thisArg, _arguments, P, generator) {
       function adopt(value) {
@@ -6911,9 +6369,9 @@ var require_polling_manager = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/utils.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/utils.js
 var require_utils2 = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/utils.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/utils.js"(exports) {
     "use strict";
     var __awaiter = exports && exports.__awaiter || function(thisArg, _arguments, P, generator) {
       function adopt(value) {
@@ -7103,9 +6561,9 @@ var require_utils2 = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/index.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/index.js
 var require_sdk = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/sdk/index.js"(exports) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/sdk/index.js"(exports) {
     "use strict";
     var __awaiter = exports && exports.__awaiter || function(thisArg, _arguments, P, generator) {
       function adopt(value) {
@@ -7251,12 +6709,12 @@ var require_sdk = __commonJS({
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.Flagsmith = exports.EnvironmentDataPollingManager = exports.Flags = exports.DefaultFlag = exports.FlagsmithClientError = exports.FlagsmithAPIError = exports.AnalyticsProcessor = void 0;
     var flagsmith_engine_1 = require_flagsmith_engine();
-    var util_1 = require_util5();
-    var models_1 = require_models4();
-    var models_2 = require_models5();
+    var util_1 = require_util6();
+    var models_1 = require_models3();
+    var models_2 = require_models4();
     var analytics_1 = require_analytics();
     var errors_1 = require_errors2();
-    var models_3 = require_models9();
+    var models_3 = require_models8();
     var polling_manager_1 = require_polling_manager();
     var utils_1 = require_utils2();
     var evaluators_1 = require_evaluators();
@@ -7272,7 +6730,7 @@ var require_sdk = __commonJS({
     Object.defineProperty(exports, "FlagsmithClientError", { enumerable: true, get: function() {
       return errors_2.FlagsmithClientError;
     } });
-    var models_4 = require_models9();
+    var models_4 = require_models8();
     Object.defineProperty(exports, "DefaultFlag", { enumerable: true, get: function() {
       return models_4.DefaultFlag;
     } });
@@ -7441,7 +6899,7 @@ var require_sdk = __commonJS({
           if (this.enableLocalEvaluation) {
             return new Promise(function(resolve, reject) {
               return _this.environmentPromise.then(function() {
-                var identityModel = _this.buildIdentityModel(identifier, Object.keys(traits || {}).map(function(key) {
+                var identityModel = _this.getIdentityModel(identifier, Object.keys(traits || {}).map(function(key) {
                   return {
                     key,
                     value: traits === null || traits === void 0 ? void 0 : traits[key]
@@ -7458,13 +6916,14 @@ var require_sdk = __commonJS({
           return Promise.resolve([]);
         };
         Flagsmith3.prototype.updateEnvironment = function() {
+          var _a;
           return __awaiter(this, void 0, void 0, function() {
-            var request, _a, e_1;
+            var request, _b, e_1;
             var _this = this;
-            return __generator(this, function(_b) {
-              switch (_b.label) {
+            return __generator(this, function(_c) {
+              switch (_c.label) {
                 case 0:
-                  _b.trys.push([0, 5, , 6]);
+                  _c.trys.push([0, 5, , 6]);
                   request = this.getEnvironmentFromApi();
                   if (!!this.environmentPromise)
                     return [3, 2];
@@ -7473,21 +6932,26 @@ var require_sdk = __commonJS({
                   });
                   return [4, this.environmentPromise];
                 case 1:
-                  _b.sent();
+                  _c.sent();
                   return [3, 4];
                 case 2:
-                  _a = this;
+                  _b = this;
                   return [4, request];
                 case 3:
-                  _a.environment = _b.sent();
-                  _b.label = 4;
+                  _b.environment = _c.sent();
+                  _c.label = 4;
                 case 4:
+                  if ((_a = this.environment.identityOverrides) === null || _a === void 0 ? void 0 : _a.length) {
+                    this.identitiesWithOverridesByIdentifier = new Map(this.environment.identityOverrides.map(function(identity) {
+                      return [identity.identifier, identity];
+                    }));
+                  }
                   if (this.onEnvironmentChange) {
                     this.onEnvironmentChange(null, this.environment);
                   }
                   return [3, 6];
                 case 5:
-                  e_1 = _b.sent();
+                  e_1 = _c.sent();
                   if (this.onEnvironmentChange) {
                     this.onEnvironmentChange(e_1, this.environment);
                   }
@@ -7604,7 +7068,7 @@ var require_sdk = __commonJS({
             return __generator(this, function(_a) {
               switch (_a.label) {
                 case 0:
-                  identityModel = this.buildIdentityModel(identifier, Object.keys(traits).map(function(key) {
+                  identityModel = this.getIdentityModel(identifier, Object.keys(traits).map(function(key) {
                     return {
                       key,
                       value: traits[key]
@@ -7728,10 +7192,16 @@ var require_sdk = __commonJS({
             });
           });
         };
-        Flagsmith3.prototype.buildIdentityModel = function(identifier, traits) {
+        Flagsmith3.prototype.getIdentityModel = function(identifier, traits) {
+          var _a;
           var traitModels = traits.map(function(trait) {
             return new models_2.TraitModel(trait.key, trait.value);
           });
+          var identityWithOverrides = (_a = this.identitiesWithOverridesByIdentifier) === null || _a === void 0 ? void 0 : _a.get(identifier);
+          if (identityWithOverrides) {
+            identityWithOverrides.updateTraits(traitModels);
+            return identityWithOverrides;
+          }
           return new models_1.IdentityModel("0", traitModels, [], this.environment.apiKey, identifier);
         };
         return Flagsmith3;
@@ -7742,15 +7212,15 @@ var require_sdk = __commonJS({
   }
 });
 
-// node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/index.js
+// node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/index.js
 var require_build = __commonJS({
-  "node_modules/.pnpm/flagsmith-nodejs@3.2.0/node_modules/flagsmith-nodejs/build/index.js"(exports, module2) {
+  "node_modules/.pnpm/flagsmith-nodejs@3.3.1/node_modules/flagsmith-nodejs/build/index.js"(exports, module2) {
     "use strict";
     var __importDefault = exports && exports.__importDefault || function(mod) {
       return mod && mod.__esModule ? mod : { "default": mod };
     };
     Object.defineProperty(exports, "__esModule", { value: true });
-    exports.OrganisationModel = exports.SegmentModel = exports.TraitModel = exports.IdentityModel = exports.FeatureStateModel = exports.IntegrationModel = exports.EnvironmentModel = exports.default = exports.Flags = exports.DefaultFlag = exports.EnvironmentDataPollingManager = exports.FlagsmithClientError = exports.FlagsmithAPIError = exports.AnalyticsProcessor = void 0;
+    exports.OrganisationModel = exports.SegmentModel = exports.TraitModel = exports.IdentityModel = exports.FeatureStateModel = exports.EnvironmentModel = exports.default = exports.Flags = exports.DefaultFlag = exports.EnvironmentDataPollingManager = exports.FlagsmithClientError = exports.FlagsmithAPIError = exports.AnalyticsProcessor = void 0;
     var sdk_1 = __importDefault(require_sdk());
     var sdk_2 = require_sdk();
     Object.defineProperty(exports, "AnalyticsProcessor", { enumerable: true, get: function() {
@@ -7777,9 +7247,6 @@ var require_build = __commonJS({
     var flagsmith_engine_1 = require_flagsmith_engine();
     Object.defineProperty(exports, "EnvironmentModel", { enumerable: true, get: function() {
       return flagsmith_engine_1.EnvironmentModel;
-    } });
-    Object.defineProperty(exports, "IntegrationModel", { enumerable: true, get: function() {
-      return flagsmith_engine_1.IntegrationModel;
     } });
     Object.defineProperty(exports, "FeatureStateModel", { enumerable: true, get: function() {
       return flagsmith_engine_1.FeatureStateModel;
@@ -12371,28 +11838,14 @@ var BibleAPISourceCollection = {
 };
 
 // src/data/BibleVersionCollection.ts
-var BibleVersionCollection = [
-  // bible api
+var BibleVersionCollectionEnglish = [
   {
-    key: "web",
-    versionName: "World English Bible",
+    key: "amp",
+    versionName: "Amplified Bible",
     language: "English",
     code: "en",
-    apiSource: BibleAPISourceCollection.bibleApi
-  },
-  {
-    key: "clementine",
-    versionName: "Clementine Latin Vulgate",
-    language: "Latin",
-    code: "la",
-    apiSource: BibleAPISourceCollection.bibleApi
-  },
-  {
-    key: "kjv",
-    versionName: "King James Version",
-    language: "English",
-    code: "en",
-    apiSource: BibleAPISourceCollection.bibleApi
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoURL: "https://en.wikipedia.org/wiki/Amplified_Bible"
   },
   {
     key: "bbe",
@@ -12402,6 +11855,156 @@ var BibleVersionCollection = [
     apiSource: BibleAPISourceCollection.bibleApi
   },
   {
+    key: "bsb",
+    versionName: "Berean Standard Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "cjb",
+    versionName: "The Complete Jewish Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoURL: "https://en.wikipedia.org/wiki/Messianic_Bible_translations#Complete_Jewish_Bible_(CJB)"
+  },
+  {
+    key: "drb",
+    versionName: "Douay-Rheims Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoURL: "https://en.wikipedia.org/wiki/Douay-Rheims_Bible"
+  },
+  {
+    key: "esv",
+    versionName: "English Standard Version",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "gnv",
+    versionName: "Geneva Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoURL: "https://en.wikipedia.org/wiki/Geneva_Bible"
+  },
+  {
+    key: "kjv",
+    versionName: "King James Version",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bibleApi
+  },
+  {
+    key: "lsb",
+    versionName: "Legacy Standard Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "lsv",
+    versionName: "Literal Standard Version",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoUrl: "https://en.wikipedia.org/wiki/Literal_Standard_Version"
+  },
+  {
+    key: "lxxe",
+    versionName: "English Translation of the Greek Septuagint",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoUrl: "https://en.wikipedia.org/wiki/Septuagint"
+  },
+  {
+    key: "mev",
+    versionName: "Modern English Version",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoUrl: "https://wikipedia.org/wiki/Modern_English_Version"
+  },
+  {
+    key: "msg",
+    versionName: "The Message Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoUrl: "https://en.wikipedia.org/wiki/The_Message_(Bible)"
+  },
+  {
+    key: "nabre",
+    versionName: "New American Bible Revised Edition",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoUrl: "https://wikipedia.org/wiki/New_American_Bible_Revised_Edition"
+  },
+  {
+    key: "nasb",
+    versionName: "New American Standard Bible (1995)",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "net",
+    versionName: "New English Translation",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoURL: "https://en.wikipedia.org/wiki/New_English_Translation"
+  },
+  {
+    key: "niv",
+    versionName: "New International Version, 1984",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "niv2011",
+    versionName: "New International Version, 2011",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "njb1985",
+    versionName: "New Jerusalem Bible, 1985",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "nkjv",
+    versionName: "New King James Version",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife,
+    infoUrl: "https://wikipedia.org/wiki/New_King_James_Version"
+  },
+  {
+    key: "nlt",
+    versionName: "New Living Translation (NLT), 2015",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "nrsvce",
+    versionName: "New Revised Standard Version Catholic Edition (NRSVCE)",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
     key: "oeb-us",
     versionName: "Open English Bible, US Edition",
     language: "English",
@@ -12409,26 +12012,71 @@ var BibleVersionCollection = [
     apiSource: BibleAPISourceCollection.bibleApi
   },
   {
+    key: "rsv",
+    versionName: "Revised Standard Version",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "rsv2ce",
+    versionName: "Revised Standard Version, Second Catholic Edition",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "web",
+    versionName: "World English Bible",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bibleApi
+  },
+  {
+    key: "ylt",
+    versionName: "Young's Literal Translation",
+    language: "English",
+    code: "en",
+    apiSource: BibleAPISourceCollection.bollsLife
+  }
+];
+var BibleVersionCollectionLatin = [
+  {
+    key: "clementine",
+    versionName: "Clementine Latin Vulgate",
+    language: "Latin",
+    code: "la",
+    apiSource: BibleAPISourceCollection.bibleApi
+  }
+];
+var BibleVersionCollectionPortuguese = [
+  {
     key: "almeida",
     versionName: "Jo\xE3o Ferreira de Almeida",
     language: "Portuguese",
     code: "pt",
     apiSource: BibleAPISourceCollection.bibleApi
-  },
+  }
+];
+var BibleVersionCollectionRomanian = [
   {
     key: "rccv",
     versionName: "Romanian Corrected Cornilescu Version",
     language: "Romanian",
     code: "ro",
     apiSource: BibleAPISourceCollection.bibleApi
-  },
+  }
+];
+var BibleVersionCollectionCherokee = [
   {
     key: "cherokee",
     versionName: "Cherokee New Testament",
     language: "Cherokee",
     code: "cu",
     apiSource: BibleAPISourceCollection.bibleApi
-  },
+  }
+];
+var BibleVersionCollectionEnglishUK = [
   {
     key: "oeb-cw",
     versionName: "Open English Bible, Commonwealth Edition",
@@ -12442,44 +12090,9 @@ var BibleVersionCollection = [
     language: "English (UK)",
     code: "en",
     apiSource: BibleAPISourceCollection.bibleApi
-  },
-  // bolls life
-  {
-    key: "nkjv",
-    versionName: "New King James Version",
-    language: "English",
-    code: "en",
-    apiSource: BibleAPISourceCollection.bollsLife,
-    infoUrl: "https://wikipedia.org/wiki/New_King_James_Version"
-  },
-  {
-    key: "niv",
-    versionName: "New International Version, 1984",
-    language: "English",
-    code: "en",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "nrsvce",
-    versionName: "New Revised Standard Version Catholic Edition (NRSVCE)",
-    language: "English",
-    code: "en",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "esv",
-    versionName: "English Standard Version",
-    language: "English",
-    code: "en",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "nasb",
-    versionName: "New American Standard Bible (1995)",
-    language: "English",
-    code: "en",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionGerman = [
   {
     key: "elb",
     versionName: "Elberfelder Bibel (1871)",
@@ -12495,17 +12108,25 @@ var BibleVersionCollection = [
     apiSource: BibleAPISourceCollection.bollsLife
   },
   {
-    key: "sch",
-    versionName: "Schlachter (1951)",
+    key: "mb",
+    versionName: "Menge-Bibel",
     language: "German Deutsch",
     code: "de",
     apiSource: BibleAPISourceCollection.bollsLife
   },
   {
-    key: "mb",
-    versionName: "Menge-Bibel",
+    key: "sch",
+    versionName: "Schlachter (1951)",
     language: "German Deutsch",
     code: "de",
+    apiSource: BibleAPISourceCollection.bollsLife
+  }
+];
+var BibleVersionCollectionGreek = [
+  {
+    key: "lxx",
+    versionName: "Septuagint",
+    language: "Greek \u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC",
     apiSource: BibleAPISourceCollection.bollsLife
   },
   {
@@ -12519,11 +12140,13 @@ var BibleVersionCollection = [
     versionName: "Elzevir Textus Receptus (1624)",
     language: "Greek \u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionHebrew = [
   {
-    key: "lxx",
-    versionName: "Septuagint",
-    language: "Greek \u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC",
+    key: "dhnt",
+    versionName: "Delitzsch's Hebrew New Testament 1877, 1998 (with Vowels)",
+    language: "Hebrew \u05E2\u05D1\u05E8\u05D9\u05EA",
     apiSource: BibleAPISourceCollection.bollsLife
   },
   {
@@ -12531,11 +12154,21 @@ var BibleVersionCollection = [
     versionName: "Westminster Leningrad Codex (with Vowels)",
     language: "Hebrew \u05E2\u05D1\u05E8\u05D9\u05EA",
     apiSource: BibleAPISourceCollection.bollsLife
+  }
+];
+var BibleVersionCollectionChinese = [
+  {
+    key: "cunp",
+    versionName: "Chinese Union New Punctuation Cross References",
+    language: "Chinese",
+    code: "cn",
+    apiSource: BibleAPISourceCollection.bollsLife
   },
   {
-    key: "dhnt",
-    versionName: "Delitzsch's Hebrew New Testament 1877, 1998 (with Vowels)",
-    language: "Hebrew \u05E2\u05D1\u05E8\u05D9\u05EA",
+    key: "cunps",
+    versionName: "Chinese Union New Punctuation (Simplified)",
+    language: "Chinese",
+    code: "cn",
     apiSource: BibleAPISourceCollection.bollsLife
   },
   {
@@ -12544,24 +12177,58 @@ var BibleVersionCollection = [
     language: "Chinese",
     code: "cn",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionItalian = [
   {
     key: "nr06",
     versionName: "Nuova Riveduta, 2006",
     language: "Latin / Italian",
     code: "it",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionArabic = [
   {
     key: "svd",
     versionName: "Smith and Van Dyke",
     language: "Arabic \u0627\u0644\u0639\u0631\u0628\u064A\u0629",
     code: "ar",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionSpanish = [
   {
     key: "btx3",
     versionName: "La Biblia Textual 3ra Edicion",
+    language: "Spanish",
+    code: "sp",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "lbla",
+    versionName: "La Biblia de Las Americas, 1997",
+    language: "Spanish",
+    code: "sp",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "ntv",
+    versionName: "Nueva Traduccion Viviente, 2009",
+    language: "Spanish",
+    code: "sp",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "nvi",
+    versionName: "Nueva Version Internacional",
+    language: "Spanish",
+    code: "sp",
+    apiSource: BibleAPISourceCollection.bollsLife
+  },
+  {
+    key: "pdt",
+    versionName: "Palabra de Dios para Todos",
     language: "Spanish",
     code: "sp",
     apiSource: BibleAPISourceCollection.bollsLife
@@ -12579,36 +12246,9 @@ var BibleVersionCollection = [
     language: "Spanish",
     code: "sp",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "pdt",
-    versionName: "Palabra de Dios para Todos",
-    language: "Spanish",
-    code: "sp",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "nvi",
-    versionName: "Nueva Version Internacional",
-    language: "Spanish",
-    code: "sp",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "ntv",
-    versionName: "Nueva Traduccion Viviente, 2009",
-    language: "Spanish",
-    code: "sp",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  {
-    key: "lbla",
-    versionName: "La Biblia de Las Americas, 1997",
-    language: "Spanish",
-    code: "sp",
-    apiSource: BibleAPISourceCollection.bollsLife
-  },
-  // todo add langauge code
+  }
+];
+var BibleVersionCollectionPolish = [
   {
     key: "bg",
     versionName: "Biblia gda\u0144ska, 1881",
@@ -12620,31 +12260,68 @@ var BibleVersionCollection = [
     versionName: "Biblia warszawska, 1975",
     language: "Polish",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionIndonesian = [
   {
     key: "tb",
     versionName: "Terjemahan Baru",
     language: "Indonesian",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionRussian = [
   {
     key: "bti",
     versionName: "\u0411\u0438\u0431\u043B\u0438\u044F \u043F\u043E\u0434 \u0440\u0435\u0434. \u041C.\u041F. \u041A\u0443\u043B\u0430\u043A\u043E\u0432\u0430 \u0438 \u041C.\u041C. \u041A\u0443\u043B\u0430\u043A\u043E\u0432\u0430, 2015",
     language: "Russian",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionUkrainian = [
   {
     key: "utt",
     versionName: "\u0423\u043A\u0440\u0430\u0457\u043D\u0441\u044C\u043A\u0430 \u0411\u0456\u0431\u043B\u0456\u044F LXX \u0423\u0411\u0422 \u0420\u0430\u0444\u0430\u0457\u043B\u0430 \u0422\u0443\u0440\u043A\u043E\u043D\u044F\u043A\u0430 (2011) 77 \u043A\u043D\u0438\u0433",
     language: "Ukrainian",
     apiSource: BibleAPISourceCollection.bollsLife
-  },
+  }
+];
+var BibleVersionCollectionFrench = [
   {
     key: "nbs",
     versionName: "Nouvelle Bible Segond, 2002",
     language: "French",
     apiSource: BibleAPISourceCollection.bollsLife
   }
+];
+var BibleVersionCollectionTamil = [
+  {
+    key: "tbsi",
+    versionName: "The Bible Society of India - Tamil - O.V.",
+    language: "Tamil",
+    apiSource: BibleAPISourceCollection.bollsLife
+  }
+];
+var BibleVersionCollection = [
+  ...BibleVersionCollectionArabic,
+  ...BibleVersionCollectionCherokee,
+  ...BibleVersionCollectionChinese,
+  ...BibleVersionCollectionEnglish,
+  ...BibleVersionCollectionEnglishUK,
+  ...BibleVersionCollectionFrench,
+  ...BibleVersionCollectionGerman,
+  ...BibleVersionCollectionGreek,
+  ...BibleVersionCollectionHebrew,
+  ...BibleVersionCollectionIndonesian,
+  ...BibleVersionCollectionItalian,
+  ...BibleVersionCollectionLatin,
+  ...BibleVersionCollectionPolish,
+  ...BibleVersionCollectionPortuguese,
+  ...BibleVersionCollectionRomanian,
+  ...BibleVersionCollectionRussian,
+  ...BibleVersionCollectionSpanish,
+  ...BibleVersionCollectionTamil,
+  ...BibleVersionCollectionUkrainian
 ];
 var DEFAULT_BIBLE_VERSION = BibleVersionCollection[11];
 var getBibleVersion = (key) => {
@@ -12723,6 +12400,10 @@ var BibleVerseNumberFormatCollection = [
     description: "**^1** (bolded superscript)"
   },
   {
+    name: "**1**" /* Bold */,
+    description: "**1** (bold)"
+  },
+  {
     name: "None" /* None */,
     description: "None"
   }
@@ -12747,6 +12428,8 @@ var DEFAULT_SETTINGS = {
   verseFormatting: "Single Line" /* SingleLine */,
   verseNumberFormatting: "1. " /* Period */,
   collapsibleVerses: false,
+  enableHyperlinking: true,
+  showVerseTranslation: true,
   bookTagging: false,
   chapterTagging: false,
   enableBibleVerseLookupRibbon: false,
@@ -13165,6 +12848,8 @@ var BibleReferenceSettingTab = class extends import_obsidian2.PluginSettingTab {
     this.setUpVersionSettingsAndVersionOptions();
     this.containerEl.createEl("h2", { text: "Verses Rendering" });
     this.setUpReferenceLinkPositionOptions();
+    this.setUpShowVerseTranslationOptions();
+    this.setUpHyperlinkingOptions();
     this.setUpVerseFormatOptions();
     this.setUpVerseNumberFormatOptions();
     this.setUpBibleIconPrefixToggle();
@@ -13183,10 +12868,10 @@ var BibleReferenceSettingTab = class extends import_obsidian2.PluginSettingTab {
 <br/>
 
 <span class="setting-item-description">
-Obsidian Bible Reference  is proudly powered by 
+Obsidian Bible Reference  is proudly powered by
     <a href="https://antioch.tech/obsidian-bible-reference/">
         <img src="https://antioch.tech/wp-content/uploads/2023/10/logo_128.png" alt="Antioch Tech logo" class="logo"> Antioch Tech
-    </a> 
+    </a>
 </span>
 
     `;
@@ -13400,6 +13085,42 @@ Obsidian Bible Reference  is proudly powered by
       });
     });
   }
+  setUpShowVerseTranslationOptions() {
+    const setting = new import_obsidian2.Setting(this.containerEl).setName("Show Verse Translation").setDesc("Show or hide the verse translation in verses reference");
+    setting.setTooltip(
+      "This will show the verse translation verse text after the verse number"
+    );
+    setting.addToggle((toggle) => {
+      var _a;
+      toggle.setValue(!!((_a = this.plugin.settings) == null ? void 0 : _a.showVerseTranslation)).onChange(async (value) => {
+        this.plugin.settings.showVerseTranslation = value;
+        await this.plugin.saveSettings();
+        EventStats.logSettingChange(
+          "changeVerseFormatting",
+          { key: `show-translation-${value}`, value: 1 },
+          this.plugin.settings.optOutToEvents
+        );
+      });
+    });
+  }
+  setUpHyperlinkingOptions() {
+    const setting = new import_obsidian2.Setting(this.containerEl).setName("Enable Hyperlinking").setDesc("Enable or disable hyperlinking in verses reference");
+    setting.setTooltip(
+      "This will make the verse number clickable and will open the verse in the Bible app"
+    );
+    setting.addToggle((toggle) => {
+      var _a;
+      toggle.setValue(!!((_a = this.plugin.settings) == null ? void 0 : _a.enableHyperlinking)).onChange(async (value) => {
+        this.plugin.settings.enableHyperlinking = value;
+        await this.plugin.saveSettings();
+        EventStats.logSettingChange(
+          "changeVerseFormatting",
+          { key: `hyperlinking-${value}`, value: 1 },
+          this.plugin.settings.optOutToEvents
+        );
+      });
+    });
+  }
   setUpVerseNumberFormatOptions() {
     new import_obsidian2.Setting(this.containerEl).setName("Verse Number Formatting Options").setDesc("Sets how to format the verse numbers in Obsidian").addDropdown((dropdown) => {
       var _a;
@@ -13547,18 +13268,21 @@ Obsidian Bible Reference  is proudly powered by
 var import_obsidian4 = require("obsidian");
 
 // src/utils/regs.ts
-var SHORT_REG = /-{2}([123])*\s*[A-z]{2,}\s*\d{1,3}:\d{1,3}(-\d{1,3})*/;
-var MODAL_REG = /([123])*\s*[A-z]{2,}\s*\d{1,3}:\d{1,3}(-\d{1,3})*/;
-var BOOK_REG = /[123]*\s*[A-z]{2,}/;
+var MODAL_REG = /([123])*\s*[A-Z\[\\\]^_`a-z]{2,}\s*\d{1,3}:\d{1,3}(-\d{1,3})*/;
+var BOOK_REG = /[123]*\s*[A-Z\[\\\]^_`a-z]{2,}/;
+var DEFAULT_TRIGGER_PREFIX_REG = /--|(\+\+)/;
 
 // src/utils/verseMatch.ts
-var verseMatch = (verse, isFromModal = false) => {
-  const matchResults = verse.match(isFromModal ? MODAL_REG : SHORT_REG);
+var verseMatch = (verseTrigger) => {
+  const matchResults = verseTrigger.match(MODAL_REG);
   if (!matchResults) {
     return "";
   } else {
     return matchResults[0];
   }
+};
+var matchTriggerPrefix = (verseTrigger) => {
+  return DEFAULT_TRIGGER_PREFIX_REG.test(verseTrigger);
 };
 
 // src/provider/BaseBibleAPIProvider.ts
@@ -13689,10 +13413,10 @@ var BibleAPIDotComProvider = class extends BaseBibleAPIProvider {
    * @param versionName
    */
   buildRequestURL(bookName, chapter, verses, versionName) {
-    let queryString = `${bookName}+${chapter}:`.replace(/ /g, "+");
+    let queryString = `${bookName}+${chapter}:`;
     queryString += this.convertVersesToQueryString(verses);
     this._currentQueryUrl = `${this._apiUrl}/${queryString}?translation=${versionName ? versionName : (this == null ? void 0 : this.BibleVersionKey) ? this.BibleVersionKey : ""}`;
-    this.bibleGatewayUrl = this.buildBibleGatewayUrl(bookName, chapter, verses);
+    this.bibleGatewayUrl = this.buildBibleGatewayUrl(bookName, chapter, verses).replace(/ /g, "+");
     return this._currentQueryUrl;
   }
   prepareVerseLinkUrl() {
@@ -13873,7 +13597,7 @@ var BaseVerseFormatter = class {
       if (((_a2 = this.settings) == null ? void 0 : _a2.verseFormatting) === "Paragraph" /* Paragraph */) {
         text += " " + verseNumberFormatted + verse.text.trim().replaceAll("\n", " ");
       } else {
-        text += "> " + verseNumberFormatted + verse.text.trim() + "\n";
+        text += "> " + verseNumberFormatted + verse.text.trim().replace(/\r\n|\n|\r/g, " ") + "\n";
       }
     });
     console.debug("text", text);
@@ -13925,6 +13649,9 @@ var BaseVerseFormatter = class {
       case "**^1**" /* SuperScriptBold */:
         verseNumberFormatted += "<sup> **" + verseNumber + "** </sup>";
         return verseNumberFormatted;
+      case "**1**" /* Bold */:
+        verseNumberFormatted += "**" + verseNumber + "** ";
+        return verseNumberFormatted;
       case "None" /* None */:
         verseNumberFormatted = " ";
         return verseNumberFormatted;
@@ -13959,8 +13686,8 @@ var VerseSuggesting = class extends BaseVerseFormatter {
     let bottom = super.bottom;
     if (((_a = this.settings) == null ? void 0 : _a.bookTagging) || ((_b = this.settings) == null ? void 0 : _b.chapterTagging)) {
       bottom += " %%";
-      bottom += ((_c = this.settings) == null ? void 0 : _c.bookTagging) ? ` #${this.verseReference.bookName}` : "";
-      bottom += ((_d = this.settings) == null ? void 0 : _d.chapterTagging) ? ` #${this.verseReference.bookName + this.verseReference.chapterNumber}` : "";
+      bottom += ((_c = this.settings) == null ? void 0 : _c.bookTagging) ? ` #${this.verseReference.bookName.replace(/ /g, "")}` : "";
+      bottom += ((_d = this.settings) == null ? void 0 : _d.chapterTagging) ? ` #${this.verseReference.bookName.replace(/ /g, "") + this.verseReference.chapterNumber}` : "";
       bottom += " %%";
     }
     if (((_e = this.settings) == null ? void 0 : _e.bookBacklinking) === OutgoingLinkPositionEnum.Bottom || ((_f = this.settings) == null ? void 0 : _f.chapterBacklinking) === OutgoingLinkPositionEnum.Bottom) {
@@ -13999,27 +13726,38 @@ var VerseSuggesting = class extends BaseVerseFormatter {
     );
   }
   getVerseReferenceLink() {
-    return ` [${this.bibleProvider.BibleReferenceHead} - ${this.bibleVersion.toUpperCase()}](${this.bibleProvider.VerseLinkURL})`;
+    var _a, _b, _c, _d, _e, _f;
+    let verseLink = "";
+    if (((_a = this.settings) == null ? void 0 : _a.showVerseTranslation) && ((_b = this.settings) == null ? void 0 : _b.enableHyperlinking)) {
+      verseLink = ` [${this.bibleProvider.BibleReferenceHead} - ${this.bibleVersion.toUpperCase()}](${this.bibleProvider.VerseLinkURL})`;
+    } else if (((_c = this.settings) == null ? void 0 : _c.showVerseTranslation) && !((_d = this.settings) == null ? void 0 : _d.enableHyperlinking)) {
+      verseLink = ` ${this.bibleProvider.BibleReferenceHead} - ${this.bibleVersion.toUpperCase()}`;
+    } else if (!((_e = this.settings) == null ? void 0 : _e.showVerseTranslation) && ((_f = this.settings) == null ? void 0 : _f.enableHyperlinking)) {
+      verseLink = ` [${this.bibleProvider.BibleReferenceHead}](${this.bibleProvider.VerseLinkURL})`;
+    } else {
+      verseLink = ` ${this.bibleProvider.BibleReferenceHead}`;
+    }
+    return verseLink;
   }
 };
 
 // src/utils/getSuggestionsFromQuery.ts
-var getSuggestionsFromQuery = async (query, settings) => {
-  console.debug("get suggestion for query ", query.toLowerCase());
-  const matchResults = query.match(BOOK_REG);
-  const rawBookName = (matchResults == null ? void 0 : matchResults.length) ? matchResults[0] : void 0;
+var getSuggestionsFromQuery = async (queryWithoutPrefix, settings) => {
+  console.debug("get suggestion for query ", queryWithoutPrefix.toLowerCase());
+  const bookNameMatchingResults = queryWithoutPrefix.match(BOOK_REG);
+  const rawBookName = (bookNameMatchingResults == null ? void 0 : bookNameMatchingResults.length) ? bookNameMatchingResults[0] : void 0;
   if (!rawBookName) {
-    console.error(`could not find through query`, query);
+    console.error(`could not find through query`, queryWithoutPrefix);
     return [];
   }
-  const numbersPartsOfQueryString = query.substring(2 + rawBookName.length);
+  const numbersPartsOfQueryString = queryWithoutPrefix.substring(rawBookName.length);
   const numbers = numbersPartsOfQueryString.split(/[-:]+/);
   const chapterNumber = parseInt(numbers[0].trim());
   const verseNumber = parseInt(numbers[1]);
   const verseEndNumber = numbers.length === 3 ? parseInt(numbers[2]) : void 0;
   const selectedBibleVersion = getBibleVersion(settings.bibleVersion);
   const bookName = getFullBookName(rawBookName, selectedBibleVersion == null ? void 0 : selectedBibleVersion.code);
-  console.debug("bookName", bookName);
+  console.debug("selected bookName", bookName);
   const suggestingVerse = new VerseSuggesting(
     settings,
     bookName,
@@ -14054,9 +13792,17 @@ var VerseEditorSuggester = class extends import_obsidian4.EditorSuggest {
    */
   onTrigger(cursor, editor, _) {
     const currentContent = editor.getLine(cursor.line).substring(0, cursor.ch);
-    const match = verseMatch(currentContent, false);
+    if (currentContent.length < 2) {
+      return null;
+    }
+    const prefixTrigger = currentContent.substring(0, 2);
+    if (!matchTriggerPrefix(prefixTrigger)) {
+      return null;
+    }
+    const queryContent = currentContent.substring(2);
+    const match = verseMatch(queryContent);
     if (match) {
-      console.debug("trigger on", currentContent);
+      console.debug("trigger on", queryContent);
       EventStats.logUIOpen(
         "lookupEditorOpen",
         { key: `${this.settings.bibleVersion}`, value: 1 },
@@ -14066,7 +13812,7 @@ var VerseEditorSuggester = class extends import_obsidian4.EditorSuggest {
         end: cursor,
         start: {
           line: cursor.line,
-          ch: currentContent.lastIndexOf(match)
+          ch: queryContent.lastIndexOf(match)
         },
         query: match
       };
@@ -14120,7 +13866,7 @@ var VerseLookupSuggestModal = class extends import_obsidian5.SuggestModal {
     super.onOpen();
   }
   async getSuggestions(query) {
-    const match = verseMatch(query, true);
+    const match = verseMatch(query);
     if (match) {
       console.debug("trigger on", query);
       EventStats.logLookup(
@@ -14131,7 +13877,7 @@ var VerseLookupSuggestModal = class extends import_obsidian5.SuggestModal {
         },
         this.settings.optOutToEvents
       );
-      return getSuggestionsFromQuery(`--${query}`, this.settings);
+      return getSuggestionsFromQuery(`${query}`, this.settings);
     }
     return [];
   }
@@ -14281,6 +14027,32 @@ var VerseOfDayModal = class extends import_obsidian7.Modal {
   }
 };
 
+// src/api/PluginAPI.ts
+var BibleReferenceAPI = class {
+  constructor(app, settings) {
+    this.app = app;
+    this.settings = settings;
+    this.app = app;
+    this.settings = settings;
+  }
+  /**
+   * Lookup verses from a string
+   *
+   * Adapted from `VerseLookupSuggestModal#getSuggestions`
+   *
+   * @param {String} query - the query string (e.g. 'Luke 1:1')
+   * @param {BibleReferencePluginSettings?} [opts=undefined] - optional overrides for any settings
+   */
+  async queryVerses(query, opts) {
+    if (!verseMatch(query))
+      return null;
+    return getSuggestionsFromQuery(`${query}`, this.mergeSettings(opts)).then((verseArray) => verseArray[0] || null);
+  }
+  mergeSettings(opts) {
+    return opts ? Object.assign(Object.assign({}, this.settings), opts) : Object.assign({}, this.settings);
+  }
+};
+
 // src/main.ts
 var BibleReferencePlugin = class extends import_obsidian8.Plugin {
   async onload() {
@@ -14291,24 +14063,16 @@ var BibleReferencePlugin = class extends import_obsidian8.Plugin {
     this.verseLookUpModal = new VerseLookupSuggestModal(this, this.settings);
     this.addVerseLookupCommand();
     this.addRibbonButton();
-    const flagService = FlagService.getInstace();
-    await flagService.init("obsidian-app");
-    if (FlagService.instance.isFeatureEnabled("vod")) {
-      console.debug("vod feature flag enabled");
-      const featureValues = FlagService.instance.getFeatureValue("vod");
-      if (featureValues == null ? void 0 : featureValues.editor) {
-        this.registerEditorSuggest(
-          new VerseOfDayEditorSuggester(this, this.settings)
-        );
-      }
-      if (featureValues == null ? void 0 : featureValues.insert) {
-        this.verseOfDayModal = new VerseOfDayModal(this, this.settings);
-        this.addVerseOfDayInsertCommand();
-      }
-      if (featureValues == null ? void 0 : featureValues.notice) {
-        this.addVerseOfDayNoticeCommand();
-      }
-    }
+    this.api = new BibleReferenceAPI(this.app, this.settings);
+    (window["BibleReferenceAPI"] = this.api) && this.register(() => {
+      delete window["BibleReferenceAPI"];
+    });
+    this.registerEditorSuggest(
+      new VerseOfDayEditorSuggester(this, this.settings)
+    );
+    this.verseOfDayModal = new VerseOfDayModal(this, this.settings);
+    this.addVerseOfDayInsertCommand();
+    this.addVerseOfDayNoticeCommand();
     this.initStatusBarIndicator();
     EventStats.logRecord(this.settings.optOutToEvents);
   }
