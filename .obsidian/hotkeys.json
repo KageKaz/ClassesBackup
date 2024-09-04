@@ -9,15 +9,6 @@
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-excalidraw-plugin:save": [],
   "obsidian-excalidraw-plugin:toggle-lock": [],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "editor:save-file": [],
   "obsidian-git:push": [
     {
@@ -42,6 +33,15 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
     }
   ]
 }

@@ -99,20 +99,14 @@
             "id": "90fade892e522c30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "31dff19922dde93d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-03 17.26.32.excalidraw.md"
+              }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,6 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-03 17.26.32.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,6 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-03 17.26.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,6 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-09-03 17.26.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +263,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-03 17.26.32.excalidraw.md"
+              }
             }
           },
           {
@@ -307,9 +306,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3776343f45759574",
+  "active": "90fade892e522c30",
   "lastOpenFiles": [
-    "Untitled",
+    "Excalidraw/Drawing 2024-09-03 17.26.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-03 17.26.32.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-09-03 17.26.12.excalidraw.md",
+    "Excalidraw/Test.md",
+    "Untitled.md",
+    "Studying The Humanities 101 - Robin Waldun",
     "remote",
     "Unsorted/blog article 1.md",
     "Unsorted/derivative.md",
@@ -336,10 +341,6 @@
     "Math/Mathematical Logic/function.md",
     "Math/Geometry/coordinate system.md",
     "Math/Geometry/cotangent.md",
-    "Math/Mathematical Logic/composite function.md",
-    "Physics/amplitude.md",
-    "Math/Geometry/cofunction.md",
-    "Math/Applied Mathematics/Statistics/10% rule.md",
     "Math/Applied Mathematics/Statistics",
     "Math/Analysis/Calculus",
     "Math/Foundations/Set Theory",
@@ -347,8 +348,6 @@
     "Math/History of Math/Set",
     "Math/History of Math",
     "Math/General/History of Math",
-    "Math/General",
-    "Elementary Algebra",
     "Attachments/Pasted image 20240719190915.png",
     "Attachments/Pasted image 20240711151025.png",
     "Attachments/Pasted image 20240711151023.png",

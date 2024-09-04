@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "./",
   "propertiesInDocument": "visible",
   "newFileFolderPath": "Unsorted",
   "pdfExportSettings": {
