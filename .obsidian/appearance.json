@@ -2,5 +2,6 @@
   "accentColor": "#bf95f9",
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showViewHeader": true
 }

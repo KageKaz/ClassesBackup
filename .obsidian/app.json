@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
   "propertiesInDocument": "visible",
@@ -10,5 +10,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showInlineTitle": true,
+  "showRibbon": false
 }

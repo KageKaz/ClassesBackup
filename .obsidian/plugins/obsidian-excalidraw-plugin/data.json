@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -34,7 +34,7 @@
   "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
   "penModeCrosshairVisible": false,
   "renderImageInMarkdownReadingMode": false,

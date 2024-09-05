@@ -1,0 +1,1 @@
+Write about one event that happened that day. Turn it into a story
