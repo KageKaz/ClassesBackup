@@ -12,11 +12,11 @@
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 15000,
-  "drawingFilenamePrefix": "Drawing ",
+  "drawingFilenamePrefix": "✒️",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
-  "useExcalidrawExtension": true,
+  "useExcalidrawExtension": false,
   "cropPrefix": "cropped_",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
@@ -34,9 +34,9 @@
   "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
-  "defaultPenMode": "always",
+  "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
-  "penModeCrosshairVisible": false,
+  "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
@@ -44,7 +44,7 @@
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
-  "zoomToFitMaxLevel": 2,
+  "zoomToFitMaxLevel": 5,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
   "parseTODO": false,
@@ -114,18 +114,17 @@
   "pinnedScripts": [],
   "customPens": [
     {
-      "type": "default",
+      "type": "finetip",
       "freedrawOnly": false,
-      "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 0,
+      "strokeWidth": 1,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
         "constantPressure": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "options": {
           "thinning": 0.6,
           "smoothing": 0.5,
@@ -142,7 +141,8 @@
             "easing": "linear"
           }
         }
-      }
+      },
+      "strokeColor": "#000000"
     },
     {
       "type": "highlighter",
@@ -424,7 +424,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 1,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
@@ -772,6 +772,6 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
+  "showSplashscreen": false,
   "autosaveInterval": 15000
 }
