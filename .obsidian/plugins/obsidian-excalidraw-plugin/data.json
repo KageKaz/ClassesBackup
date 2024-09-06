@@ -114,11 +114,11 @@
   "pinnedScripts": [],
   "customPens": [
     {
-      "type": "finetip",
+      "type": "default",
       "freedrawOnly": false,
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 1,
+      "strokeWidth": 0.5,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
@@ -131,14 +131,14 @@
           "streamline": 0.5,
           "easing": "easeOutSine",
           "start": {
-            "cap": true,
-            "taper": 0,
-            "easing": "linear"
+            "cap": false,
+            "taper": 1,
+            "easing": "easeInSine"
           },
           "end": {
-            "cap": true,
-            "taper": 0,
-            "easing": "linear"
+            "cap": false,
+            "taper": 1,
+            "easing": "easeOutSine"
           }
         }
       },
@@ -424,7 +424,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 1,
+  "numberOfCustomPens": 2,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
