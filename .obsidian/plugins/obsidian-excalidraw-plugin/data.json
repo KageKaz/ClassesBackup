@@ -114,35 +114,34 @@
   "pinnedScripts": [],
   "customPens": [
     {
-      "type": "default",
+      "type": "finetip",
       "freedrawOnly": false,
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 0.5,
+      "strokeWidth": 1,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
-        "constantPressure": false,
         "hasOutline": false,
         "outlineWidth": 0,
+        "constantPressure": true,
         "options": {
-          "thinning": 0.6,
-          "smoothing": 0.5,
-          "streamline": 0.5,
-          "easing": "easeOutSine",
+          "smoothing": 0.4,
+          "thinning": -0.5,
+          "streamline": 0.4,
+          "easing": "linear",
           "start": {
+            "taper": 5,
             "cap": false,
-            "taper": 1,
-            "easing": "easeInSine"
+            "easing": "linear"
           },
           "end": {
+            "taper": 5,
             "cap": false,
-            "taper": 1,
-            "easing": "easeOutSine"
+            "easing": "linear"
           }
         }
-      },
-      "strokeColor": "#000000"
+      }
     },
     {
       "type": "highlighter",
@@ -424,7 +423,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 2,
+  "numberOfCustomPens": 0,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
