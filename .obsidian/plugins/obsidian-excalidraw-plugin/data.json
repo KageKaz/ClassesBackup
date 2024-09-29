@@ -1,8 +1,8 @@
 {
-  "folder": "",
+  "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
-  "embedUseExcalidrawFolder": false,
+  "embedUseExcalidrawFolder": true,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": true,

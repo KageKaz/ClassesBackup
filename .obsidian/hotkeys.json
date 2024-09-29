@@ -35,13 +35,22 @@
       "key": "M"
     }
   ],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current": [
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
