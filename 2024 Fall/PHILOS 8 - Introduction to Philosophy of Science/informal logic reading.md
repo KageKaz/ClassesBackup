@@ -10,6 +10,6 @@ Sound arguments need true premises and valid reasoning. Truth is out of scope fo
 
 As for validity:
 
-In the classical tradition, validity means that there is no possibility for the conclusion to be false if the premises are true. In other words, there is no counterexample. In this context possibility just means that it can be logically conceived.
+In the classical tradition, validity means that there is no possibility for the conclusion to be false if the premises are true. In other words, there is no counterexample. In this context possibility just means that it can be logically conceived. 
 
 Is being sound enough, or does an argument also be relevant to be considered a "good argument"?
