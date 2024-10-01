@@ -6,10 +6,15 @@ Sentences are not propositions, they involve context about the speaker, audience
 
 There's a distinction between the experience of logic and the technicality of logic
 
-Sound arguments need true premises and valid reasoning. Truth is out of scope for the logician. 
+Sound arguments need true premises and valid reasoning. "P" is true if and only if P (Convention T)
+Truth is out of scope for the logician. 
 
 As for validity:
 
 In the classical tradition, validity means that there is no possibility for the conclusion to be false if the premises are true. In other words, there is no counterexample. In this context possibility just means that it can be logically conceived. 
 
+An argument with contradictory premises is valid because there is no case where both premises are true.
+
 Is being sound enough, or does an argument also be relevant to be considered a "good argument"?
+
+T
