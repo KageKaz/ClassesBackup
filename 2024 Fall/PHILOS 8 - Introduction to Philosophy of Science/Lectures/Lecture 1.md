@@ -1,9 +1,8 @@
 ![[Lecture 1 2024-09-29 17.03.30]][[informal logic reading]]
 [[validity and counterexamples]]
-question: contradictory premises 
 # Transcript
 ![[Conclusion - Monday at 12-30 PM.m4a]]
-Not the things that we do. So, I suppose it's my job to tell you why political science might be important. And why don't we just start by asking you all why the philosophy of science might be important? Sure, you can check off a general education requirement or other practical things like that, but give me an answer that’s going to make me feel good about my job.
+Not the things that we do. So, I suppose it's my job to tell you why philosophy of science might be important. And why don't we just start by asking you all why the philosophy of science might be important? Sure, you can check off a general education requirement or other practical things like that, but give me an answer that’s going to make me feel good about my job.
 
 He's feeling great. Ah, the first great student. Your name is Armand? Okay, excellent. What do you think? Science explains the world that we live in. Okay, and so why do we philosophize on top of what science is doing? Yeah, yeah. So, if I can generalize that a little bit, because this may be a complementary but different perspective than the one provided by—what’s your name?
 
