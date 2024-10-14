@@ -1,0 +1,1 @@
+![[Lecture 3 - Quining Qualia 2024-10-14 16.14.00]]
