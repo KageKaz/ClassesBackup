@@ -3,5 +3,34 @@
   "full-list-lane-width": true,
   "new-note-template": "一 Archive 一/Kanban Template.md",
   "move-tags": true,
-  "tag-colors": []
+  "tag-colors": [
+    {
+      "tagKey": "#NEUROSC10",
+      "color": "rgba(46, 35, 40, 1)",
+      "backgroundColor": "rgba(186, 74, 120, 1)"
+    },
+    {
+      "tagKey": "#PHILOS7",
+      "color": "rgba(55, 46, 32, 1)",
+      "backgroundColor": "rgba(193, 145, 56, 1)"
+    },
+    {
+      "tagKey": "#PHILOS8",
+      "color": "rgba(42, 36, 48, 1)",
+      "backgroundColor": "rgba(134, 93, 187, 1)"
+    }
+  ],
+  "tag-sort": [
+    {
+      "tag": "#PHILOS7"
+    },
+    {
+      "tag": "#PHILOS8"
+    },
+    {
+      "tag": "#NEUROSC10"
+    }
+  ],
+  "show-add-list": false,
+  "new-note-folder": "2024 Fall"
 }

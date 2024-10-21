@@ -16,7 +16,7 @@ kanban-plugin: board
 
 
 
-## Encoded
+## Retaining
 
 - [ ] [[Lecture 1 - History and Fields]]
 - [ ] [[Lecture 2 - Neuroanatomy]]

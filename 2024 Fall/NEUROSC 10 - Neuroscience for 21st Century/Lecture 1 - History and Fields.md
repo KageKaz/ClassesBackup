@@ -1,7 +1,8 @@
 ---
 tags:
-  - NEUROSC10
 ---
+#NEUROSC10
+
 ![[✒️2024-09-26 13.27.34]]
 # Transcript
 ![[Emotions - Monday at 11-05 AM.m4a]]

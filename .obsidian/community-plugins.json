@@ -1,5 +1,4 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-bible-reference",
   "obsidian-excalidraw-plugin",
   "obsidian-hider",
@@ -10,5 +9,6 @@
   "obsidian-style-settings",
   "obsidian-pending-notes",
   "obsidian-git",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-minimal-settings"
 ]
