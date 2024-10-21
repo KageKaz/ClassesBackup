@@ -1,0 +1,1 @@
+![[Lecture 7 - Cognitive Dissonance 2024-10-21 11.55.06]]
