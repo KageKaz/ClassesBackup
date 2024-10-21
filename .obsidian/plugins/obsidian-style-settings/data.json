@@ -11,5 +11,6 @@
   "minimal-style@@h5-weight": 600,
   "minimal-style@@h6-weight": 600,
   "minimal-style@@heading-spacing": "1.5em",
-  "minimal-style@@p-spacing": "0.1rem"
+  "minimal-style@@p-spacing": "0.1rem",
+  "minimal-style@@sidebar-lines-off": false
 }
