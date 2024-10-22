@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 5 - Kuhn Analogies and Relativism]]
 - [ ] [[Lecture 6 - Semmelweis and Kuhn]]
 - [ ] [[Lecture 7 - Shattering the myth of Semmelweis]]
 
 
 ## Primed
 
+- [ ] [[Lecture 5 - Kuhn Analogies and Relativism]]
 
 
 ## Encoding
