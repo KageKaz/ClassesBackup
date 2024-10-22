@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[Lecture 6 - Introduction to the Senses]]
+- [ ] [[Lecture 7 - Somatosensation and Pain]]
 
 
 ## Primed
@@ -21,8 +23,8 @@ kanban-plugin: board
 - [ ] [[Lecture 1 - History and Fields]]
 - [ ] [[Lecture 2 - Neuroanatomy]]
 - [ ] [[Lecture 3 - Neuroanatomy]]
-- [ ] [[Lecture 4 - action potential]]
-- [ ] [[Lecture 5 - synaptic transmission]]
+- [ ] [[Lecture 4 - Action Potential]]
+- [ ] [[Lecture 5 - Synaptic Transmission]]
 
 
 
