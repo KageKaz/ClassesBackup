@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 6 - Semmelweis and Kuhn]]
+- [ ] [[Lecture 6 - Semmelweis and Kuhn]] #transcript
 - [ ] [[Lecture 7 - Shattering the myth of Semmelweis]]
 
 
