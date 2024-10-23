@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 3 - Quining Qualia]]
 - [ ] [[Lecture 4- Associative vs Inferential Learning]]
 - [ ] [[Lecture 5 - Confirmation Bias]]
 - [ ] [[Lecture 6 - The Spinozan vs. Cartesian Views of Belief Formation]]
@@ -20,6 +19,7 @@ kanban-plugin: board
 
 ## Encoding
 
+- [ ] [[Lecture 3 - Quining Qualia]]
 
 
 ## Retaining
