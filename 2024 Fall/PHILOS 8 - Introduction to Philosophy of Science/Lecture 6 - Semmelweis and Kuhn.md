@@ -1,6 +1,7 @@
 
+![[Lecture 6 - Semmelweis and Kuhn 2024-10-26 12.42.58]]
 # Transcript (factual inaccuracies)
-# Introduction: Overview of Scientific Communities and Confirmation
+# Introduction: Overviewe777 of Scientific Communities and Confirmation
 
 Last Wednesday, we explored how Thomas Kuhn uses technological interests to drive the direction of scientific inquiry. Today, we're going to tie together several concepts, revisiting our case study of Ignaz Semmelweis, and getting a Kuhnian interpretation of his work. This will allow us to bridge some philosophical ideas on scientific progress, community dynamics, and confirmation theory.
 
