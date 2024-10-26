@@ -1,3 +1,4 @@
+
 # Transcript (factual inaccuracies)
 # Introduction: Overview of Scientific Communities and Confirmation
 
