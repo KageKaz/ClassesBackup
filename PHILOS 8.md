@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 6 - Semmelweis and Kuhn]] #transcript
-- [ ] [[Lecture 7 - Shattering the myth of Semmelweis]]
 
 
 ## Primed
@@ -25,6 +23,8 @@ kanban-plugin: board
 - [ ] [[Lecture 3 - Statistical Generalizations]]
 - [ ] [[Lecture 4 - Casual Reasoning]] #struggle
 - [ ] [[Lecture 5 - Kuhn Analogies and Relativism]]
+- [ ] [[Lecture 6 - Semmelweis and Kuhn]] #transcript
+- [ ] [[Lecture 7 - Shattering the myth of Semmelweis]]
 
 
 
