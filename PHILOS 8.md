@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[Lecture 8 - Values and Objectivity]]
+- [ ] [[Lecture 9 - Intro to Probability and Inductive Logic]]
 
 
 ## Primed
