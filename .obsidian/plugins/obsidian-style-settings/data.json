@@ -13,5 +13,6 @@
   "minimal-style@@heading-spacing": "1.5em",
   "minimal-style@@p-spacing": "0.1rem",
   "minimal-style@@sidebar-lines-off": false,
-  "minimal-style@@minimal-unstyled-tags": false
+  "minimal-style@@minimal-unstyled-tags": false,
+  "minimal-style@@window-title-off": false
 }
