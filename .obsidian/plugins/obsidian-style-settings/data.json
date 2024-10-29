@@ -14,5 +14,8 @@
   "minimal-style@@p-spacing": "0.1rem",
   "minimal-style@@sidebar-lines-off": false,
   "minimal-style@@minimal-unstyled-tags": false,
-  "minimal-style@@window-title-off": false
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@tabs-style": "tabs-default"
 }

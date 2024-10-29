@@ -10,14 +10,6 @@
   "obsidian-excalidraw-plugin:save": [],
   "obsidian-excalidraw-plugin:toggle-lock": [],
   "editor:save-file": [],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "file-explorer:new-file": [],
   "file-explorer:new-file-in-current-tab": [
     {
@@ -51,6 +43,14 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }
