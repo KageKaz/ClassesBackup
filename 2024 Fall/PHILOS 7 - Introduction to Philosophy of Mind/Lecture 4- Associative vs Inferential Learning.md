@@ -1,4 +1,4 @@
-
+![[Lecture 4- Associative vs Inferential Learning 2024-10-29 11.31.45]]
 # Transcript
 ### Introduction to Functionalism and Color Experience
 
