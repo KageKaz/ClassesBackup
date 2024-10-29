@@ -91,3 +91,97 @@ Similarly, studies that suggest moral reflection darkens visual perception might
 In conclusion, today's lecture introduced the complex relationship between **perception and belief**, a topic that bridges philosophy and cognitive psychology. We considered both sides of the debate: on one hand, perception seems to operate independently of belief, as evidenced by its stability in the face of contrary claims. On the other hand, recent studies suggest that desires, emotions, and beliefs may have subtle effects on how we perceive the world.
 
 In the upcoming sessions, we will continue to explore this debate, diving deeper into the evidence supporting both cognitive penetrability and impenetrability. Our goal is to better understand whether perception is truly a window to the world or if it is shaped by our mental states in more profound ways than previously thought.
+## Part 2
+### Introduction: Cognitive Penetrability and Perception
+
+Today’s lecture delves into the fascinating question of whether our perceptual experiences can be influenced by our beliefs, desires, or background knowledge. This idea, known as "cognitive penetrability," proposes that mental states such as beliefs and expectations can affect how we perceive the world, rather than perception being purely a bottom-up process driven by sensory input. We will explore examples, criticisms, and different experimental results that support or refute this theory.
+
+To make the concepts clearer, imagine I show you an ambiguous image. If I tell you it is a duck, you might perceive it as a duck. But if I say it could also be a rabbit, and ask you to focus on it differently, you might start seeing a rabbit instead. The change in what you perceive is driven by how I directed your attention, which is influenced by what I told you. In this case, background beliefs or suggestions shape perception. However, this raises an important question: are these shifts in perception just a result of attention, or can deeper, cognitive processes—such as beliefs—actually alter the content of our perception itself?
+
+This leads us to the broader debate: Can perception be rationally influenced by beliefs, or is it impervious to such effects, remaining independent of our cognitive states? Today, we’ll unpack different views, look at empirical results, and consider critiques from researchers who argue that perception remains unaffected by rational influences.
+
+### The Persistence of Visual Illusions: A Challenge to Cognitive Penetrability
+
+One of the key arguments against the idea that perception can be influenced by beliefs comes from the persistence of visual illusions. Consider the classic **Müller-Lyer illusion**, in which two lines with arrowheads pointing in opposite directions appear to be different lengths, even though they are objectively the same. No matter how many times you are told the lines are equal, your perception stubbornly stays the same: one line looks longer. This has led many scholars to argue that perception is resistant to the influence of beliefs. If knowing the truth can’t change your visual experience, it suggests that perception operates independently of your cognitive understanding.
+
+The Müller-Lyer illusion is just one of many examples used to argue that perception is "cognitively impenetrable." Other visual illusions, such as the **Ebbinghaus illusion** or **the Ponzo illusion**, similarly show how deeply ingrained and unchangeable certain perceptual experiences are, even when you’re fully aware that what you are seeing is false. This suggests that perception is a distinct and automatic process, separated from higher-order thinking.
+
+### Top-Down Effects: Attention Versus Belief
+
+However, while many visual illusions seem to resist cognitive influence, there are well-documented effects where perception can be influenced by factors like attention. This brings us to the concept of **top-down effects**, which refer to how higher cognitive processes, such as attention, shape what we perceive.
+
+For example, if I show you an ambiguous image like the **duck-rabbit illusion** and say, “Focus on this part of the image, and you’ll see a rabbit,” your attention shifts to specific features of the image, and you might indeed start to perceive it as a rabbit. This is a relatively straightforward way that beliefs can influence perception—by directing your attention.
+
+In the literature, these top-down effects are widely accepted as influences on perception, but they are often not considered examples of cognitive penetrability in the stronger sense. That is, these effects don’t show that beliefs themselves change the content of perception, but rather that attention can shift in a way that alters perception. The question remains whether beliefs can directly alter perception without the intermediary role of attention.
+
+### Empirical Evidence Suggesting Cognitive Penetrability
+
+Despite the persistence of visual illusions, there is growing evidence from social psychology that suggests beliefs and desires can indeed influence perception. These findings have sparked considerable debate. Here are some examples of studies that have been taken to support the idea of cognitive penetrability:
+
+1. **Desire and Distance Perception**: One study showed that when participants desired an object (like chocolate), they judged the object to be physically closer than those who did not desire it. The interpretation here is that desire can literally alter how we see the distance to an object.
+  
+2. **Wearing a Heavy Backpack**: Another experiment found that participants wearing a heavy backpack judged hills to be steeper and distances to be farther compared to those without a backpack. This suggests that physical states (e.g., fatigue) or the expectation of exertion can alter perceptual judgments.
+
+3. **Moral Reflection and Perception**: In one particularly striking study, participants who reflected on immoral actions perceived their environment as literally darker compared to participants who had not reflected on immoral actions. The researchers suggested that moral or emotional states could influence how participants visually perceived the world around them.
+
+4. **Social Exclusion and Proximity**: Another study found that participants who felt socially excluded perceived others as physically closer. This implies that emotional states (like loneliness) could alter spatial perception.
+
+5. **Smiling Faces and Brightness**: Smiling faces were found to appear brighter to participants than neutral or frowning faces. This suggests that emotional interpretation (associating smiling with happiness) may affect the perception of brightness.
+
+### Firestone and Scholl’s Critique: Four Strategies to Challenge Cognitive Penetrability
+
+Firestone and Scholl, prominent researchers in the field, are strong skeptics of the idea that beliefs can directly influence perception. They argue that the studies suggesting cognitive penetrability can be explained by other factors and do not demonstrate true perceptual change. They employ four main strategies to critique these studies:
+
+1. **Measurement Errors**: Firestone and Scholl suggest that some studies suffer from methodological flaws, particularly in how they measure perceptual changes. They argue that poorly designed experiments can give the illusion that perception has been altered when, in fact, the change is due to other factors.
+
+2. **Demand Characteristics**: Many studies are vulnerable to **demand characteristics**, where participants unintentionally behave in ways they think the researchers want them to. This could lead to changes in behavior or reports, not because perception has changed, but because participants are trying to be “good” subjects by providing the expected responses.
+
+3. **Confusing Perception with Post-Perceptual Judgment**: Firestone and Scholl argue that many studies fail to distinguish between actual changes in perception and **post-perceptual judgments**. For example, a participant might interpret a situation differently after thinking about it, but that doesn’t mean their visual perception has changed. In many cases, what researchers take as evidence of perceptual change could simply be participants making judgments after the fact.
+
+4. **Shifts in Attention**: They also suggest that some studies confuse shifts in attention with actual changes in perception. For example, if you direct someone's attention to specific features of an image, it might seem like their perception has changed, but this is simply because they’re focusing on different aspects of the visual field. This is not the same as beliefs changing the perceptual content.
+
+### The El Greco Fallacy: A Key Critique
+
+One of the most important critiques offered by Firestone and Scholl is what they call the **El Greco fallacy**, named after the Renaissance painter El Greco. El Greco’s paintings are characterized by elongated figures, and at one point, art historians speculated that he may have suffered from astigmatism, a condition that could cause the world to appear stretched. However, as Firestone and Scholl point out, this explanation doesn’t hold up, because if El Greco had astigmatism, not only would the figures he painted appear stretched, but so would the canvas itself, canceling out the effect. Therefore, his artistic style was likely a choice, not a result of distorted perception.
+
+Firestone and Scholl apply this same logic to several cognitive penetrability studies, arguing that researchers may be overlooking important factors that would nullify the effects they claim to find. For example, if a participant’s perception of brightness is affected by reflecting on immoral actions, this change should also affect their ability to match brightness levels on a grayscale chart, not just their subjective judgment of the room’s brightness. In many cases, Firestone and Scholl argue that the studies fail to account for these kinds of controls, leading to misleading conclusions.
+
+### The "Moral Darkness" Study: An Example of Critique
+
+Let’s take a closer look at one of the studies Firestone and Scholl critique—the “moral darkness” study. In this study, participants were asked to read a vignette about immoral actions (e.g., stealing or lying) and then rate the brightness of the room they were in. Those who read the immoral vignette rated the room as darker than those who didn’t. The researchers interpreted this as evidence that moral judgments can affect visual perception.
+
+Firestone and Scholl, however, argue that this result might be due to measurement issues. In the original study, participants rated the brightness of the room on a numerical scale. But numerical ratings are subjective and can be influenced by factors like mood or expectation. Firestone and Scholl propose using a more objective measure, such as having participants match the brightness of the room to a grayscale patch.
+
+When this method was used in a follow-up experiment, the effect disappeared. This suggests that the original finding was not about literal visual perception but rather about post-perceptual judgment—participants felt like the room was darker, perhaps because of the negative emotions evoked by the immoral vignette, but they didn’t actually *see* it as darker.
+
+### Desire and Distance Perception: Another Critique
+
+In another study that Firestone and Scholl critique, participants who were asked to throw a heavy ball at a target perceived the target as being farther away than participants who were asked to throw a lighter ball. The researchers took this as evidence that desire (in this case, the desire to avoid exertion) can influence distance perception.
+
+
+
+However, Firestone and Scholl argue that the question posed to participants—“How far away does the target appear?”—was too vague. It could be interpreted as asking for a judgment based on multiple factors, not just pure visual perception. To test this, Firestone and Scholl rephrased the question to separate visual perception from judgment. They asked participants two questions: (1) How far does the target look visually? and (2) How far do you think the target is, taking all factors into account?
+
+When the participants were able to make this distinction, the effect of the heavy ball disappeared in the visual perception question but remained in the judgment question. This suggests that the original study’s findings were not about perceptual change, but about participants making different judgments based on the difficulty of the task.
+
+### Attention Shifts and Perception
+
+A final point that Firestone and Scholl make is that some studies confuse changes in attention with changes in perception. For example, one study found that playing scary music made participants more likely to interpret ambiguous images as threatening. This was taken as evidence that emotional states could alter perception.
+
+However, Firestone and Scholl argue that this is likely due to a shift in attention. When you’re anxious or afraid, your attention naturally shifts toward potential threats, which might make you more likely to interpret ambiguous stimuli in a threatening way. But this doesn’t mean that your perception has changed; rather, your focus has shifted, and you’re more attuned to certain aspects of the visual field. Everyone agrees that attention can influence perception, but this is a different mechanism than cognitive penetrability, where beliefs directly change the content of perception.
+
+### The Ongoing Debate: Are Perceptions Rationally Influenced by Beliefs?
+
+The debate about whether beliefs can influence perception remains unresolved. Firestone and Scholl’s critiques have certainly cast doubt on many of the studies claiming to show cognitive penetrability. However, there are other studies with different methodologies that still suggest a connection between belief and perception.
+
+The current debate focuses on two main questions:
+
+1. **Are there rational influences of background beliefs on perception?** Scholars are still divided on whether cognitive penetrability is a real phenomenon. Some studies seem to support the idea, while others, when scrutinized more closely, seem to show post-perceptual judgment rather than true perceptual change.
+   
+2. **If there are influences, how significant are they?** Even if beliefs do influence perception, the question remains: How strong are these effects? Are they subtle and rare, or are they common and pervasive? Some researchers argue that any such influences are likely to be very minor, while others believe they could be significant in certain contexts.
+
+### Conclusion
+
+In conclusion, the relationship between perception and belief is a complex and contested area of research. While there is some evidence that suggests beliefs and desires can influence perception, critics like Firestone and Scholl provide compelling arguments that many of these effects are either due to methodological flaws, demand characteristics, or post-perceptual judgments. The debate continues, with more research needed to determine the extent to which our perceptions are shaped by our beliefs.
+
+As we continue to investigate this fascinating topic, it's essential to remain aware of the various mechanisms at play—whether it's the undeniable role of attention in altering perception, or the more controversial idea that beliefs can penetrate our sensory experiences. For now, the field remains open, and further studies will be necessary to reach a more definitive understanding of how, if at all, our beliefs shape the way we see the world.
