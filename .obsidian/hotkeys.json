@@ -9,7 +9,6 @@
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-excalidraw-plugin:save": [],
   "obsidian-excalidraw-plugin:toggle-lock": [],
-  "editor:save-file": [],
   "file-explorer:new-file": [],
   "file-explorer:new-file-in-current-tab": [
     {
@@ -45,12 +44,13 @@
       "key": "D"
     }
   ],
+  "editor:save-file": [],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "S"
+      "key": "ArrowLeft"
     }
   ]
 }
