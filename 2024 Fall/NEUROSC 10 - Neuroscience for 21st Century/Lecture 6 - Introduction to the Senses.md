@@ -1,5 +1,5 @@
 # Drawing
-![[Lecture 6 - Introduction to the Senses 2024-10-22 13.40.38]]
+![[Lecture 6 - Introduction to the Senses 2024-10-22 13.4[[]()]()0.38]]
 # Transcript
 ### Introduction to the Lecture
 
