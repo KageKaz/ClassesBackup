@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 8 - Values and Objectivity]]
 - [ ] [[Lecture 9 - Intro to Probability and Inductive Logic]]
 
 
@@ -27,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Lecture 5 - Kuhn Analogies and Relativism]]
 - [ ] [[Lecture 6 - Semmelweis and Kuhn]] #transcript
 - [ ] [[Lecture 7 - Shattering the myth of Semmelweis]]
+- [ ] [[Lecture 8 - Values and Objectivity]]
 
 
 
