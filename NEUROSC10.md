@@ -6,14 +6,15 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 6 - Introduction to the Senses]]
 - [ ] [[Lecture 7 - Somatosensation and Pain]]
 - [ ] [[Lecture 8 - The Auditory System]]
 - [ ] [[Lecture 9 - Vision]]
+- [ ] Lecture 10 - Taste and Smell
 
 
 ## Primed
 
+- [ ] [[Lecture 6 - Introduction to the Senses]]
 
 
 ## Encoding
