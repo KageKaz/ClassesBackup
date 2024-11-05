@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
 - [ ] Lecture 11 - Inference to the Best
 	Explanation
 
 
 ## Primed
 
+- [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
 
 
 ## Encoding
