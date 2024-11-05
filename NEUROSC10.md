@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Lecture 8 - The Auditory System]]
 - [ ] [[Lecture 9 - Vision]]
-- [ ] Lecture 10 - Taste and Smell
+- [ ] [[Lecture 10 - Taste and Smell]]
 
 
 ## Primed
