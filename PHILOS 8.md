@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] Lecture 11 - Inference to the Best
+- [ ] [[Lecture 11 - Inference to the Best]]
 	Explanation
 
 
