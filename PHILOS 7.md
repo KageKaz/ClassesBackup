@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] [[Lecture 8 and 9- Is Perception Rationally Influenced by Background Belief - NO]]
 - [ ] [[Lecture 10  - Is Perception Rationally Influenced by Background Belief - YES]]
 - [ ] [[Lecture 11 - Cognitive Views of Emotion]]
-- [ ] Lecture 12 - Perceptual Views of Emotion
+- [ ] [[Lecture 12 - Perceptual Views of Emotion]]
 
 
 ## Primed
