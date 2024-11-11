@@ -6,12 +6,11 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 11 - Inference to the Best Explanation]]
 
 
 ## Primed
 
-- [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
+- [ ] [[Lecture 11 - Inference to the Best Explanation]]
 
 
 ## Encoding
@@ -29,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Lecture 7 - Shattering the myth of Semmelweis]]
 - [ ] [[Lecture 8 - Values and Objectivity]]
 - [ ] [[Lecture 9 - Intro to Probability and Inductive Logic]]
+- [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
 
 
 
