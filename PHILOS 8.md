@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
 
 
 ## Primed
