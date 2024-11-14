@@ -7,11 +7,11 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
+- [ ] [[Lecture 13 - Race in Medicine Causation, Ethics, and Metaphysics]]
 
 
 ## Primed
 
-- [ ] [[Lecture 11 - Inference to the Best Explanation]]
 
 
 ## Encoding
@@ -30,6 +30,7 @@ kanban-plugin: board
 - [ ] [[Lecture 8 - Values and Objectivity]]
 - [ ] [[Lecture 9 - Intro to Probability and Inductive Logic]]
 - [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
+- [ ] [[Lecture 11 - Inference to the Best Explanation]]
 
 
 

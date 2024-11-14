@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[Lecture 11 and 12 - Language & Lateralization]]
 
 
 ## Primed

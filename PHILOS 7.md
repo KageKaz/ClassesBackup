@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 4- Associative vs Inferential Learning]]
 - [ ] [[Lecture 5 - Confirmation Bias]]
 - [ ] [[Lecture 6 - The Spinozan vs. Cartesian Views of Belief Formation]]
 - [ ] [[Lecture 7 - Cognitive Dissonance]]
@@ -18,6 +17,7 @@ kanban-plugin: board
 
 ## Primed
 
+- [ ] [[Lecture 4- Associative vs Inferential Learning]]
 
 
 ## Encoding
