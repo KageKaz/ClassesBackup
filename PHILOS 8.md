@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
 - [ ] [[Lecture 13 - Race in Medicine Causation, Ethics, and Metaphysics]]
 
 
 ## Primed
 
+- [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
 
 
 ## Encoding

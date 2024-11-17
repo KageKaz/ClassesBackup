@@ -17,18 +17,18 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Lecture 4- Associative vs Inferential Learning]]
 
 
 ## Encoding
 
-- [ ] [[Lecture 3 - Quining Qualia]]
 
 
 ## Retaining
 
 - [ ] [[Lecture 1 - Intro]]
 - [ ] [[Lecture 2 - Mental States]]
+- [ ] [[Lecture 3 - Quining Qualia]]
+- [ ] [[Lecture 4- Associative vs Inferential Learning]]
 
 
 
