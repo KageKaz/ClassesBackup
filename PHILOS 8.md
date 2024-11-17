@@ -11,7 +11,6 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
 
 
 ## Encoding
@@ -31,6 +30,7 @@ kanban-plugin: board
 - [ ] [[Lecture 9 - Intro to Probability and Inductive Logic]]
 - [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
 - [ ] [[Lecture 11 - Inference to the Best Explanation]]
+- [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
 
 
 
