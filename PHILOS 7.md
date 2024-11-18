@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 5 - Confirmation Bias]]
 - [ ] [[Lecture 6 - The Spinozan vs. Cartesian Views of Belief Formation]]
 - [ ] [[Lecture 7 - Cognitive Dissonance]]
 - [ ] [[Lecture 8 and 9- Is Perception Rationally Influenced by Background Belief - NO]]
@@ -17,6 +16,7 @@ kanban-plugin: board
 
 ## Primed
 
+- [ ] [[Lecture 5 - Confirmation Bias]]
 
 
 ## Encoding
