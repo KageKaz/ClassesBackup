@@ -16,7 +16,6 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Lecture 5 - Confirmation Bias]]
 
 
 ## Encoding
@@ -29,6 +28,7 @@ kanban-plugin: board
 - [ ] [[Lecture 2 - Mental States]]
 - [ ] [[Lecture 3 - Quining Qualia]]
 - [ ] [[Lecture 4- Associative vs Inferential Learning]]
+- [ ] [[Lecture 5 - Confirmation Bias]]
 
 
 
