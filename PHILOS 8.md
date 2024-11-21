@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Lecture 13 - Race in Medicine Causation, Ethics, and Metaphysics]]
+- [ ] [[Lecture 14 - Methods of Causal Analysis]]
 
 
 ## Primed

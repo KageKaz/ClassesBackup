@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] [[Lecture 10  - Is Perception Rationally Influenced by Background Belief - YES]]
 - [ ] [[Lecture 11 - Cognitive Views of Emotion]]
 - [ ] [[Lecture 12 - Perceptual Views of Emotion]]
+- [ ] [[Lecture 13 - Emotions Aren’t About Tokens]]
 
 
 ## Primed

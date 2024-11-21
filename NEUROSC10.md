@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Lecture 11 and 12 - Language & Lateralization]]
+- [ ] [[Lecture 13 and 14 - Cognition at Work Learning & Memory]]
 
 
 ## Primed
