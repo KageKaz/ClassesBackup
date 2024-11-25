@@ -6,8 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 13 - Race in Medicine Causation, Ethics, and Metaphysics]]
-- [ ] [[Lecture 14 - Methods of Causal Analysis]]
+- [ ] [[Lecture 15 - To Race or Not to Race]]
 
 
 ## Primed
@@ -32,6 +31,8 @@ kanban-plugin: board
 - [ ] [[Lecture 10 - A Bayesian Interpretation of Semmelweis]]
 - [ ] [[Lecture 11 - Inference to the Best Explanation]]
 - [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
+- [ ] [[Lecture 13 - Race in Medicine Causation, Ethics, and Metaphysics]]
+- [ ] [[Lecture 14 - Methods of Causal Analysis]]
 
 
 
