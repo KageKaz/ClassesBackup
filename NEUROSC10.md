@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 11 and 12 - Language & Lateralization]]
 - [ ] [[Lecture 13 and 14 - Cognition at Work Learning & Memory]]
 
 
@@ -30,6 +29,7 @@ kanban-plugin: board
 - [ ] [[Lecture 8 - The Auditory System]]
 - [ ] [[Lecture 9 - Vision]]
 - [ ] [[Lecture 10 - Taste and Smell]]
+- [ ] [[Lecture 11 and 12 - Language & Lateralization]]
 
 
 

@@ -13,6 +13,7 @@ kanban-plugin: board
 - [ ] [[Lecture 11 - Cognitive Views of Emotion]]
 - [ ] [[Lecture 12 - Perceptual Views of Emotion]]
 - [ ] [[Lecture 13 - Emotions Aren’t About Tokens]]
+- [ ] [[Lecture 14 - What's Empathy]]
 
 
 ## Primed
