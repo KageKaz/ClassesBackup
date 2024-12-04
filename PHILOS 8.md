@@ -6,9 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 15 - To Race or Not to Race]]
-- [ ] [[Lecture 16 - Douglas on Inductive Risk]]
-- [ ] Lecture 17 - Bright & Du Bois on Value Free Science
+- [ ] [[Lecture 17 - Bright & Du Bois on Value Free Science]]
 
 
 ## Primed
@@ -17,6 +15,7 @@ kanban-plugin: board
 
 ## Encoding
 
+- [ ] [[Lecture 16 - Douglas on Inductive Risk]]
 
 
 ## Retaining
@@ -35,6 +34,7 @@ kanban-plugin: board
 - [ ] [[Lecture 12 - Race, IBE, and the Social Sciences]]
 - [ ] [[Lecture 13 - Race in Medicine Causation, Ethics, and Metaphysics]]
 - [ ] [[Lecture 14 - Methods of Causal Analysis]]
+- [ ] [[Lecture 15 - To Race or Not to Race]]
 
 
 
