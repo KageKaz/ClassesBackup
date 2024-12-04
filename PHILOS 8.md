@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Lecture 15 - To Race or Not to Race]]
+- [ ] [[Lecture 16 - Douglas on Inductive Risk]]
+- [ ] Lecture 17 - Bright & Du Bois on Value Free Science
 
 
 ## Primed
