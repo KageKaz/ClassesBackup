@@ -1,1 +1,0 @@
-![[Lecture 5 - Kuhn Analogies and Relativism 2024-10-19 20.20.36]]

@@ -1,1 +1,0 @@
-![[Lecture 6 - The Spinozan vs. Cartesian Views of Belief Formation 2024-10-16 11.54.13]]

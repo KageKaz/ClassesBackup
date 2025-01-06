@@ -1,0 +1,1 @@
+![[Lecture 3 - Statistical Generalizations 2024-10-13 17.43.27]]

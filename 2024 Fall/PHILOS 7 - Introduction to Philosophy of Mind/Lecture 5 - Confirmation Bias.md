@@ -1,1 +1,0 @@
-![[Lecture 5 - Confirmation Bias 2024-10-14 11.29.52]]
