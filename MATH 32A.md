@@ -1,0 +1,30 @@
+---
+
+kanban-plugin: board
+
+---
+
+## Not Started
+
+- [ ] Lecture 1 - Vectors in 2D
+
+
+## Primed
+
+
+
+## Encoding
+
+
+
+## Retaining
+
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+```
+%%
