@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[Introduction]] #week1
 
 
 ## Primed
