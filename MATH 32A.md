@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] Lecture 1 - Vectors in 2D
+- [ ] [[Lecture 1 - Vectors in 2D]]
 
 
 ## Primed
@@ -25,6 +25,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"new-note-folder":"Winter 2025/MATH 32A"}
 ```
 %%
