@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Nature of Physics]]
-- [ ] [[Scalars and Vectors]]
+- [ ] [[Nature of Physics]] #week1
+- [ ] [[Scalars and Vectors]] #week1
 
 
 ## Primed

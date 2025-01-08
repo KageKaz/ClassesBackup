@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Introduction]] #week1
+- [ ] [[Winter 2025/HIST 1B/Introduction|Introduction]] #week1
 
 
 ## Primed

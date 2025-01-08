@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Lecture 1 - Introduction]]
-- [ ] [[Lecture 2 - The Captain's Daughter 1-5]]
+- [ ] [[Winter 2025/RUSSN 25/Introduction|Introduction]] #week1
+- [ ] [[The Captain's Daughter 1-5]] #week1
 
 
 ## Primed
