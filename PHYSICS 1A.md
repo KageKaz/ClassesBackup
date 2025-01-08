@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Nature of Physics]]
-- [ ] Scalars and Vectors
+- [ ] [[Scalars and Vectors]]
 
 
 ## Primed
