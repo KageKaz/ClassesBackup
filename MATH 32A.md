@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Lecture 1 - Vectors in 2D]]
+- [ ] [[Vectors in 3D]]
 
 
 ## Primed
