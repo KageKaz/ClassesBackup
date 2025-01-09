@@ -10,3 +10,5 @@ bro is angsty wants to be independent
 gets lost in the snowstorm cuz hes stupid
 finds a smart guy to guide them
 Weird dream
+
+Maximych is the sergeant
