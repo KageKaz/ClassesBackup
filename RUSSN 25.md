@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Winter 2025/RUSSN 25/Introduction|Introduction]] #week1
-- [ ] [[The Captain's Daughter 1-5]] #week1
 
 
 ## Primed
@@ -20,6 +18,8 @@ kanban-plugin: board
 
 ## Retaining
 
+- [ ] [[Winter 2025/RUSSN 25/Introduction|Introduction]] #week1
+- [ ] [[The Captain's Daughter 1-5]] #week1
 
 
 
