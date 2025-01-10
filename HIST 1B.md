@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Winter 2025/HIST 1B/Introduction|Introduction]] #week1
+- [ ] [[Medieval Worlds]] #week1
 
 
 ## Primed
