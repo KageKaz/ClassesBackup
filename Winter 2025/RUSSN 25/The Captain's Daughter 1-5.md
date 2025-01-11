@@ -8,6 +8,12 @@ Subvert russian censors: what is he really trying to say?
 Peter the great executed his son
 Creates power struggle for sucessor
 
+Peter the great allowed the king to choose the crown
+Paul I changed it back
+
+Is nicholas I legit?
+Decemberist revolt 
+
 ## rough outline
 Pyotr is a spoiled child
 Savelich vs Beaupre
