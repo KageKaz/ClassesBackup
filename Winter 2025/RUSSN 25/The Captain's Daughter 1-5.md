@@ -26,7 +26,17 @@ Pyotr: prodigal son
 Two viepoints: the publisher 
 and Pyotr - hindsight, describes in ter mof his own bias . key relationship: Pyotr and his father. rebellion -> share values
 
-
+## Plot
+Comming of age: stages of journey, things don't go as expected 
+chapter titles are cliches with double meaning
+Seargeant of the guards: not 
+The guide: lost, taught to drink and gamble / storm / dream
++ Dream is reverse: going home, peasant father
++ When he wakes up he gives the peasant his coat
+Not much of a scary fort
+Dueling is forbidden
++ Duel shows Pyotr is naive, opposite of typical Romantic story
+"Love", in reality parents decide
 
 ## rough outline
 Pyotr is a spoiled child
