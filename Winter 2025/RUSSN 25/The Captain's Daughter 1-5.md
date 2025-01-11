@@ -1,6 +1,14 @@
 # Drawing
 
 # Notes
+Not an attack on class system, even though Pyotr goes to the other side
+Theme: illegetimacy
+Subvert russian censors: what is he really trying to say?
+
+Peter the great executed his son
+Creates power struggle for sucessor
+
+## rough outline
 Pyotr is a spoiled child
 Savelich vs Beaupre
 Beaupre gets cooked for being a useless drunk
@@ -30,5 +38,7 @@ Not savelich's fault
 Masha is kinda nice
 
 Parents won't have it
+
+## lecture notes
 
 
