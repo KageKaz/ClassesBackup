@@ -14,6 +14,20 @@ Paul I changed it back
 Is nicholas I legit?
 Decemberist revolt 
 
+Pugachev: Anarchy, no serfdom, no taxes, wealth distribution, beards, no foriegn clothes
+
+
+Exigence: Pushkin realized while studying history that some noblemen went over to pugachev's side. The first draft depicted such a nobleman. However, pushkin later begins to focus on the father of the nobleman. a man with the honorable ideas of the enlightment, prior to catherine the great. Also character inspired by his grandpa.
+
+Wanted to avoid romantic cliches
+
+Pyotr: prodigal son
+### POV
+Two viepoints: the publisher 
+and Pyotr - hindsight, describes in ter mof his own bias . key relationship: Pyotr and his father. rebellion -> share values
+
+
+
 ## rough outline
 Pyotr is a spoiled child
 Savelich vs Beaupre
@@ -23,7 +37,7 @@ Savelich is his mom
 bro is angsty wants to be independent 
 gets lost in the snowstorm cuz hes stupid
 finds a smart guy to guide them
-Weird dream
+Weird dream: peasant replace father
 
 Maximych is the sergeant
 
