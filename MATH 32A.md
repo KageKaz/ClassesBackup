@@ -9,6 +9,8 @@ kanban-plugin: board
 - [ ] [[Vectors in 2D]] #week1
 - [ ] [[Vectors in 3D]] #week1
 - [ ] [[Dot Product]] #week1
+- [ ] [[Cross Product]] #week2
+- [ ] [[Lines and Planes]] #week2
 
 
 ## Primed

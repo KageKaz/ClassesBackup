@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] [[Nature of Physics]] #week1
 - [ ] [[Scalars and Vectors]] #week1
+- [ ] [[Motion in One Dimension]] #week2
+- [ ] [[Motion in Two and Three Dimensions]]#week2
 
 
 ## Primed
