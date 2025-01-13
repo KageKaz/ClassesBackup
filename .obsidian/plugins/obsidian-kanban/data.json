@@ -2,7 +2,7 @@
   "hide-card-count": false,
   "full-list-lane-width": true,
   "new-note-template": "一 Archive 一/Kanban Template.md",
-  "move-tags": true,
+  "move-tags": false,
   "tag-colors": [
     {
       "tagKey": "#NEUROSC10",
@@ -31,6 +31,6 @@
       "tag": "#NEUROSC10"
     }
   ],
-  "show-add-list": false,
+  "show-add-list": true,
   "new-note-folder": "2024 Fall"
 }
