@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[The Captain’s Daughter chapters 6-14]] #week2
 - [ ] [[Alexander Pushkin, “Queen of Spades”]] #week2
 
 
@@ -16,6 +15,7 @@ kanban-plugin: board
 
 ## Encoding
 
+- [ ] [[The Captain’s Daughter chapters 6-14]] #week2
 
 
 ## Retaining
