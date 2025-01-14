@@ -4,8 +4,9 @@ kanban-plugin: board
 
 ---
 
-## Primed
+## Not Read
 
+- [ ] [[King John]] #week1 #week2
 
 
 ## Read
