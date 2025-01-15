@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "\\一 Archive 一\\Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": true,
@@ -49,7 +49,7 @@
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
-  "zoomToFitOnOpen": true,
+  "zoomToFitOnOpen": false,
   "zoomToFitOnResize": false,
   "zoomToFitMaxLevel": 5,
   "linkPrefix": "📍",
