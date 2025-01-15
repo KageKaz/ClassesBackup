@@ -10,11 +10,11 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Alexander Pushkin, “Queen of Spades”]] #week2
 
 
 ## Encoding
 
+- [ ] [[Alexander Pushkin, “Queen of Spades”]] #week2
 
 
 ## Revising
