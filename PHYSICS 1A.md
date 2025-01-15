@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Scalars and Vectors]] #week1
 - [ ] [[Motion in One Dimension]] #week2
 - [ ] [[Motion in Two and Three Dimensions]]#week2
 
@@ -17,6 +16,7 @@ kanban-plugin: board
 
 ## Encoding
 
+- [ ] [[Scalars and Vectors]] #week1
 
 
 ## Revising
