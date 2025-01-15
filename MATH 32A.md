@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Vectors in 2D]] #week1
-- [ ] [[Vectors in 3D]] #week1
 - [ ] [[Dot Product]] #week1
 - [ ] [[Cross Product]] #week2
 - [ ] [[Lines and Planes]] #week2
@@ -19,10 +17,12 @@ kanban-plugin: board
 
 ## Encoding
 
+- [ ] [[Vectors in 3D]] #week1
 
 
 ## Revising
 
+- [ ] [[Vectors in 2D]] #week1
 
 
 ## Mastered
