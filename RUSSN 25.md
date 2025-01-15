@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Alexander Pushkin, “Queen of Spades”]] #week2
 
 
 ## Primed
 
+- [ ] [[Alexander Pushkin, “Queen of Spades”]] #week2
 
 
 ## Encoding
