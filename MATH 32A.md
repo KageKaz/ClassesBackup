@@ -17,12 +17,12 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Vectors in 3D]] #week1
 
 
 ## Revising
 
 - [ ] [[Vectors in 2D]] #week1
+- [ ] [[Vectors in 3D]] #week1
 
 
 ## Mastered
