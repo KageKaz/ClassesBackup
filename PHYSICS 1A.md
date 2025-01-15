@@ -16,11 +16,11 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Scalars and Vectors]] #week1
 
 
 ## Revising
 
+- [ ] [[Scalars and Vectors]] #week1
 
 
 ## Mastered
