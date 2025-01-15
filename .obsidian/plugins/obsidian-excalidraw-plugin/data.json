@@ -37,7 +37,7 @@
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": true,
-  "matchThemeAlways": true,
+  "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
@@ -111,7 +111,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "2.7.5",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
@@ -432,8 +432,8 @@
   ],
   "numberOfCustomPens": 0,
   "pdfScale": 4,
-  "pdfBorderBox": true,
-  "pdfFrame": false,
+  "pdfBorderBox": false,
+  "pdfFrame": true,
   "pdfGapSize": 20,
   "pdfGroupPages": false,
   "pdfLockAfterImport": true,
@@ -444,7 +444,7 @@
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
-    "OPACITY": 50
+    "OPACITY": 100
   },
   "laserSettings": {
     "DECAY_LENGTH": 50,
