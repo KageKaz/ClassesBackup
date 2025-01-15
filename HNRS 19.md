@@ -6,21 +6,18 @@ kanban-plugin: board
 
 ## Not Read
 
-- [ ] [[King John]] #week1 #week2
+- [ ] [[Richard II 1-3]] #week3
 
 
 ## Read
 
-
-
-## Encoded
-
+- [ ] [[King John]] #week1 #week2
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"new-note-folder":"Winter 2025/HNRS 19"}
+{"kanban-plugin":"board","list-collapse":[false,false],"new-note-folder":"Winter 2025/HNRS 19"}
 ```
 %%

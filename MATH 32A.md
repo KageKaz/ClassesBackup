@@ -21,7 +21,11 @@ kanban-plugin: board
 
 
 
-## Retaining
+## Revising
+
+
+
+## Mastered
 
 
 
@@ -29,6 +33,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"new-note-folder":"Winter 2025/MATH 32A"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"new-note-folder":"Winter 2025/MATH 32A"}
 ```
 %%
