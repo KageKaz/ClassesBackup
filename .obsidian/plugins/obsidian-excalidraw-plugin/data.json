@@ -33,7 +33,7 @@
   "width": "400",
   "height": "",
   "overrideObsidianFontSize": false,
-  "dynamicStyling": "colorful",
+  "dynamicStyling": "gray",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": true,
@@ -101,7 +101,105 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.7.5",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "W9QOACHEW8Z34Mb6Y6cF7",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "tGgb-5PfRHZHqIf1L8EMT",
+            "type": "line",
+            "x": -1221.2192821770022,
+            "y": 2094.591030881829,
+            "width": 2.3492390521057587,
+            "height": 323.65824682483844,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "b9s",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1724381815,
+            "version": 206,
+            "versionNonce": 1115972537,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1737167919700,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                2.3492390521057587,
+                323.65824682483844
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "9eFYYdWbVR0Juy5Ev05yf",
+            "type": "line",
+            "x": -1396.2386623120567,
+            "y": 2260.9995810179767,
+            "width": 352.677801157,
+            "height": 5.425812325492643,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "b9u",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1287395097,
+            "version": 197,
+            "versionNonce": 1909782361,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1737167927028,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                352.677801157,
+                -5.425812325492643
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          }
+        ],
+        "created": 1737167977358
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
