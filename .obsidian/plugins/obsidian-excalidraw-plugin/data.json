@@ -103,14 +103,14 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.7.5",
     "libraryItems": [
       {
-        "id": "W9QOACHEW8Z34Mb6Y6cF7",
+        "id": "LJPjfbvsF5-yon2PpRIYP",
         "status": "unpublished",
         "elements": [
           {
-            "id": "tGgb-5PfRHZHqIf1L8EMT",
+            "id": "m8ZBXnCaPZ7bLOnYULZnR",
             "type": "line",
-            "x": -1221.2192821770022,
-            "y": 2094.591030881829,
+            "x": 286.1450644484907,
+            "y": 1862.282062581733,
             "width": 2.3492390521057587,
             "height": 323.65824682483844,
             "angle": 0,
@@ -121,18 +121,20 @@
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
-            "groupIds": [],
+            "groupIds": [
+              "sjIhjugit8JuwbpL_P24F"
+            ],
             "frameId": null,
-            "index": "b9s",
+            "index": "bIH",
             "roundness": {
               "type": 2
             },
-            "seed": 1724381815,
-            "version": 206,
-            "versionNonce": 1115972537,
+            "seed": 1471562937,
+            "version": 221,
+            "versionNonce": 1490631673,
             "isDeleted": false,
             "boundElements": [],
-            "updated": 1737167919700,
+            "updated": 1737172595730,
             "link": null,
             "locked": false,
             "points": [
@@ -152,10 +154,10 @@
             "endArrowhead": null
           },
           {
-            "id": "9eFYYdWbVR0Juy5Ev05yf",
+            "id": "eGYnuEerl6Vgzqu3MJeAx",
             "type": "line",
-            "x": -1396.2386623120567,
-            "y": 2260.9995810179767,
+            "x": 111.12568431343621,
+            "y": 2028.6906127178809,
             "width": 352.677801157,
             "height": 5.425812325492643,
             "angle": 0,
@@ -166,18 +168,20 @@
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
-            "groupIds": [],
+            "groupIds": [
+              "sjIhjugit8JuwbpL_P24F"
+            ],
             "frameId": null,
-            "index": "b9u",
+            "index": "bII",
             "roundness": {
               "type": 2
             },
-            "seed": 1287395097,
-            "version": 197,
-            "versionNonce": 1909782361,
+            "seed": 1843348889,
+            "version": 202,
+            "versionNonce": 694377495,
             "isDeleted": false,
             "boundElements": [],
-            "updated": 1737167927028,
+            "updated": 1737172595730,
             "link": null,
             "locked": false,
             "points": [
@@ -197,7 +201,7 @@
             "endArrowhead": null
           }
         ],
-        "created": 1737167977358
+        "created": 1737172598009
       }
     ]
   },
@@ -209,7 +213,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": false,
+  "defaultTrayMode": true,
   "previousRelease": "2.7.5",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
