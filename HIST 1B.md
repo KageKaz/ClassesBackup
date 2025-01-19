@@ -12,7 +12,6 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Medieval Worlds]] #week1
 
 
 ## Encoding
@@ -21,6 +20,7 @@ kanban-plugin: board
 
 ## Revising
 
+- [ ] [[Medieval Worlds]] #week1
 
 
 ## Mastered
