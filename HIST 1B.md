@@ -10,12 +10,12 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[After Disintegration Expansion]] #week2
 
 
 ## Encoding
 
 - [ ] [[Disintegration and New Realities]] #week2
+- [ ] [[After Disintegration Expansion]] #week2
 
 
 ## Revising
