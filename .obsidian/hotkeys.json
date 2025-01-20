@@ -73,5 +73,21 @@
       "modifiers": [],
       "key": "F2"
     }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "obsidian-excalidraw-plugin:open library": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }
