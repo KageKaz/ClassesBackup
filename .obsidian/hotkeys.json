@@ -53,15 +53,6 @@
       "key": "ArrowLeft"
     }
   ],
-  "obsidian-excalidraw-plugin:scriptengine-store": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "workspace:goto-tab-1": [],
   "app:open-help": [],
   "obsidian-excalidraw-plugin:change stroke width": [
@@ -74,6 +65,13 @@
     {
       "modifiers": [],
       "key": "F1"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "obsidian-excalidraw-plugin:change stroke width small": [
+    {
+      "modifiers": [],
+      "key": "F2"
     }
   ]
 }
