@@ -9,4 +9,5 @@ ea.updateScene({
     currentItemStrokeWidth: newStrokeWidth,
   },
 });
-console.log(`Pen stroke width set to ${fixedStrokeWidth}`);
+
+
