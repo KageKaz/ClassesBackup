@@ -17,7 +17,7 @@
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 15000,
   "drawingFilenamePrefix": "✒️",
-  "drawingEmbedPrefixWithFilename": false,
+  "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ✒️",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": false,
