@@ -36,7 +36,7 @@
   "dynamicStyling": "gray",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": true,
+  "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
