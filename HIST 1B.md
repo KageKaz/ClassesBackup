@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[Who's Who and What's What in the Medieval Church]]
+- [ ] [[Art Crime]] #week3
 
 
 ## Primed
@@ -14,13 +16,13 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Disintegration and New Realities]] #week2
-- [ ] [[After Disintegration Expansion]] #week2
 
 
 ## Revising
 
 - [ ] [[Medieval Worlds]] #week1
+- [ ] [[Disintegration and New Realities]] #week2
+- [ ] [[After Disintegration Expansion]] #week2
 
 
 ## Mastered

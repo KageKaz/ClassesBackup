@@ -8,7 +8,9 @@ kanban-plugin: board
 
 - [ ] [[Dot Product]] #week1
 - [ ] [[Cross Product]] #week2
-- [ ] [[Lines and Planes]] #week2
+- [ ] [[Planes in 3D]] #week2
+- [ ] [[Graphs and quadric surfaces]] #week3
+- [ ] [[Parametric & vector-valued functions]] #week3
 
 
 ## Primed

@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Motion in One Dimension]] #week2
-- [ ] [[Motion in Two and Three Dimensions]]#week2
+- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
 
 
 ## Primed
