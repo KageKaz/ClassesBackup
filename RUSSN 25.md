@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Nikolai Gogol, “The Terrible Vengeance,” “Ivan Fyodorovich Shponka”]]  #week3
 
 
 ## Primed
 
+- [ ] [[Nikolai Gogol, “The Terrible Vengeance,” “Ivan Fyodorovich Shponka”]]  #week3
 
 
 ## Encoding

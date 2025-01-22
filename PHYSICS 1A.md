@@ -14,7 +14,7 @@ kanban-plugin: board
 
 
 
-## Encoding
+## Encoding (textbook, slides, discussion questions)
 
 
 
