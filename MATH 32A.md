@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Graphs and quadric surfaces]] #week3
+- [ ] [[Limits of Vector Valued Functions]] #week3
 
 
 ## Primed
