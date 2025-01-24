@@ -14,7 +14,7 @@ kanban-plugin: board
 - [ ] [[Art Crime]] #week3
 
 
-## Encoding
+## Encoding (readings and slides)
 
 
 
