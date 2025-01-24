@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Art Crime]] #week3
 
 
 ## Primed
 
 - [ ] [[Who's Who and What's What in the Medieval Church]] #week3
+- [ ] [[Art Crime]] #week3
 
 
 ## Encoding
