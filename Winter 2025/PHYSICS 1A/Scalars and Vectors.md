@@ -10,9 +10,12 @@ $$
 Keep track of signs of vector components
 dot product is a scalar
 magnitude should always be positive
+Cross product unit vector is probably $\hat{k}$
+density is mass/volume
+$\pm$ divided by regular value
+be careful with unit vectors
 # todo
-- [ ] Key Variation and Bridging
-- [ ] Discussion Questions
-- [ ] Exerscises
+- [x] Key Variation and Bridging
+- [x] Exerscises
 - [ ] Problems
 - [ ] Challenge Problems
