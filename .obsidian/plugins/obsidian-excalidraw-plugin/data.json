@@ -103,16 +103,15 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.8.0",
     "libraryItems": [
       {
-        "id": "hAAJ6ElWKrPD-CZQQGgFc",
         "status": "unpublished",
         "elements": [
           {
-            "id": "dnv5No5mfjlA_Pp_nqC3e",
+            "id": "DxketB1yBSDfmL1sVsxEq",
             "type": "line",
-            "x": 333.5883090731487,
-            "y": -125.05534321631178,
-            "width": 2.9694187434088573,
-            "height": 409.10134867673713,
+            "x": 4509.882082150424,
+            "y": 3962.0546960362576,
+            "width": 0,
+            "height": 671.8568260765692,
             "angle": 0,
             "strokeColor": "#ffffff",
             "backgroundColor": "transparent",
@@ -122,19 +121,19 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-              "4g-SFS5XbyZNTkYzjhsK4"
+              "IEi_rPWbP___ktPFoqTIB"
             ],
             "frameId": null,
-            "index": "a1",
+            "index": "a0",
             "roundness": {
               "type": 2
             },
-            "seed": 1246226003,
-            "version": 251,
-            "versionNonce": 156076061,
+            "seed": 949473651,
+            "version": 765,
+            "versionNonce": 1126356467,
             "isDeleted": false,
             "boundElements": [],
-            "updated": 1737848667155,
+            "updated": 1737873983539,
             "link": null,
             "locked": false,
             "points": [
@@ -143,8 +142,8 @@
                 0
               ],
               [
-                2.9694187434088573,
-                409.10134867673713
+                0,
+                671.8568260765692
               ]
             ],
             "lastCommittedPoint": null,
@@ -154,12 +153,12 @@
             "endArrowhead": null
           },
           {
-            "id": "_lZ0XTZNlrjPTnhxnJbHZ",
+            "id": "9jCAGE5KJkMJqKgI5arVQ",
             "type": "line",
-            "x": 112.36525926602576,
-            "y": 85.28368864800473,
-            "width": 445.7818254813654,
-            "height": 6.858181930482969,
+            "x": 4131.067809027745,
+            "y": 4285.776465501069,
+            "width": 757.1007639427116,
+            "height": 0,
             "angle": 0,
             "strokeColor": "#ffffff",
             "backgroundColor": "transparent",
@@ -169,19 +168,19 @@
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-              "4g-SFS5XbyZNTkYzjhsK4"
+              "IEi_rPWbP___ktPFoqTIB"
             ],
             "frameId": null,
-            "index": "a2",
+            "index": "a1",
             "roundness": {
               "type": 2
             },
-            "seed": 1270719475,
-            "version": 232,
-            "versionNonce": 574903347,
+            "seed": 992160531,
+            "version": 507,
+            "versionNonce": 1313231005,
             "isDeleted": false,
             "boundElements": [],
-            "updated": 1737848667155,
+            "updated": 1737873995524,
             "link": null,
             "locked": false,
             "points": [
@@ -190,8 +189,8 @@
                 0
               ],
               [
-                445.7818254813654,
-                -6.858181930482969
+                757.1007639427116,
+                0
               ]
             ],
             "lastCommittedPoint": null,
@@ -201,7 +200,8 @@
             "endArrowhead": null
           }
         ],
-        "created": 1737848672314
+        "id": "lpHoRtZYi9gjohpKQlOEx",
+        "created": 1737874012230
       }
     ]
   },

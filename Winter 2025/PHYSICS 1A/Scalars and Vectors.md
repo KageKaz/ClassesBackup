@@ -7,7 +7,7 @@ $$
 
 ![[Scalars and Vectors ✒️2025-01-25 15.24.50]]
 # mistakes
-Keep track of signs of vector components
+**Keep track of signs of vector components**
 dot product is a scalar
 magnitude should always be positive
 Cross product unit vector is probably $\hat{k}$
