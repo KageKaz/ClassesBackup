@@ -3,4 +3,16 @@
 $$
 \frac{76.2}{\sin(25.6)}=\frac{138}{\sin(?)}
 $$
-# Transcript
+# Homework
+
+![[Scalars and Vectors ✒️2025-01-25 15.24.50]]
+# mistakes
+Keep track of signs of vector components
+dot product is a scalar
+magnitude should always be positive
+# todo
+- [ ] Key Variation and Bridging
+- [ ] Discussion Questions
+- [ ] Exerscises
+- [ ] Problems
+- [ ] Challenge Problems

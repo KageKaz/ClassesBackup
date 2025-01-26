@@ -100,41 +100,41 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.7.5",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.8.0",
     "libraryItems": [
       {
-        "id": "LJPjfbvsF5-yon2PpRIYP",
+        "id": "hAAJ6ElWKrPD-CZQQGgFc",
         "status": "unpublished",
         "elements": [
           {
-            "id": "m8ZBXnCaPZ7bLOnYULZnR",
+            "id": "dnv5No5mfjlA_Pp_nqC3e",
             "type": "line",
-            "x": 286.1450644484907,
-            "y": 1862.282062581733,
-            "width": 2.3492390521057587,
-            "height": 323.65824682483844,
+            "x": 333.5883090731487,
+            "y": -125.05534321631178,
+            "width": 2.9694187434088573,
+            "height": 409.10134867673713,
             "angle": 0,
-            "strokeColor": "#1e1e1e",
+            "strokeColor": "#ffffff",
             "backgroundColor": "transparent",
             "fillStyle": "solid",
-            "strokeWidth": 0.5,
+            "strokeWidth": 1,
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-              "sjIhjugit8JuwbpL_P24F"
+              "4g-SFS5XbyZNTkYzjhsK4"
             ],
             "frameId": null,
-            "index": "bIH",
+            "index": "a1",
             "roundness": {
               "type": 2
             },
-            "seed": 1471562937,
-            "version": 221,
-            "versionNonce": 1490631673,
+            "seed": 1246226003,
+            "version": 251,
+            "versionNonce": 156076061,
             "isDeleted": false,
             "boundElements": [],
-            "updated": 1737172595730,
+            "updated": 1737848667155,
             "link": null,
             "locked": false,
             "points": [
@@ -143,8 +143,8 @@
                 0
               ],
               [
-                2.3492390521057587,
-                323.65824682483844
+                2.9694187434088573,
+                409.10134867673713
               ]
             ],
             "lastCommittedPoint": null,
@@ -154,34 +154,34 @@
             "endArrowhead": null
           },
           {
-            "id": "eGYnuEerl6Vgzqu3MJeAx",
+            "id": "_lZ0XTZNlrjPTnhxnJbHZ",
             "type": "line",
-            "x": 111.12568431343621,
-            "y": 2028.6906127178809,
-            "width": 352.677801157,
-            "height": 5.425812325492643,
+            "x": 112.36525926602576,
+            "y": 85.28368864800473,
+            "width": 445.7818254813654,
+            "height": 6.858181930482969,
             "angle": 0,
-            "strokeColor": "#1e1e1e",
+            "strokeColor": "#ffffff",
             "backgroundColor": "transparent",
             "fillStyle": "solid",
-            "strokeWidth": 0.5,
+            "strokeWidth": 1,
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
             "groupIds": [
-              "sjIhjugit8JuwbpL_P24F"
+              "4g-SFS5XbyZNTkYzjhsK4"
             ],
             "frameId": null,
-            "index": "bII",
+            "index": "a2",
             "roundness": {
               "type": 2
             },
-            "seed": 1843348889,
-            "version": 202,
-            "versionNonce": 694377495,
+            "seed": 1270719475,
+            "version": 232,
+            "versionNonce": 574903347,
             "isDeleted": false,
             "boundElements": [],
-            "updated": 1737172595730,
+            "updated": 1737848667155,
             "link": null,
             "locked": false,
             "points": [
@@ -190,8 +190,8 @@
                 0
               ],
               [
-                352.677801157,
-                -5.425812325492643
+                445.7818254813654,
+                -6.858181930482969
               ]
             ],
             "lastCommittedPoint": null,
@@ -201,7 +201,7 @@
             "endArrowhead": null
           }
         ],
-        "created": 1737172598009
+        "created": 1737848672314
       }
     ]
   },
@@ -218,6 +218,7 @@
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -887,5 +888,14 @@
     }
   ],
   "showSplashscreen": false,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  },
   "autosaveInterval": 15000
 }
