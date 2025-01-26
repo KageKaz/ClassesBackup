@@ -14,6 +14,7 @@ Cross product unit vector is probably $\hat{k}$
 density is mass/volume
 $\pm$ divided by regular value
 be careful with unit vectors
+to find the angle between vectors use dot product
 # todo
 - [x] Key Variation and Bridging
 - [x] Exerscises
