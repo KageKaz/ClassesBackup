@@ -6,12 +6,13 @@ kanban-plugin: board
 
 ## Not Started
 
+- [ ] [[European Christianity]] #week4
+- [ ] [[Jews, Heretics and Dissenters]] #week4
 
 
 ## Primed
 
 - [ ] [[Who's Who and What's What in the Medieval Church]] #week3
-- [ ] [[Art Crime]] #week3
 
 
 ## Encoding (readings and slides)
@@ -28,6 +29,7 @@ kanban-plugin: board
 ## Mastered
 
 - [ ] [[Winter 2025/HIST 1B/Introduction|Introduction]] #week1
+- [ ] [[Art Crime]] #week3
 
 
 

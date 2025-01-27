@@ -6,7 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Limits of Vector Valued Functions]] #week3
+- [ ] [[Arc Length and Speed]] #week4
+- [ ] [[Graphs and quadric surfaces]] #week4
 
 
 ## Primed
@@ -16,6 +17,7 @@ kanban-plugin: board
 ## Encoding
 
 - [ ] [[Parametric & vector-valued functions]] #week3
+- [ ] [[Limits of Vector Valued Functions]] #week3
 
 
 ## Revising

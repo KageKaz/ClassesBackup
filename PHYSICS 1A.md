@@ -6,11 +6,13 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
+- [ ] [[Newton’s Laws of Motion]] #week4
+- [ ] [[Applications of Newton's Laws]] #week4
 
 
 ## Primed
 
+- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
 
 
 ## Encoding (textbook, slides, discussion questions)
