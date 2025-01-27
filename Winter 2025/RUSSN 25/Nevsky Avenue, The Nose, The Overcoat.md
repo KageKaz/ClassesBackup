@@ -9,6 +9,8 @@ symmetrical
 Theme
 + thesis, moral, idea 
 + "The city corrupts"
++ Appearances vs Reality
++ Romantic Idealism vs Naturalistic Urbanism 
 # The nose
 Stuggled to get published 
 takes an untraditional subject, handles it in a traditional way
@@ -18,7 +20,7 @@ Synthesis
 
 Digressions   
 
-Hyperrealistic
+Hyper realistic
 
 Interpretations
 + Psychoanalytic - Castration?
@@ -27,8 +29,15 @@ Interpretations
 Style
 + does not doubt the reality
 + Non-Sequiter
+Themes
++ The inability to accept reality
++ Ridiculing the bureaucracy, the superficiality of bureaucracy
++ Ego
 # The overcoat
 Stlye
 + Skaz- Mimics someone's intonation
 Thems
 + Sexual/marrige themes
++ Social Class
++ Revenge
++ Materialism 
