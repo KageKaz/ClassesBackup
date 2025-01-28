@@ -17,17 +17,17 @@ kanban-plugin: board
 
 ## Encoding (textbook, slides, discussion questions)
 
-- [ ] [[Motion in One Dimension]] #week2
 
 
 ## Revising
 
-- [ ] [[Scalars and Vectors]] #week1
+- [ ] [[Motion in One Dimension]] #week2
 
 
 ## Mastered
 
 - [ ] [[Nature of Physics]] #week1
+- [ ] [[Scalars and Vectors]] #week1
 
 
 
