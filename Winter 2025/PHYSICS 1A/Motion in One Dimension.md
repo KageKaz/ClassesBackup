@@ -5,3 +5,4 @@
 ![[Motion in One Dimension ✒️2025-01-25 15.15.52]]
 # Notes
 When dealing with H in projectile motion, use $v^2$ formula
+always use g, not a for projectile motion
