@@ -12,11 +12,11 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
 
 
 ## Encoding (textbook, slides, discussion questions)
 
+- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
 
 
 ## Revising
