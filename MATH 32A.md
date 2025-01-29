@@ -16,22 +16,22 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Parametric & vector-valued functions]] #week3
 - [ ] [[Limits of Vector Valued Functions]] #week3
 
 
 ## Revising
 
 - [ ] [[Homework Problems]]
+- [ ] [[Vectors in 3D]] #week1
 - [ ] [[Dot Product]] #week1
 - [ ] [[Cross Product]] #week2
 - [ ] [[Planes in 3D]] #week2
+- [ ] [[Parametric & vector-valued functions]] #week3
 
 
 ## Mastered
 
 - [ ] [[Vectors in 2D]] #week1
-- [ ] [[Vectors in 3D]] #week1
 
 
 
