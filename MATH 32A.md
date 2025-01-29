@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Arc Length and Speed]] #week4
-- [ ] [[Graphs and quadric surfaces]] #week4
+- [ ] [[Curvature]] #week4
 
 
 ## Primed
@@ -16,6 +16,10 @@ kanban-plugin: board
 
 ## Encoding
 
+- [ ] [[Dot Product]] #week1
+- [ ] [[Planes in 3D]] #week2
+- [ ] [[Determinant]] #week2
+- [ ] [[Parametric & vector-valued equations]] #week3
 - [ ] [[Limits of Vector Valued Functions]] #week3
 
 
@@ -23,10 +27,6 @@ kanban-plugin: board
 
 - [ ] [[Homework Problems]]
 - [ ] [[Vectors in 3D]] #week1
-- [ ] [[Dot Product]] #week1
-- [ ] [[Cross Product]] #week2
-- [ ] [[Planes in 3D]] #week2
-- [ ] [[Parametric & vector-valued functions]] #week3
 
 
 ## Mastered
