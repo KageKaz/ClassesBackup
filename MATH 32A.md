@@ -22,6 +22,7 @@ kanban-plugin: board
 
 ## Revising
 
+- [ ] [[Homework Problems]]
 - [ ] [[Vectors in 3D]] #week1
 - [ ] [[Dot Product]] #week1
 - [ ] [[Cross Product]] #week2
