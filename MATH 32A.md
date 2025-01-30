@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Arc Length and Speed]] #week4
 - [ ] [[Curvature]] #week4
 
 
@@ -16,7 +15,7 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Limits of Vector Valued Functions]] #week3
+- [ ] [[Arc Length and Speed]] #week4
 
 
 ## Revising
@@ -27,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Determinant]] #week2
 - [ ] [[Planes in 3D]] #week2
 - [ ] [[Parametric & vector-valued equations]] #week3
+- [ ] [[Limits of Vector Valued Functions]] #week3
 
 
 ## Mastered
