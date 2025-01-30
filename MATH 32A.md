@@ -16,7 +16,6 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Parametric & vector-valued equations]] #week3
 - [ ] [[Limits of Vector Valued Functions]] #week3
 
 
@@ -27,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Dot Product]] #week1
 - [ ] [[Determinant]] #week2
 - [ ] [[Planes in 3D]] #week2
+- [ ] [[Parametric & vector-valued equations]] #week3
 
 
 ## Mastered
