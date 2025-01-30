@@ -12,11 +12,11 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[Who's Who and What's What in the Medieval Church]] #week3
 
 
 ## Encoding (readings and slides)
 
+- [ ] [[Who's Who and What's What in the Medieval Church]] #week3
 
 
 ## Revising
