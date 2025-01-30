@@ -15,7 +15,6 @@ kanban-plugin: board
 
 ## Encoding
 
-- [ ] [[Arc Length and Speed]] #week4
 
 
 ## Revising
@@ -27,6 +26,7 @@ kanban-plugin: board
 - [ ] [[Planes in 3D]] #week2
 - [ ] [[Parametric & vector-valued equations]] #week3
 - [ ] [[Limits of Vector Valued Functions]] #week3
+- [ ] [[Arc Length and Speed]] #week4
 
 
 ## Mastered
