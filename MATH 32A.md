@@ -20,7 +20,6 @@ kanban-plugin: board
 ## Revising
 
 - [ ] [[Homework Problems]]
-- [ ] [[Vectors in 3D]] #week1
 - [ ] [[Dot Product]] #week1
 - [ ] [[Determinant]] #week2
 - [ ] [[Planes in 3D]] #week2
@@ -32,6 +31,7 @@ kanban-plugin: board
 ## Mastered
 
 - [ ] [[Vectors in 2D]] #week1
+- [ ] [[Vectors in 3D]] #week1
 
 
 
