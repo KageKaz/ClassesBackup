@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[European Christianity]] #week4
 - [ ] [[Jews, Heretics and Dissenters]] #week4
 
 
 ## Primed
 
+- [ ] [[European Christianity]] #week4
 
 
 ## Encoding (readings and slides)
