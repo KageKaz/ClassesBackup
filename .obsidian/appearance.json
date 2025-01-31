@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "baseFontSize": 16,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": false
 }
