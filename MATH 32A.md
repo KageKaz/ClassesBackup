@@ -20,7 +20,6 @@ kanban-plugin: board
 ## Revising
 
 - [ ] [[Homework Problems]]
-- [ ] [[Determinant]] #week2
 - [ ] [[Planes in 3D]] #week2
 - [ ] [[Parametric & vector-valued equations]] #week3
 - [ ] [[Limits of Vector Valued Functions]] #week3
@@ -32,6 +31,7 @@ kanban-plugin: board
 - [ ] [[Vectors in 2D]] #week1
 - [ ] [[Vectors in 3D]] #week1
 - [ ] [[Dot Product]] #week1
+- [ ] [[Determinant]] #week2
 
 
 
