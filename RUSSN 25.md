@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Fyodor Dostoevsky, The Double (Part 1)]] #week4
+- [ ] [[The Double Part 2]] #week5
 
 
 ## Read
