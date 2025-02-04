@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Richard II 1-3]] #week3
 - [ ] [[Richard II 2-5]] #week4
-- [ ] [[Henry IV Part 1 1-3]]
+- [ ] [[Henry IV Part 1 1-3]] #week5
 
 
 ## Read

@@ -7,6 +7,8 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Jews, Heretics and Dissenters]] #week4
+- [ ] [[Some Ideas About Blackness and Whiteness in the Middle Ages]] #week5
+- [ ] [[The Crusades]] #week5
 
 
 ## Primed
