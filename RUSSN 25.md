@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Fyodor Dostoevsky, The Double (Part 1)]] #week4
 - [ ] [[The Double Part 2]] #week5
+- [ ] [[Anna Karenina]]
 
 
 ## Read
