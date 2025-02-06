@@ -7,6 +7,9 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Curvature]] #week4
+- [ ] [[Motion in 3D]] #week5
+- [ ] [[Quadratic Surfaces]] #week5
+- [ ] [[Functions of Several Variables]] #week5
 
 
 ## Primed
