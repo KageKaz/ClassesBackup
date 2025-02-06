@@ -8,9 +8,8 @@ kanban-plugin: board
 
 - [ ] [[Newton’s Laws of Motion]] #week4
 - [ ] [[Applications of Newton's Laws]] #week4
-- [ ] [[Kinetic Energy]] #week5
-- [ ] [[Work and Power Concepts]] #week5
-- [ ] [[Potential Energy]] #week5
+- [ ] [[Work and Kinetic Energy]] #week5
+- [ ] [[Potential Energy and Energy Conservation]] #week5
 
 
 ## Primed
