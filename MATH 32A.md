@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] [[Quadratic Surfaces]] #week5
 - [ ] [[Functions of Several Variables]] #week5
+- [ ] [[Limits of Functions of Several Variables]] #week6
+- [ ] [[Continuity of Functions of Several Variables]] #week6
 
 
 ## Primed
