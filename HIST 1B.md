@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Jews, Heretics and Dissenters]] #week4
 - [ ] [[Some Ideas About Blackness and Whiteness in the Middle Ages]] #week5
 - [ ] [[The Crusades]] #week5
 - [ ] [[The Black Death]] #week6
@@ -14,12 +13,11 @@ kanban-plugin: board
 
 ## Primed
 
-- [ ] [[European Christianity]] #week4
 
 
 ## Encoding (readings and slides)
 
-- [ ] [[Who's Who and What's What in the Medieval Church]] #week3
+- [ ] [[Jews, Heretics and Dissenters]] #week4
 
 
 ## Revising
@@ -27,6 +25,8 @@ kanban-plugin: board
 - [ ] [[Medieval Worlds]] #week1
 - [ ] [[Disintegration and New Realities]] #week2
 - [ ] [[After Disintegration Expansion]] #week2
+- [ ] [[Who's Who and What's What in the Medieval Church]] #week3
+- [ ] [[European Christianity]] #week4
 
 
 ## Mastered
