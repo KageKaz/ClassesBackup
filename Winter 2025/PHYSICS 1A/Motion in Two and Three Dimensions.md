@@ -11,4 +11,5 @@ r=\frac{t\sqrt{ g^2t^2-4g\sin (\theta)tv+4v^2 }}{2}
 $$
 $$
 r'=\frac{g^2t^2-3g\sin (\theta)tv+2v^2}{\sqrt{ g^2 t^2-4g\sin(\theta)tv+4v^2}}$$
+$$t=\frac{\sqrt{ 1-9\cos(\theta)^2 }+3\sin(\theta)v}{2g}$$
 set equal to 0 and solve for t
