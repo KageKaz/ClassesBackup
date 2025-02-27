@@ -11,3 +11,4 @@ check $y=x$
 check$y=mx$
 check $y=x^n$
 sometimes $y=mx^n$
+![[Limits of Functions of Several Variables ✒️2025-02-27 10.46.49]]

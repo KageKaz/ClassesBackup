@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Limits of Functions of Several Variables]] #week6
 - [ ] [[Continuity of Functions of Several Variables]] #week6
 
 
@@ -23,7 +22,7 @@ kanban-plugin: board
 - [ ] [[Homework Problems]]
 - [ ] [[Motion in 3D]] #week5
 - [ ] [[Quadratic Surfaces]] #week5
-- [ ] [[Functions of Several Variables]] #week5
+- [ ] [[Limits of Functions of Several Variables]] #week6
 
 
 ## Mastered
@@ -37,6 +36,7 @@ kanban-plugin: board
 - [ ] [[Limits of Vector Valued Functions]] #week3
 - [ ] [[Arc Length and Speed]] #week4
 - [ ] [[Curvature]] #week4
+- [ ] [[Functions of Several Variables]] #week5
 
 
 
