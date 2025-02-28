@@ -6,7 +6,8 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Continuity of Functions of Several Variables]] #week6
+- [ ] [[Gradient and Directional Derivatives]]
+- [ ] [[Differentiability, Tangent Planes, Linear Approximation]]
 
 
 ## Primed
@@ -22,7 +23,6 @@ kanban-plugin: board
 - [ ] [[Homework Problems]]
 - [ ] [[Motion in 3D]] #week5
 - [ ] [[Quadratic Surfaces]] #week5
-- [ ] [[Limits of Functions of Several Variables]] #week6
 
 
 ## Mastered
@@ -37,6 +37,9 @@ kanban-plugin: board
 - [ ] [[Arc Length and Speed]] #week4
 - [ ] [[Curvature]] #week4
 - [ ] [[Functions of Several Variables]] #week5
+- [ ] [[Limits of Functions of Several Variables]] #week6
+- [ ] [[Continuity of Functions of Several Variables]] #week6
+- [ ] [[Partial Derivatives]]
 
 
 
