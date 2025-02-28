@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Gradient and Directional Derivatives]]
 - [ ] [[Differentiability, Tangent Planes, Linear Approximation]]
 
 
@@ -40,6 +39,7 @@ kanban-plugin: board
 - [ ] [[Limits of Functions of Several Variables]] #week6
 - [ ] [[Continuity of Functions of Several Variables]] #week6
 - [ ] [[Partial Derivatives]]
+- [ ] [[Gradient and Directional Derivatives]]
 
 
 
