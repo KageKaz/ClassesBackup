@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## Not Started
 
-- [ ] [[Newton’s Laws of Motion]] #week4
-- [ ] [[Applications of Newton's Laws]] #week4
-- [ ] [[Work and Kinetic Energy]] #week5
-- [ ] [[Potential Energy and Energy Conservation]] #week5
 - [ ] [[Momentum, Impulse, and Collisions]]
+- [ ] [[Rotation of Rigid Bodies]]
+- [ ] [[Dynamics of Rotational Motion]]
+- [ ] [[Equilibrium and Elasticity]]
+- [ ] [[Gravitation]]
 
 
 ## Primed
@@ -19,18 +19,22 @@ kanban-plugin: board
 
 ## Encoding (textbook, slides, discussion questions)
 
-- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
 
 
 ## Revising
 
-- [ ] [[Motion in One Dimension]] #week2
 
 
 ## Mastered
 
 - [ ] [[Nature of Physics]] #week1
 - [ ] [[Scalars and Vectors]] #week1
+- [ ] [[Motion in One Dimension]] #week2
+- [ ] [[Motion in Two and Three Dimensions]] #week2 #week3
+- [ ] [[Newton’s Laws of Motion]] #week4
+- [ ] [[Work and Kinetic Energy]] #week5
+- [ ] [[Applications of Newton's Laws]] #week4
+- [ ] [[Potential Energy and Energy Conservation]] #week5
 
 
 
