@@ -7,10 +7,10 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Momentum, Impulse, and Collisions]]
-- [ ] [[Rotation of Rigid Bodies]]
+- [ ] [[Kinematics of Rotation]]
+- [ ] [[Moment of Inertia]]
 - [ ] [[Dynamics of Rotational Motion]]
-- [ ] [[Equilibrium and Elasticity]]
-- [ ] [[Gravitation]]
+- [ ] [[Static equilibrium of rigid bodies]]
 
 
 ## Primed
