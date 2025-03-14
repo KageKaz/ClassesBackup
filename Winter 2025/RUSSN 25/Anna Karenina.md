@@ -26,9 +26,12 @@ Happy family
 [[Karenin]]
 [[Varenka]]
 [[Princess Betsy]]
+[[peasants]]
 
-
+257
 questions for prof lenhoff
+goes to the lawyer
+russian words for love
 why don't they divorce
 " “For love? What antediluvian notions you have! Can one talk of love in these days?” said the ambassador’s wife.
 

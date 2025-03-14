@@ -28,3 +28,11 @@ Vronsky could not understand how she, with her strong and truthful nature, could
 “No, you were not mistaken,” she said deliberately, looking desperately into his cold face. “You were not mistaken. I was, and I could not help being in despair. I hear you, but I am thinking of him. I love him, I am his mistress; I can’t bear you; I’m afraid of you, and I hate you … You can do what you like to me.”
 
 “My God, how light it is! It’s dreadful, but I love to see his face, and I love this fantastic light … My husband! Oh, yes!… Well, thank God everything’s over with him!”
+
+# Part 3
+When she thought of Vronsky, it seemed to her that he did not love her, that he was already beginning to be tired of her, that she could not offer herself to him, and she felt bitter against him for it.
+
+“Seryozha,” she said, as soon as the governess had left the room, “that was wrong, but you’ll never do it again, will you?… You love me?”
+She felt that the tears were coming into her eyes. “Can I help loving him?” she said to herself, looking deeply into his scared and at the same time delighted eyes. “And can he ever join his father in punishing me? Is it possible he will not feel for me?” Tears were already flowing down her face, and to hide them she got up abruptly and almost ran out onto the terrace.
+
+

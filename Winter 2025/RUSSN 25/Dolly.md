@@ -4,3 +4,6 @@
 For me to live with him now would be torture, just because I love my past love for him …”
 
 “Remember, Anna, what you’ve done for me—I shall never forget. And remember that I love you, and shall always love you as my dearest friend!”
+
+# Part 3
+“Yes, I understand it all now,” said Darya Aleksandrovna. “You can’t understand it; for you men, who are free and make your own choice, it’s always clear whom you love. But a girl’s in a position of suspense, with all a woman’s or maiden’s modesty, a girl who sees you men from afar, who takes everything on trust—a girl may have, and often has, such a feeling that she cannot tell what to say.” “No, the heart does speak; but just consider: you men have views about a girl, you come to the house, you make friends, you criticize, you wait to see if you have found what you love, and then, when you are sure you love her, you propose …” “Anyway you propose, when your love is ripe or when the balance has completely turned between the two you are choosing from. But a girl is not asked. She is expected to make her choice, and yet she cannot choose, she can only answer ‘yes’ or ‘no.’ ”

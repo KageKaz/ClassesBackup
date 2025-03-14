@@ -19,3 +19,12 @@ I will talk frankly, without reserve, and I will make him speak without reserve,
 
 He was so far from conceiving of love for woman apart from marriage that he actually pictured to himself first the family, and only secondarily the woman who would give him a family. His ideas of marriage were, consequently, very unlike those of the great majority of his acquaintances, for whom getting married was one of the numerous facts of social life. For Levin it was the chief affair of life, on which its whole happiness turned. And now he had to give that up. PRO MARRIAGE
 
+# Part 3
+To Konstantin, the peasant was simply the chief partner in their common labor, and in spite of all the respect and the love, almost like that of kinship, he had for the peasant—imbibed probably, as he said himself, with the milk of his peasant nurse—still, as their partner, while sometimes enthusiastic over the vigor, gentleness, and justice of these men, he was very often, when their common labors called for other qualities, exasperated with the peasant for his carelessness, disorganization, drunkenness, and lying.
+
+How can you think it a matter of no importance whether the peasant, whom you love as you assert—”
+“I never did assert it,” thought Konstantin Levin.
+
+“Darya Aleksandrovna,” he said, “that’s how one chooses a new dress, or some purchase or other, not love. The choice has been made, and so much the better … And there can be no repeating it.”“Ah, pride, pride!” said Darya Aleksandrovna, as though despising him for the baseness of this feeling in comparison with that other feeling which only women know.
+
+“No,” he said to himself, “however good that life of simplicity and toil may be, I cannot go back to it. I love her.”
