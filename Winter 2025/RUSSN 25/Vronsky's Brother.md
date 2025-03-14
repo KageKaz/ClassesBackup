@@ -1,0 +1,2 @@
+# Part 2
+Vronsky’s brother This elder son, too, was displeased with his younger brother. He did not distinguish what sort of love his might be, big or little, passionate or passionless, lasting or passing (he kept a ballet girl himself, though he was the father of a family, so he was lenient in this matter), but, knowing that this love affair displeased those whom it was necessary to please, he did not approve of his brother’s conduct.

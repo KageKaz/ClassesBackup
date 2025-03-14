@@ -1,0 +1,3 @@
+In fact, the boy did feel that he could not understand this relation, and he tried painfully, and was not able to make clear to himself what feeling he ought to have for this man. With a child’s keen instinct for every manifestation of feeling, he saw distinctly that his father, his governess, his nurse—all did not merely dislike Vronsky, but looked on him with horror and aversion, though they never said anything about him, while his mother looked on him as her greatest friend.
+
+“What does it mean? Who is he? How should I love him?

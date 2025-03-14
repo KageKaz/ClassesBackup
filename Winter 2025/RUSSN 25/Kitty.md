@@ -7,4 +7,8 @@ And then for the first time the whole thing presented itself in a new, different
 
 She remembered the love for her of the man she loved, and once more all was gladness in her soul, and she lay on the pillow smiling with happiness. “I’m sorry, I’m sorry; but what could I do? It’s not my fault,” she said to herself; but an inner voice told her something else. Whether she felt remorse at having won Levin’s love, or at having refused him, she did not know. But her happiness was poisoned by doubts. “Lord, have mercy on us; Lord, have mercy on us; Lord, have mercy on us!” she repeated to herself, till she fell asleep.
 
+# Part 2
+
 “I’ve nothing to grieve over and be comforted about. I am too proud ever to allow myself to care for a man who does not love me.”
+
+“Tell me, isn’t it humiliating to think that a man has disdained your love, that he hasn’t cared for it?…” (to Varenka) “Why, what is there shameful?” she said. “You didn’t tell a man who didn’t care for you that you loved him, did you?”

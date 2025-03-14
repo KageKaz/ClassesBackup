@@ -1,0 +1,4 @@
+# Part 2
+“Excuse me, let me say all I have to say. I love you. But I am not speaking of myself; the most important persons in this matter are our son and yourself. It may very well be, I repeat, that my words seem to you utterly unnecessary and out of place; it may be that they are called forth by my mistaken impression. In that case, I beg you to forgive me. But if you are conscious yourself of even the smallest foundation for them, then I beg you to think a little, and if your heart prompts you to speak out to me …” (to anna)
+
+“Very well! But I expect a strict observance of the external forms of propriety till such time”—his voice shook—“as I may take measures to protect my honor and communicate them to you.”

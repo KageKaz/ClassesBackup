@@ -16,9 +16,15 @@ Happy family
 + Patriarchal
 + Holds together
 
+[[love in anna karenina]]
+
 [[Stiva]] and [[Dolly]]
 [[Levin]] and [[Kitty]]
-[[Anna]] and [[Vronsky test]]
+[[Anna]] and [[Vronsky]]
+[[Vronsky's Brother]]
+[[Seryozha]]
+[[Karenin]]
+[[Varenka]]
 [[Princess Betsy]]
 
 

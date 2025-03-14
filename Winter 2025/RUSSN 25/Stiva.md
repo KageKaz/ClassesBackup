@@ -8,3 +8,7 @@ He looked at her, and the fury expressed in her face alarmed and amazed him. He 
 “Well, she loves my child,” he thought, noticing the change of her face at the child’s cry, “my child. How can she hate me?”
 
 Your wife gets older, while you’re full of life. Before you’ve time to look around, you feel that you can’t love your wife with love, however much you may esteem her. And then all at once love turns up, and you’re done for, done for,” Stepan Arkadyevich said with weary despair.
+
+# Part 2
+“You don’t agree, I know, that one can be fond of fresh rolls when one has had one’s rations of bread—to your mind it’s a crime; but I don’t count life as life without love,” he said, taking Levin’s question in his own way. “What am I to do? I’m made that way. And really, one does so little harm to anyone, and gives oneself so much pleasure …”
+
