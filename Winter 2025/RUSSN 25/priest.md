@@ -1,0 +1,4 @@
+# Part 5
+“If you love your child as a good father, you will desire not only wealth, luxury, honor for your infant; you will be anxious for his salvation, his spiritual enlightenment with the light of truth. Eh? What answer will you make him when the innocent babe asks you: ‘Papa! Who made all that enchants me in this world—the earth, the waters, the sun, the flowers, the grass?’ Can you say to him: ‘I don’t know’? You cannot but know, since the Lord God in His infinite mercy has revealed it to us. Or your child will ask you: ‘What awaits me in the life beyond the tomb?’ What will you say to him when you know nothing? How will you answer him? Will you leave him to the temptations of the world and the devil? That’s not right,” he said, and he stopped, putting his head on one side and looking at Levin with his kindly, gentle eyes.
+
+Joinest together in love them that were separate.’

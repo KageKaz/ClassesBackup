@@ -16,3 +16,22 @@ She remembered the love for her of the man she loved, and once more all was glad
 It was revealed to her that besides the instinctive life to which Kitty had given herself up till now there was a spiritual life. This life was disclosed in religion, but a religion having nothing in common with that one Kitty had known from childhood, and which found expression in masses and vespers at the Widow’s Home, where one might meet one’s friends, and in learning by heart Slavonic texts with the priest. This was a lofty, mysterious religion connected with a whole series of noble thoughts and feelings, which one could do more than believe merely because one was told to, which one could love. Kitty found all this out not from words. Madame Stahl talked to Kitty as to a charming child that one looks on with pleasure as on the memory of one’s youth, and only once she said in passing that in all human sorrows nothing gives comfort but love and faith, and that in the sight of Christ’s compassion for us no sorrow is trifling—and immediately talked of other things. But in every gesture of Madame Stahl, in every word, in every heavenly—as Kitty called it—look, and above all in the whole story of her life, which she heard from Varenka, Kitty recognized that something “that was important,” of which, till then, she had known nothing.
 
 In Varenka she realized that one has but to forget oneself and love others, and one will be calm, happy, and noble. And that was what Kitty longed to be. Seeing now clearly what was the most important, Kitty was not satisfied with being enthusiastic over it; she at once surrendered her whole soul to the new life that was opening for her.
+
+# Part 4
+There was apparently nothing extraordinary in what she said, but what unutterable meaning there was for him in every sound, in every turn of her lips, her eyes, her hand as she said it! There was entreaty for forgiveness, and trust in him and tenderness—soft, timid tenderness—and promise and hope and love for him, which he could not but believe in and which choked him with happiness.
+
+In their conversation everything had been said; it had been said that she loved him, and that she would tell her father and mother that he would come tomorrow morning.
+
+Levin, on hearing this, informed Yegor that, in his opinion, in marriage the main thing was love, and that with love one would always be happy, for happiness lies only within oneself.
+
+It was the gambler Myaskin, whom he knew, coming from the club. He walked gloomily, frowning and coughing. “Poor, unlucky fellow!” thought Levin, and tears came into his eyes from love and pity for this man.
+
+She did not walk but seemed, by some unseen force, to float to him. He saw nothing but her clear, truthful eyes, frightened by the same bliss of love that flooded his heart. Those eyes were shining nearer and nearer, blinding him with their light of love. She stopped close to him, touching him. Her hands rose and dropped on his shoulders.
+
+“Can it be true?” he said at last in a choked voice. “I can’t believe you love me, dear!”
+
+She smiled at that “dear,” and at the timidity with which he glanced at her.
+
+Through love she knew all his soul, and in his soul she saw what she wanted, and that such a state of soul should be called unbelieving was to her a matter of no account.
+
+# Part 5

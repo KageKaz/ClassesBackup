@@ -12,3 +12,10 @@ Your wife gets older, while you’re full of life. Before you’ve time to look 
 # Part 2
 “You don’t agree, I know, that one can be fond of fresh rolls when one has had one’s rations of bread—to your mind it’s a crime; but I don’t count life as life without love,” he said, taking Levin’s question in his own way. “What am I to do? I’m made that way. And really, one does so little harm to anyone, and gives oneself so much pleasure …”
 
+# Part 4
+You married him without love and not knowing what love was. It was a mistake, let’s say.”
+“But I repeat, it’s an accomplished fact. Then you had, let us say, the misfortune to love a man not your husband. That was a misfortune; but that, too, is an accomplished fact. And your husband knew it and forgave it.”
+
+
+
+

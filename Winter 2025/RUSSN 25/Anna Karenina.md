@@ -20,16 +20,17 @@ Happy family
 
 [[Stiva]] and [[Dolly]]
 [[Levin]] and [[Kitty]]
-[[Anna]] and [[Vronsky]]
+[[Anna]] and [[Vronsky]] and [[Karenin]]
 [[Vronsky's Brother]]
 [[Seryozha]]
-[[Karenin]]
 [[Varenka]]
 [[Princess Betsy]]
 [[peasants]]
+[[priest]]
 
-257
+437
 questions for prof lenhoff
+block quotes
 goes to the lawyer
 russian words for love
 why don't they divorce
@@ -44,3 +45,11 @@ why don't they divorce
 “But by marriages of prudence we mean those in which both parties have sown their wild oats already. That’s like scarlatina—one has to go through it and get it over.”
 
 “Then they ought to find out how to vaccinate for love, like smallpox.” "
+
+![[Anna Karenina ✒️2025-03-14 14.18.25]]
+
+Anna and vronsky, their love for one another is all they have
+
+For levin love needs merit, he needs kitty to explain to him why he is worth loving
+
+Levin and Kitty almost too close

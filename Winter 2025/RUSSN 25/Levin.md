@@ -28,3 +28,43 @@ How can you think it a matter of no importance whether the peasant, whom you lov
 “Darya Aleksandrovna,” he said, “that’s how one chooses a new dress, or some purchase or other, not love. The choice has been made, and so much the better … And there can be no repeating it.”“Ah, pride, pride!” said Darya Aleksandrovna, as though despising him for the baseness of this feeling in comparison with that other feeling which only women know.
 
 “No,” he said to himself, “however good that life of simplicity and toil may be, I cannot go back to it. I love her.”
+
+Levin loved his brother, but being with him was always a torture.
+
+Instead of a lively, healthy visitor, some outsider who would cheer him up in his uncertain humor, he had to see his brother, who knew him through and through, who would call forth all the thoughts nearest his heart, would force him to show himself fully. And that he was not disposed to do.
+
+# Part 4
+There was apparently nothing extraordinary in what she said, but what unutterable meaning there was for him in every sound, in every turn of her lips, her eyes, her hand as she said it! There was entreaty for forgiveness, and trust in him and tenderness—soft, timid tenderness—and promise and hope and love for him, which he could not but believe in and which choked him with happiness.
+
+He snatched the chalk with nervous, trembling fingers, and, breaking it, wrote the initial letters of the following phrase, “I have nothing to forget and to forgive; I have never ceased to love you.”
+
+“Can it be true?” he said at last in a choked voice. “I can’t believe you love me, dear!”
+
+She smiled at that “dear,” and at the timidity with which he glanced at her.
+
+And there came over Levin a new feeling of love for this man, till then so little known to him, when he saw how slowly and tenderly Kitty kissed his fleshy hand.
+
+# Part 5
+“If you love your child as a good father, you will desire not only wealth, luxury, honor for your infant; you will be anxious for his salvation, his spiritual enlightenment with the light of truth. Eh? What answer will you make him when the innocent babe asks you: ‘Papa! Who made all that enchants me in this world—the earth, the waters, the sun, the flowers, the grass?’ Can you say to him: ‘I don’t know’? You cannot but know, since the Lord God in His infinite mercy has revealed it to us. Or your child will ask you: ‘What awaits me in the life beyond the tomb?’ What will you say to him when you know nothing? How will you answer him? Will you leave him to the temptations of the world and the devil? That’s not right,” he said, and he stopped, putting his head on one side and looking at Levin with his kindly, gentle eyes.
+
+Levin smiled. The picture of his wife not letting him go was so pleasant that he was ready to renounce the delights of seeing bears forever.
+
+“What if she does not love me? What if she’s marrying me simply to be married? What if she doesn’t know herself what she’s doing?” he asked himself. “She may come to her senses, and only when she is being married realize that she does not and cannot love me.” And strange, most evil thoughts of her began to come to him. He was jealous of Vronsky, as he had been a year ago, as though the evening he had seen her with Vronsky had been yesterday. He suspected she had not told him everything.
+
+“What I have said a thousand times over, and can’t help thinking … that I’m not worthy of you. You couldn’t consent to marry me. Think a little. You’ve made a mistake. Think it over thoroughly. You can’t love me.… If … better say so,” he said, not looking at her. “I shall be wretched. Let people say what they like; anything’s better than misery … Far better now while there’s still time …”
+
+“I am thinking you can’t love me. What can you love me for?”
+
+Kitty had not simply assured him that she loved him, but had gone so far—in answer to his question, what she loved him for—as to explain why. She told him that she loved him because she understood him completely, because she knew what he would like, and because everything he liked was good. And this seemed to him perfectly clear.
+
+Although Levin thought he had the most exact ideas about domestic life, like all men, he had imagined married life to consist merely of the enjoyment of love, which nothing must hinder and from which no petty cares must distract. He should, as he conceived the position, do his work, and find repose from it in the happiness of love. She be loved, nothing more. But, like all men, he forgot that she, his poetic, exquisite Kitty, could not merely in the first weeks, but even in the first days of their married life, think, remember, and busy herself about tablecloths and furniture, about mattresses for visitors, about a tray, about the cook and the dinner, and so on. While they were still engaged, he had been struck by the definiteness with which she had declined the tour abroad and decided to go into the country, as though she knew of something she wanted, and could still think of something outside her love. This had hurt him then, and now her trivial cares and anxieties hurt him several times. But he saw that this was essential for her. And, loving her as he did, though he did not understand the reason behind them, and laughed at these domestic pursuits, he could not help admiring them.
+
+This first quarrel arose from Levin’s having gone out to a new farmhouse and having been away half an hour too long, because he had tried to get home by a short cut and had lost his way. He drove home thinking of nothing but her, of her love, of his own happiness, and the nearer he drew to home, the warmer was his tenderness for her. He ran into the room with the same feeling, with an even stronger feeling than he had had when he reached the Shcherbatskys’ house to propose. And suddenly he was met by a grim expression he had never seen on her face. He tried to kiss her, but she pushed him away.
+
+It was only then, for the first time, that he clearly understood what he had not understood when he led her out of the church after the wedding. ⁠ ==He felt now that he was not simply close to her, but that he did not know where he ended and she began.== He was offended for the first instant, but the very same second he felt that he could not be offended by her, that she was himself.
+
+One habitual impulse impelled him to get rid of the blame and to lay it on her. Another feeling, even stronger, impelled him as quickly as possible to smooth over the breach without letting it grow wider. To remain under such undeserved reproach was wretched, but to make her suffer by justifying himself was wrong still. Like a man half-awake in an agony of pain, he wanted to tear out, to fling away the aching part and, coming to his senses, he felt that the aching part was himself. He could do nothing but try to help the aching part to bear it, and this he tried to do.
+
+and how strange it was for him to think that he, so lately hardly daring to believe in such happiness as that she could love him, now was unhappy because she loved him too much!
+
+==The sight of his brother and the nearness of death revived in Levin that sense of horror in the face of the insoluble enigma, together with the nearness and inevitability of death, that had come upon him that autumn evening when his brother had come to him. This feeling was now even stronger than before; even less than before did he feel capable of apprehending the meaning of death, and its inevitability rose up before him more terrible than ever. But now, thanks to his wife’s presence, that feeling did not reduce him to despair. In spite of death, he felt the need for life and love. He felt that love saved him from despair, and that this love, under the threat of despair, had become still stronger and purer. The one mystery of death, still unsolved, had scarcely passed before his eyes, when another mystery had arisen, as insoluble, calling to love and to life.==
