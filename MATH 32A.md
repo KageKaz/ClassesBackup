@@ -7,6 +7,7 @@ kanban-plugin: board
 ## Not Started
 
 - [ ] [[Differentiability, Tangent Planes, Linear Approximation]]
+- [ ] [[Week 10 Quiz]]
 
 
 ## Primed
