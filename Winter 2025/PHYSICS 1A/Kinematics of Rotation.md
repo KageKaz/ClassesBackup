@@ -1,3 +1,4 @@
 # Drawing
 ![[Rotation of Rigid Bodies ✒️2025-03-03 20.31.04]]
-# Notes
+# Practice
+![[Kinematics of Rotation ✒️2025-03-15 17.47.52]]
