@@ -11,6 +11,8 @@ kanban-plugin: board
 - [ ] [[The Renaissance]]
 - [ ] [[New Monarchs]]
 - [ ] [[Age of Exploration]]
+- [ ] [[Protestant Reformation]]
+- [ ] [[Wars of Religion]]
 
 
 ## Primed
