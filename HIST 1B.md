@@ -8,6 +8,9 @@ kanban-plugin: board
 
 - [ ] [[The Crusades]] #week5
 - [ ] [[The Black Death]] #week6
+- [ ] [[The Renaissance]]
+- [ ] [[New Monarchs]]
+- [ ] [[Age of Exploration]]
 
 
 ## Primed
