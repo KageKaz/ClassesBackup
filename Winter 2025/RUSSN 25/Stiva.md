@@ -1,5 +1,5 @@
 # Part 1
-Stepan Arkadyevich was a truthful man with himself. He was incapable of deceiving himself and persuading himself that he repented of his conduct. He could not at this date feel repentant that he, a handsome, women-prone man of thirty-four, was not in love with his wife, the mother of five living and two dead children, and only a year younger than himself. All he was sorry about was that he had not succeeded better in hiding it from his wife.
+
 
 Stepan Arkadyevich was a truthful man with himself. He was incapable of deceiving himself and persuading himself that he repented of his conduct. He could not at this date feel repentant that he, a handsome, women-prone man of thirty-four, was not in love with his wife, the mother of five living and two dead children, and only a year younger than himself. All he was sorry about was that he had not succeeded better in hiding it from his wife.
 
