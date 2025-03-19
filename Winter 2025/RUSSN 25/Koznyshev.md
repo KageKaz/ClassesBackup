@@ -1,0 +1,12 @@
+# Part 6
+However many women and girls he thought of whom he knew, he could not think of a girl who united to such a degree all, positively all, the qualities he would wish to see in his wife. She had all the charm and freshness of youth, but she was not a child; and if she loved him, she loved him consciously as a woman ought to love; that was one thing. Another point: she was not only far from being worldly, but had an unmistakable distaste for worldly society, and at the same time she knew the world, and had all the ways of a woman of the best society, which were absolutely essential to Sergey Ivanovich’s conception of the woman who was to share his life. Third: she was religious, and not like a child, unconsciously religious and good, as Kitty, for example, was, but her life was founded on religious principles. Even in trifling matters, Sergey Ivanovich found in her all that he wanted in his wife: she was poor and alone in the world, so she would not bring with her a mass of relations and their influence into her husband’s house, as he saw now in Kitty’s case. She would owe everything to her husband, which was what he had always desired too for his future family life. And this girl, who united all these qualities, loved him. He was a modest man, but he could not help seeing it. And he loved her. There was one consideration against it—his age. But he was of a long-lived family, he had not a single gray hair, no one would have taken him for forty
+
+“Varvara Andreevna, when I was very young, I set before myself the ideal of the woman I loved and would be happy to call my wife. I have lived through a long life, and now for the first time I have met what I sought—in you. I love you, and offer you my hand.”
+
+Sergey Ivanovich was saying this to himself while he was ten paces from Varenka. Kneeling down, with her hands over the mushrooms to guard them from Grisha, she was calling little Masha.
+
+Rapidly in his own mind he ran over all the arguments in support of his decision. He even said over to himself the words in which he meant to propose, but instead of those words, some utterly unexpected reflection that occurred to him made him ask:
+
+“What is the difference between the birch mushroom and the white mushroom?”
+
+When he had got home again and went over the whole subject, Sergey Ivanovich thought his previous decision had been a mistaken one. He could not be false to the memory of Marie.

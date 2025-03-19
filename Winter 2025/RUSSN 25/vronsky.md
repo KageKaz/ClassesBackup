@@ -1,3 +1,4 @@
+
 # Part 1
 Still less could he have believed that he ought to marry.  ANTI Marriage
 He did not in his heart respect his mother, and without acknowledging it to himself, he did not love her, though in accordance with the ideas of the set in which he lived, and with his own education, he could not have conceived of any behavior to his mother not in the highest degree respectful and obedient, and the more externally obedient and respectful his behavior, the less in his heart he respected and loved her.
@@ -53,3 +54,21 @@ post suicide attempt
 One thing he could not tear out of his heart, though he never ceased struggling with it, was the regret, amounting to despair, that he had lost her forever. Having expiated his sin against the husband, he was bound to renounce her and never in the future to stand between her, with her repentance, and her husband—that he had firmly decided in his heart; but he could not tear out of his heart his regret at the loss of her love, he could not erase from his memory those moments of happiness that he had so little prized at the time, and that haunted him in all their charm.
 
 “It will all pass, it will all pass; we shall be so happy. Our love, if it _could_ be stronger, will be strengthened because there is something terrible in it,” he said, lifting his head and parting his strong teeth in a smile.
+
+# Part 5
+He saw nothing impossible and inconceivable in the idea that death, though existing for unbelievers, did not exist for him, and that, as he was possessed of the most perfect faith, of the measure of which he was himself the judge, therefore there was no sin in his soul, and he was experiencing complete salvation here on earth.
+
+He was sorry for her, and angry all the same. He assured her of his love because he saw that this was the only means of soothing her, and he did not reproach her in words, but in his heart he reproached her.
+
+# Part 6
+“I see that she is happy,” he repeated, and the doubt whether she was happy sank more deeply into Darya Aleksandrovna’s mind. “But can it last? Whether we have acted rightly or wrongly is another question, but the die is cast,” he said, passing from Russian to French, “and we are bound together for life. We are united by all the ties of love that we hold most sacred. We have a child, we may have other children. But the law and all the conditions of our position are such that thousands of complications arise which she does not see and does not want to see. And that one can well understand. But I can’t help seeing them. My daughter is by law not my daughter but Karenin’s. I cannot bear this deception!” he said, with a vigorous gesture of refusal, and he looked with gloomy inquiry toward Darya Aleksandrovna.
+
+“One day a son may be born, my son, and he will be legally a Karenin; he will not be the heir of my name or of my property, and however happy we may be in our home life and however many children we may have, there will be no real tie between us. They will be Karenins. You can understand the bitterness and horror of this position! I have tried to speak of this to Anna. It irritates her. She does not understand, and to her I cannot speak plainly of all this. Now look at another side. I am happy, happy in her love, but I must have occupation. I have found occupation, and am proud of what I am doing and consider it nobler than the pursuits of my former companions at court and in the army. And most certainly I would not change the work I am doing for theirs. I am working here, settled in my own place, and I am happy and contented, and we need nothing more to make us happy. I love my work here. _Ce n’est pas un pis-aller_,[1](http://tauri.localhost/filter/category%3Aepub/split/triage_status/shortlist/read/01jgjv29q4ew5d21jwz4mhw6gz#c178-ftn1) on the contrary …”
+
+“Well, I will go on,” he said, collecting himself. “The important thing is that as I work I want to have a conviction that what I am doing will not die with me, that I shall have heirs to come after me—and this I have not. Conceive the position of a man who knows that his children, the children of the woman he loves, will not be his, but will belong to someone who hates them and cares nothing about them! It is terrible!”
+
+Annie is very ill, the doctor says it may be pneumonia. I am losing my mind all alone. Princess Varvara is no help but a hindrance. I expected you the day before yesterday, and yesterday, and now I am sending to find out where you are and what you are doing. I wanted to come myself, but thought better of it, knowing you would dislike it. Send some answer, that I may know what to do.
+
+The child ill, yet she had thought of coming herself. Their daughter ill, and this hostile tone.
+
+The innocent festivities over the election, and this gloomy, burdensome love to which he had to return struck Vronsky by their contrast. But he had to go, and by the first train that night he set off for home.

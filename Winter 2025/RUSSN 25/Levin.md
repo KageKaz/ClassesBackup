@@ -68,3 +68,27 @@ One habitual impulse impelled him to get rid of the blame and to lay it on her. 
 and how strange it was for him to think that he, so lately hardly daring to believe in such happiness as that she could love him, now was unhappy because she loved him too much!
 
 ==The sight of his brother and the nearness of death revived in Levin that sense of horror in the face of the insoluble enigma, together with the nearness and inevitability of death, that had come upon him that autumn evening when his brother had come to him. This feeling was now even stronger than before; even less than before did he feel capable of apprehending the meaning of death, and its inevitability rose up before him more terrible than ever. But now, thanks to his wife’s presence, that feeling did not reduce him to despair. In spite of death, he felt the need for life and love. He felt that love saved him from despair, and that this love, under the threat of despair, had become still stronger and purer. The one mystery of death, still unsolved, had scarcely passed before his eyes, when another mystery had arisen, as insoluble, calling to love and to life.==
+
+# Part 6
+When they had set off on foot ahead of the others, and had come out of sight of the house onto the hard, dusty road, strewn with rye ears and grain, she leaned more heavily on his arm and pressed it closer to her. He had quite forgotten the momentary unpleasant impression, and alone with her he felt, now that the thought of her approaching motherhood was never for a moment absent from his mind, a new and delicious bliss, quite pure from sensuality, in being near the woman he loved. There was no need for speech, yet he longed to hear the sound of her voice, which, like her eyes, had changed since she had been with child. In her voice, as in her eyes, there was that softness and gravity which is found in people continually concentrated on some cherished pursuit.
+
+“You think he can’t fall in love,” said Kitty, translating into her own language.
+
+“It’s not so much that he can’t fall in love,” Levin said, smiling, “but he has not the weakness necessary … I’ve always envied him, and even now, when I’m so happy, I still envy him.”
+
+“You envy him for not being able to fall in love?”
+
+“I envy him for being better than me,” said Levin. “He does not live for himself. His whole life is subordinated to his duty. And that’s why he can be calm and contented.”
+
+“And you?” Kitty asked, with an ironical and loving smile.
+
+She could never have explained the chain of thought that made her smile; but the last link in it was that her husband, in exalting his brother and abasing himself, was not quite sincere. Kitty knew that this insincerity came from his love for his brother, from his sense of shame at being too happy, and above all from his unflagging craving to be better—she loved it in him, and so she smiled.
+
+
+“Who was it he kissed yesterday with those lips?” he thought, looking at Stepan Arkadyevich’s tender demonstrations to his wife. He looked at Dolly, and he did not like her either.
+
+“She doesn’t believe in his love. So what is she so pleased about? Revolting!” thought Levin.
+
+Levin’s jealousy went further still. Already he saw himself a deceived husband, looked upon by his wife and her lover as simply necessary to provide them with the conveniences and pleasures of life … But in spite of that he made polite and hospitable inquiries of Vasenka about his shooting, his gun, and his boots, and agreed to go shooting the next day.
+
+Levin’s jealousy went further still. Already he saw himself a deceived husband, looked upon by his wife and her lover as simply necessary to provide them with the conveniences and pleasures of life … But in spite of that he made polite and hospitable inquiries of Vasenka about his shooting, his gun, and his boots, and agreed to go shooting the next day.

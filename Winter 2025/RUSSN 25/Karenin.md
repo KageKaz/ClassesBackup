@@ -28,3 +28,5 @@ And he knows all that; he knows that I can’t repent that I breathe, that I lov
 
 # Part 5
 He could not now reconcile his immediate past, his tenderness, his love for his sick wife and for the other man’s child with what was now the case, that is with the fact that, as if in return for all this, he now found himself alone, put to shame, ridiculed, needed by no one, and despised by everyone.
+
+“Who is to throw a stone?” said Aleksey Aleksandrovich, unmistakably pleased with the part he had to play. “I have forgiven all, and so I cannot deprive her of what is exacted by love in her—by her love for her son …”

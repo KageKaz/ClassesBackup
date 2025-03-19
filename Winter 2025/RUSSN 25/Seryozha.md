@@ -1,3 +1,13 @@
 In fact, the boy did feel that he could not understand this relation, and he tried painfully, and was not able to make clear to himself what feeling he ought to have for this man. With a child’s keen instinct for every manifestation of feeling, he saw distinctly that his father, his governess, his nurse—all did not merely dislike Vronsky, but looked on him with horror and aversion, though they never said anything about him, while his mother looked on him as her greatest friend.
 
 “What does it mean? Who is he? How should I love him?
+
+# Part 5
+“But why have they all agreed to speak just in the same manner about the dreariest and most useless stuff? Why does he repulse me? Why doesn’t he love me?” he asked himself mournfully, and could not think of an answer.
+
+Later, when he accidentally learned from his old nurse that his mother was not dead, and his father and Lydia Ivanovna had explained that she was dead to him because she was wicked (which he could not possibly believe, because he loved her), he went on seeking her and expecting her in the same way.
+In death, of which they talked to him so often, Seryozha disbelieved entirely. He did not believe that those he loved could die—above all, that he himself would die. That was to him something utterly inconceivable and impossible. But he had been told that all men die; he had asked people, those whom he trusted, and they too had confirmed it; his old nurse, too, said the same, though reluctantly. But Enoch had not died, and so it followed that not everyone did die. “And why cannot anyone else so serve God and be taken alive to heaven?” thought Seryozha. Bad people, that is, those Seryozha did not like, they might die, but the good might all be like Enoch.
+
+He understood that she was unhappy and loved him. He understood even what the nurse had whispered. He had caught the words “always after eight,” and he knew that this was said of his father, and that his father and mother could not meet. That he understood, but one thing he could not understand—why there should be a look of dread and shame in her face. She was not at fault, but she was afraid of him and ashamed of something. He would have liked to put a question that would have set at rest this doubt, but he did not dare; he saw she was miserable, and he felt for her. Silently he pressed close to her and whispered, “Don’t go yet. He won’t come just yet.”
+
+“Seryozha, my darling,” she said, “love him; he’s better and kinder than I am and I have done him wrong. When you grow up you will judge.”
