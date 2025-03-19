@@ -72,3 +72,68 @@ Annie is very ill, the doctor says it may be pneumonia. I am losing my mind all 
 The child ill, yet she had thought of coming herself. Their daughter ill, and this hostile tone.
 
 The innocent festivities over the election, and this gloomy, burdensome love to which he had to return struck Vronsky by their contrast. But he had to go, and by the first train that night he set off for home.
+
+# Part 7
+In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken.
+
+The irritability that kept them apart had no external cause, and all efforts to come to an understanding intensified it instead of removing it. It was an inner irritation, grounded in her mind on the conviction that his love had diminished; in his, on regret that he had put himself for her sake in a difficult position, which she, instead of lightening, made still more difficult. Neither of them gave full utterance to their sense of grievance, but they considered each other in the wrong, and tried on every pretext to prove this to one another.
+
+In her eyes the whole of him, with all his habits, ideas, desires, with all his spiritual and physical temperament, was one thing—love for women, and that love, she felt, ought to be entirely concentrated on her alone. Yet that love was diminishing; consequently, as she reasoned, he must have transferred part of his love to other women or to another woman—and she was jealous. She was jealous not of any particular woman but of the decrease of his love. Not having an object for her jealousy, she was on the lookout for it. At the slightest hint she transferred her jealousy from one object to another. At one time she was jealous of those coarse women with whom he might so easily renew his old bachelor ties; then she was jealous of the society women he might meet; then she was jealous of the imaginary girl whom he might want to marry, for whose sake he would break with her. And this last form of jealousy tortured her most of all, especially as he had unwarily told her, in a moment of frankness, that his mother knew him so little that she had had the audacity to try and persuade him to marry the young Princess Sorokina.
+
+If he had loved her he would have seen all the bitterness of her position, and would have rescued her from it. For her being in Moscow and not in the country, he was to blame too. He could not live buried in the country as she would have liked to do. He had to have society, and he had put her in this awful position, the bitterness of which he would not see. And again, it was his fault that she was forever separated from her son.
+
+This irritated Anna. She saw in this a contemptuous reference to her occupations. And she thought of something that would pay him back for the pain he had given her. “I don’t expect you to understand me, my feelings, as anyone who loved me might, but simple delicacy I did expect,” she said.
+
+And he had actually flushed with vexation, and had said something unpleasant. She could not recall her answer, but at that point, with an unmistakable desire to hurt her too, he had said:
+
+“I feel no interest in your infatuation over this girl, because I see it’s unnatural.”
+
+The cruelty with which he shattered the world she had built up for herself so laboriously to enable her to endure her hard life, the injustice with which he had accused her of affectation, of artificiality, aroused her.
+
+“I am very sorry that nothing but what’s coarse and material is comprehensible and natural to you,” she said, and walked out of the room.
+
+“Unnatural!” She suddenly recalled the word that had stung her most of all, not so much the word itself as the intent to hurt her with which it was said. “I know what he meant; he meant—unnatural, not loving my own daughter, to love another person’s child. What does he know of love for children, of my love for Seryozha, whom I’ve sacrificed for him? But that wish to hurt me! No, he loves another woman, it must be so.”
+
+“I never boast, and I never tell lies,” he said slowly, restraining his rising anger. “It’s a great pity if you can’t respect—”
+
+“Respect was invented to cover the empty place where love should be. And if you don’t love me any more, it would be better and more honest to say so.”
+
+“No, this is becoming unbearable!” cried Vronsky, getting up from his chair; and stopping short, facing her, he said, speaking deliberately: “Why do you try my patience?” looking as though he might have said much more, but was restraining himself. “It has limits.”
+
+“What do you mean by that?” she cried, looking with terror at the undisguised hatred in his whole face, and especially in his cruel, menacing eyes.
+
+“I mean to say …” he was beginning, but he checked himself. “I must ask what it is you want of me.”
+
+“What can I want? All I can want is that you should not desert me, as you think of doing,” she said, understanding all he had not uttered. “But that I don’t want; that’s secondary. I want love, and there is none. So then all is over.”
+
+“Why didn’t I die?” and the words and the feeling of that time came back to her. And all at once she knew what was in her soul. Yes, it was that idea which alone solved all. “Yes, to die!… And the shame and disgrace of Aleksey Aleksandrovich and of Seryozha, and my terrible shame, it will all be saved by death. To die! And he will feel remorse; will be sorry; will love me; he will suffer on my account.”
+
+==“Abandon me, abandon me!” she articulated between her sobs. “I’ll go away tomorrow … I’ll do more. What am I? An immoral woman! A stone around your neck. I don’t want to make you wretched; I don’t want to! I’ll set you free. You don’t love me; you love someone else!”==
+
+==Vronsky besought her to be calm, and declared that there was not the slightest foundation for her jealousy; that he had never ceased, and would never cease, to love her; that he loved her more than ever.==
+
+==“Anna, why distress yourself and me so?” he said to her, kissing her hands. There was tenderness now in his face, and she thought she caught the sound of tears in his voice, and she felt them wet on her hand. And instantly Anna’s despairing jealousy changed to a despairing passion of tenderness. She put her arms around him, and covered with kisses his head, his neck, his hands.==
+
+“Oh, you know what for; for your sake and your children’s in the future.”
+
+“There won’t be children in the future.”
+
+“That’s a great pity,” he said.
+
+“You want it for the children’s sake, but you don’t think of me?” she said, quite forgetting or not having heard that he had said, “_For your sake_ and the children’s.”
+
+The question of the possibility of having children had long been a subject of dispute and irritation to her. His desire to have children she interpreted as a proof he did not prize her beauty.
+
+“Were you really in love?” she said to Yashvin.
+
+“Oh, heavens! Very many times! But you see, some men can play cards and yet always be ready to lay down their cards when the hour comes for a rendezvous, while I can have an affair and yet never be late for my cards in the evening. That’s how I manage things.”
+
+“If he comes in spite of what the maid says, it means that he loves me still. If not, it means that all is over, and then I will decide what I’m to do!…”
+
+In the evening she heard the rumbling of his carriage stop at the entrance, his ring, his steps, and his conversation with the servant; he believed what was told him, did not care to find out more, and went to his own room. So then everything was over.
+
+⁠⁠And death rose clearly and vividly before her mind as the sole means of bringing back love for her in his heart, of punishing him and of gaining the victory in that strife which the evil spirit in possession of her heart was waging with him.
+
+Now nothing mattered: going or not going to Vozdvizhenskoe, getting or not getting a divorce from her husband—all that did not matter. The one thing that mattered was punishing him.⁠
+
+“What was it he sought in me? Not love so much as the satisfaction of vanity.” She remembered his words, the expression of his face, which recalled an abject setter-dog, in the early days of their love affair. And everything now confirmed this. “Yes, there was the triumph of success in him. Of course there was love too, but the chief element was the pride of success. He boasted of me. Now that’s over. There’s nothing to be proud of. Nothing to be proud of, only to be ashamed of. He has taken from me all he could, and now I am no use to him. He is weary of me and is trying not to be dishonorable in his behavior toward me. He let that out yesterday—he wants divorce and marriage so as to burn his ship. He loves me, but how? The zest is gone, as the English say. That fellow wants everyone to admire him and is very much pleased with himself,” she thought, looking at a red-cheeked clerk riding on a hired horse. “Yes, there’s not the same flavor about me for him now. If I go away from him, at the bottom of his heart he will be glad.”
